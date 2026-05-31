@@ -1,0 +1,233 @@
+Votation populaire
+du 27 novembre 2016
+Explications du Conseil fédéral
+
+Initiative populaire
+« Pour la sortie programmée
+de l'énergie nucléaire
+(Initiative « Sortir du
+nucléaire ») »
+
+Schweizerische Eidgenossenschaft
+Confédération suisse
+Confederazione Svizzera
+Confederaziun svizra
+
+2
+
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 4. Meaning that the model was reciting from copyrighted material.]
+
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 4. Meaning that the model was reciting from copyrighted material.]
+
+L'essentiel en bref
+
+La Suisse compte cinq centrales nucléaires, qui produisent ensemble quelque 40 % de l'électricité suisse. Ces centrales disposent toutes d'une autorisation d'exploitation d'une durée illimitée, ce qui signifie qu'elles peuvent fonctionner aussi longtemps qu'elles sont jugées sûres. Le Conseil fédéral s'est prononcé en faveur d'une sortie progressive du nucléaire : la Stratégie énergétique 2050¹ prévoit en effet que les centrales nucléaires aujourd'hui en service ne seront pas remplacées lorsqu'elles arriveront en fin de vie. En d'autres termes, il ne serait plus construit de nouvelles centrales nucléaires.
+
+Situation actuelle
+
+L'initiative veut elle aussi interdire la construction de nouvelles centrales. Mais elle veut en plus limiter la durée d'exploitation des centrales existantes : ainsi, si elle est acceptée, les centrales de Beznau 1 et de Beznau 2 et celle de Mühleberg devront être mises hors service en 2017, celle de Gösgen, en 2024, et celle de Leibstadt, en 2029. Enfin, elle veut que la Confédération agisse pour limiter la consommation d'énergie, pour améliorer l'efficacité énergétique et pour promouvoir les énergies renouvelables.
+
+Que demande l'initiative ?
+
+Le Conseil fédéral et le Parlement rejettent l'initiative parce qu'elle entraînerait la fermeture prématurée des centrales nucléaires suisses. Il serait en effet impossible de compenser à temps l'abandon de l'électricité nucléaire au moyen d'une électricité issue d'énergies renouvelables et produite en Suisse. Nous serions donc contraints d'importer de grandes quantités d'électricité au cours des prochaines années, ce qui non seulement affaiblirait la sécurité de notre approvisionnement mais constituerait en outre un non-sens écologique, puisque l'électricité produite à l'étranger provient souvent de centrales à charbon. D'autre part, les exploitants pourraient exiger que la Confédération – et donc le contribuable – les dédommage pour les investissements qu'ils ont faits sur la foi de la réglementation en vigueur. Le Conseil fédéral préfère miser sur une sortie progressive du nucléaire, qui laissera au pays le temps de réformer son approvisionnement énergétique.
+
+Position du Conseil fédéral et du Parlement
+
+¹ L'objet était encore en cours d'examen au Parlement au moment où étaient imprimées les présentes « Explications du Conseil fédéral ».
+5
+
+L'objet en détail
+
+La Suisse compte cinq centrales nucléaires, qui ont été mises en service entre 1969 et 1984 : Beznau 1, Beznau 2, Mühleberg, Gösgen et Leibstadt. Ces centrales disposent toutes d'une autorisation d'exploitation d'une durée illimitée, ce qui signifie qu'elles peuvent fonctionner aussi longtemps qu'elles sont jugées sûres. Les exploitants sont tenus de prendre toutes les mesures nécessaires pour assurer et même améliorer en permanence la sécurité des installations. Ils sont contrôlés par l'Inspection fédérale de la sécurité nucléaire (IFSN), qui peut ordonner l'arrêt immédiat d'une centrale. Les cinq centrales nucléaires produisent ensemble quelque 40 % de l'électricité suisse. En hiver, lorsque la consommation d'électricité est particulièrement importante et que les centrales hydrauliques produisent moins, elles sont essentielles pour la sécurité de l'approvisionnement.
+
+La situation aujourd'hui
+
+Survenu en 2011, l'accident de Fukushima a amené la même année le Conseil fédéral et le Parlement à adopter le principe d'une sortie du nucléaire, prévoyant d'une part qu'il serait désormais interdit de construire de nouvelles centrales nucléaires en Suisse, d'autre part que les centrales déjà en service continueraient d'être exploitées tant qu'elles seraient sûres. Cette décision suppose cependant que la Suisse réforme son approvisionnement énergétique. C'est la raison pour laquelle le Conseil fédéral a soumis au Parlement la Stratégie énergétique 2050², qui prévoit des mesures de réduction de la consommation énergétique, d'amélioration de l'efficacité énergétique et d'augmentation de la part des énergies renouvelables, ainsi que l'inscription dans la loi sur l'énergie nucléaire de l'interdiction de construire de nouvelles centrales.
+
+La sortie du nucléaire est d'ores et déjà engagée
+
+2 L'objet était encore en cours d'examen au Parlement au moment où étaient imprimées les présentes « Explications du Conseil fédéral ».
+6
+
+Ce que veut l'initiative
+
+L'initiative veut inscrire dans la Constitution l'interdiction de construire de nouvelles centrales nucléaires et la limita-tion de la durée de vie des centrales déjà en service. Le calendrier est le suivant : fermeture de Beznau 1 un an après l'acceptation de l'initiative, et fermeture des quatre autres centrales 45 ans après leur mise en service. Or, si l'initiative est acceptée, le nouvel article constitutionnel serait appli-cable immédiatement, ce qui signifie que trois des cinq cen-trales devraient être fermées dès 2017.
+
+Calendrier des fermetures des centrales induit par l'initiative :
+
+| Bezna u 1 | Bezna u 2 | Mühleberg³ | Gösgen | Leibstadt |
+|---|---|---|---|---|
+| 2017 | 2017 | 2017 | 2024 | 2029 |
+| en service depuis 1969 | en service depuis 1972 | en service depuis 1972 | en service depuis 1979 | en service depuis 1984 |
+
+L'initiative veut en outre que la Confédération revoie sa politique énergétique de façon à promouvoir les économies d'énergie, l'utilisation efficace de l'énergie et les énergies renouvelables. Telles sont également les priorités de la Stratégie énergétique 2050.
+
+Un oui à l'initiative provoquerait une chute immédiate de la production suisse d'électricité, puisque la fermeture de trois centrales en 2017 réduirait d'environ un tiers la production d'électricité nucléaire. Mais il serait impossible de compenser à un rythme suffisamment rapide la part manquante au moyen d'une électricité issue d'énergies renouvelables et produite en Suisse. Nous serions donc contraints d'importer de grandes quantités d'électricité, principalement de France et d'Allemagne. Or, cette électricité provient souvent de centrales nucléaires ou même de centrales à charbon, très polluantes.
+
+La Suisse devrait augmenter ses importations d'électricité
+
+3 Pour des raisons de stratégie d'entreprise, la société BKW Énergie SA a décidé en 2013 de fermer en 2019 la centrale nucléaire de Mühleberg.
+7
+
+Notre infrastructure de réseau n'est pas suffisante pour nous permettre d'augmenter sensiblement nos importations d'électricité. Seuls un développement et une adaptation rapides des lignes électriques et des transformateurs, notamment, seraient à même de garantir la sécurité de notre approvisionnement.
+
+Augmenter les importations suppose d'adapter l'infrastructure de réseau
+
+Si l'initiative est acceptée, il est probable que les exploitants des centrales nucléaires demanderont à être dédommagés par la Confédération, notamment pour les investissements qu'ils ont réalisés sur la foi de la réglementation en vigueur et de l'autorisation d'exploitation de durée illimitée qui leur avait été accordée⁴.
+
+Les exploitants demanderont sans doute à être dédommagés
+
+Un oui à l'initiative aurait également des conséquences sur le fonds de désaffectation, qui assure le financement de la désaffectation et du démantèlement des installations nucléaires mises hors service, et sur le fonds de gestion, qui doit ensuite couvrir les coûts liés à la gestion des déchets d'exploitation et des éléments combustibles irradiés. Ces fonds sont alimentés par les contributions que versent chaque année les exploitants des centrales et que ceux-ci devront continuer à verser même si les centrales sont arrêtées plus tôt que prévu et ne leur rapportent donc plus rien. Or, si les exploitants ne peuvent plus payer, c'est là encore la Confédération qui en dernier recours devra mettre la main à la poche.
+
+Désaffectation des centrales, gestion des déchets radioactifs : quelles conséquences financières ?
+
+⁴ La Confédération a été amenée par deux fois à ce jour à indemniser des promoteurs de centrales nucléaires, la première en 1989, en contrepartie de l'abandon du projet de Kaiseraugst, la seconde en 1996, sur décision du Tribunal fédéral, au titre de réparation pour la non-réalisation du projet de Graben.
+8
+
+Texte soumis au vote
+
+Arrêté fédéral
+sur l'initiative populaire «Pour la sortie programmée de l'énergie
+nucléaire (Initiative «Sortir du nucléaire»»
+
+du 18 mars 2016
+
+L'Assemblée fédérale de la Confédération suisse,
+vu l'art. 139, al. 5, de la Constitution¹,
+vu l'initiative populaire «Pour la sortie programmée de l'énergie nucléaire
+(Initiative «Sortir du nucléaire»» déposée le 16 novembre 2012²,
+vu le message du Conseil fédéral du 4 septembre 2013³,
+arrête:
+
+Art. 1
+¹ L'initiative populaire du 16 novembre 2012 «Pour la sortie programmée de
+l'énergie nucléaire (Initiative «Sortir du nucléaire»» est valable et sera soumise au
+vote du peuple et des cantons.
+² Elle a la teneur suivante:
+
+I
+La Constitution est modifiée comme suit:
+
+Art. 90 Energie nucléaire
+¹ L'exploitation de centrales nucléaires destinées à produire de l'électricité ou de la
+chaleur est interdite.
+² La législation d'exécution se fonde sur l'art. 89, al. 2 et 3; elle met l'accent sur les
+mesures visant à économiser l'énergie, sur l'utilisation efficace de l'énergie et sur la
+production d'énergies renouvelables.
+
+II
+Les dispositions transitoires de la Constitution sont modifiées comme suit:
+
+1 RS 101
+2 FF 2013 569
+3 FF 2013 6771
+
+§ Art. 197, ch. 94
+
+9. Disposition transitoire ad art. 90 (Energie nucléaire)
+
+1 Les centrales nucléaires existantes doivent être mises hors service définitivement selon les modalités suivantes:
+a. la centrale de Beznau 1: un an après l'acceptation de l'art. 90 par le peuple et les cantons;
+b. les centrales de Mühleberg, de Beznau 2, de Gösgen et de Leibstadt: 45 ans après leur mise en service.
+
+2 La mise hors service anticipée d'une centrale dans le but de préserver la sécurité nucléaire est réservée.
+
+Art. 2
+
+L'Assemblée fédérale recommande au peuple et aux cantons de rejeter l'initiative.
+
+4 Le numéro définitif de la présente disposition transitoire sera fixé par la Chancellerie fédérale après le scrutin.
+
+10
+
+Les arguments du comité d'initiative
+
+OUI à la sortie programmée de l'énergie nucléaire
+
+La sortie programmée du nucléaire que nous proposons est gage de sécurité accrue pour la population. Elle définit les modalités de l'arrêt progressif des centrales nucléaires suisses, qui s'étalera jusqu'en 2029. Ce calendrier complète la Stratégie énergétique de la Confédération et permettra aux entreprises et aux compagnies d'électricité de mieux planifier leur activité.
+
+Le remplacement progressif de l'électricité nucléaire par les énergies renouvelables est possible et a déjà commencé. Cette mutation est source de sécurité d'approvisionnement, d'opportunités pour les entreprises et d'emplois nouveaux et durables.
+
+Assurer la sécurité et la protection du pays
+
+Il se produit régulièrement des accidents nucléaires graves – on l'a encore vu en 2011 avec Fukushima. On n'ose pas imaginer les conséquences qu'un tel accident aurait chez nous, compte tenu de la densité de la population qui entoure les cinq centrales en activité en Suisse. Dans un rayon de 50 km se trouvent pas moins de 13 capitales cantonales : en cas d'accident nucléaire grave, le nombre des personnes à évacuer pourrait ainsi atteindre le million, et une grande partie de la Suisse serait contaminée par la radioactivité. C'est pourtant cette même Suisse qui ne craint pas d'exploiter le plus vieux parc nucléaire au monde.
+
+Un plan de sortie progressive du nucléaire jusqu'en 2029 clarifie la situation
+
+Si le principe de l'abandon du nucléaire n'est plus contesté par personne, il manque un véritable plan de sortie. La présente initiative populaire garantit que les cinq centrales nucléaires seront arrêtées de manière programmée et progressive, la dernière en 2029. Ce calendrier offre aux particuliers comme aux entreprises la sécurité dont ils ont besoin pour investir dans le développement des énergies renouvelables. L'initiative permet également d'éviter que ne soient produits encore plus de déchets nucléaires hautement radioactifs.
+
+Les énergies renouvelables garantissent un approvisionnement sûr
+
+La Suisse est pleine d'énergie. Nous pouvons remplacer l'électricité nucléaire par de l'électricité issue de l'eau, du soleil, du vent et de la biomasse – soit par une énergie indigène, renouvelable et efficace. Sortir du nucléaire, c'est renforcer aussi bien l'énergie hydraulique que la sécurité de l'approvisionnement. Nombreuses sont les entreprises industrielles ou commerciales, notamment les PME, qui œuvrent d'ores et déjà à cet avenir énergétique, en créant des emplois et donc de la valeur ajoutée dans toutes les régions du pays. Ce sont là des fondations solides sur lesquelles nous pouvons construire notre avenir énergétique. Pour toutes ces raisons, dites OUI à la sortie programmée de l'énergie nucléaire.
+
+Pour de plus amples informations : www.sortie-programmee-nucleaire.ch 11
+
+Les arguments du Conseil fédéral
+
+L'initiative entraînerait pour la Suisse de graves inconvénients. En précipitant la fermeture des centrales nucléaires suisses, elle nous contraindrait à augmenter nos importations d'électricité – une électricité souvent produite par des centrales nucléaires ou à charbon. Ce serait aberrant sur le plan écologique et aggraverait la dépendance énergétique de la Suisse. Le Conseil fédéral préfère miser sur une sortie du nucléaire qui laisse au pays le temps d'effectuer la transition vers les énergies renouvelables. Plus particulièrement, il rejette l'initiative pour les raisons suivantes :
+
+Les centrales nucléaires suisses peuvent aujourd'hui être exploitées tant qu'elles sont jugées sûres. Les exploitants, qui sont placés sous la surveillance de l'Inspection fédérale de la sécurité nucléaire (IFSN), sont tenus de veiller à ce qu'elles répondent toujours à l'état le plus récent de la technique du rééquipement. Il n'y a pas lieu de revenir sur cette solution éprouvée.
+
+Remplacer la majeure partie de l'électricité nucléaire par de l'électricité issue de l'eau, du soleil, du vent ou de la biomasse et produite en Suisse suppose d'approuver, de financer et de construire d'abord les installations nécessaires, et prendra donc du temps : l'initiative méconnaît cette réalité. La Suisse ne serait pas en mesure de produire dès 2017 des énergies renouvelables en quantité suffisante.
+
+Un oui à l'initiative aggraverait la dépendance énergétique de la Suisse vis-à-vis de l'étranger : fermer prématurément les centrales nous obligerait en effet à augmenter considérablement nos importations d'électricité. En outre, cela reviendrait à remplacer la plus grande partie de l'électricité nucléaire suisse par de l'électricité étrangère, voire par de l'électricité produite par des centrales à charbon, très polluantes.
+
+La sécurité est déjà une priorité absolue
+
+Le délai imparti pour la mise hors service est trop serré
+
+Notre dépendance énergétique vis-à-vis de l'étranger augmenterait
+
+12
+
+Une augmentation massive des importations d'électricité risquant de provoquer une surcharge du réseau, il faudrait renforcer rapidement l'infrastructure électrique. Mais cela prendrait des années et coûterait très cher. L'initiative menacerait donc la sécurité de notre approvisionnement en électricité.
+
+La sécurité de notre approvisionnement en électricité serait menacée
+
+Limiter la durée d'exploitation des centrales reviendrait à changer les règles du jeu en cours de partie. Les exploitants ne pourraient plus amortir les investissements qu'ils ont réalisés sur la foi de la réglementation en vigueur et de l'autorisation d'exploitation de durée illimitée qui leur avait été accordée. Aussi ont-ils d'ores et déjà annoncé le dépôt de demandes d'indemnisation à hauteur de plusieurs milliards de francs. Si ces demandes devaient aboutir, c'est à la Confédération, et donc au contribuable, qu'il reviendrait de verser les dédommagements demandés. De plus, si la fermeture avant terme des centrales devait amener les exploitants à ne plus pouvoir payer pour la désaffectation des installations et la gestion des déchets radioactifs, le contribuable risquerait d'être à nouveau sollicité.
+
+Un risque financier pour la Confédération et donc pour le contribuable
+
+L'initiative promet davantage qu'elle ne peut tenir, car remplacer l'électricité nucléaire par de l'électricité propre et produite en Suisse ne se fera pas en un jour. Réformer notre approvisionnement énergétique demandera au contraire du temps. Pour le Conseil fédéral, il vaut donc mieux sortir du nucléaire au rythme du déploiement des énergies renouvelables indigènes. Ce ne serait pas rendre service à la Suisse que de faire le choix d'une fermeture prématurée des centrales, qu'il faudrait ensuite payer au prix fort sous la forme d'importations massives d'électricité.
+
+Réformer notre approvisionnement énergétique prendra du temps
+
+Pour toutes ces raisons, le Conseil fédéral et le Parlement vous recommandent de rejeter l'initiative « Pour la sortie programmée de l'énergie nucléaire (Initiative « Sortir du nucléaire ») ».
+
+13
+
+14
+
+15
+
+PP
+Envoi postal
+
+Envois en retour au contrôle
+des habitants de la commune
+
+Recommandation de vote
+
+Le Conseil fédéral et le Parlement
+vous recommandent de voter,
+le 27 novembre 2016 :
+
+Non à l'initiative populaire
+« Pour la sortie programmée de
+l'énergie nucléaire (Initiative
+« Sortir du nucléaire ») »
+
+Bouclage :
+24 août 2016
+
+La vidéo explicative :
+www.admin.ch/videos
+
+Pour de plus amples informations :
+www.admin.ch
+www.parlement.ch
+www.ch.ch
+
+Publié par la Chancellerie fédérale
+
+868002948/2933

@@ -1,0 +1,1419 @@
+Premier objet
+Modification de la loi sur l'armée (Armée XXI)
+
+1
+
+La question à laquelle vous devez répondre est la suivante: Acceptez-vous la modification du 4 octobre 2002 de la loi sur l'armée (Armée XXI)? Le Conseil national a adopté la loi par 112 voix contre 37, le Conseil des États à l'unanimité.
+
+Texte soumis au vote p. 60–75
+
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 4. Meaning that the model was reciting from copyrighted material.]
+
+Qu'apporte la réforme?
+
+Différences principales entre l'armée actuelle et l'armée XXI
+
+Armée actuelle: armée 95
+Future armée: armée XXI
+
+Effectifs de l'armée
+350 000 militaires
+220 000 militaires (140 000 actifs et 80 000 réservistes)
+
+Nombre de jours de service
+300 pour les soldats, 460 pour les caporaux et les sergents, 900 pour les capitaines
+environ 260 pour les soldats, entre 260 et 430 pour les caporaux et les sergents, 760 pour les capitaines (commandants d'unité)
+
+Âge du licenciement
+42 ans pour les soldats et les sous-officiers
+30 ans pour les soldats, les caporaux et les sergents (34 ans au plus tard)
+
+Durée du recrutement
+1 jour
+2 ou 3 jours (comptant comme jours de service)
+
+Durée de l'école de recrues
+15 semaines
+18 ou 21 semaines selon l'incorporation
+
+Cours de répétition (cas général)
+10 CR de 19 jours chacun, tous les deux ans entre 21 et 42 ans
+après une école de recrues de 21 semaines: 6 CR de 19 jours chacun, chaque année entre 21 et 26 ans
+après une école de recrues de 18 semaines: 7 CR de 19 jours chacun, chaque année entre 21 et 27 ans
+
+Réserve
+militaires ayant accompli les services d'instruction mais n'étant pas encore libérés du service militaire
+militaires entre 27 et 30 ans, voire jusqu'à 34 ans (en cas de report de CR)
+
+Militaires en service long
+—
+jusqu'à 15% des recrues de chaque année civile pourront (s'ils le veulent) accomplir la totalité de leurs services d'instruction (300 jours) en une seule fois
+
+Structure de l'armée
+compagnies, bataillons (ou groupes), régiments, brigades, divisions, corps d'armée
+compagnies, bataillons (ou groupes), brigades, régions territoriales
+
+Instruction militaire
+aucune certification reconnue
+certification reconnue par les milieux économiques
+
+Femmes dans l'armée (volontariat)
+aucun accès aux fonctions de combat
+accès à toutes les fonctions
+
+Arguments des comités référendaires:
+
+«Notre armée de milice est un élément de notre système étatique. Elle doit protéger le pays et la population et garantir la neutralité. Elle doit donc rester en dehors de toute alliance. Ce n'est qu'ainsi que l'on peut mener une politique de paix active. À une époque où la guerre ne constitue malheureusement plus la solution ultime, la Suisse doit pouvoir assumer en toute crédibilité les tâches qui lui incombent dans le domaine de la promotion de la paix, à savoir organiser des négociations et des conférences de paix sur sol neutre, offrir ses bons offices pour contribuer à désamorcer des conflits et maintenir la confiance dans l'aide humanitaire neutre.
+
+La nouvelle loi sur l'armée et Armée XXI sont en contradiction avec ces objectifs. Elles sont le fruit d'une fâcheuse évolution de la politique étrangère. En 1996, le conseiller fédéral Flavio Cotti – alors chef du DFAE – avait signé des accords avec l'OTAN qui portaient sur la participation au Partenariat pour la Paix (PPP) et au Conseil de Partenariat euro-atlantique (CPEA). Aux termes de ces accords, ces deux organes de l'OTAN ont un rôle important à jouer dans le «processus évolutif» d'élargissement de l'Alliance. Depuis 1998, le Conseil fédéral détermine donc chaque année avec l'OTAN les domaines dans lesquels il rend l'armée compatible avec l'OTAN. Ni les parlementaires ni le peuple n'ont accès à la version originale – en anglais – de ce qui est convenu (objectifs PARP).
+
+En 1999, l'OTAN s'est dotée d'une nouvelle doctrine, passant du statut d'alliance défensive à celui d'alliance offensive. Placée sous haut commandement américain, elle mène désormais aussi des opérations militaires en dehors du territoire de l'Alliance, le cas échéant sans mandat de l'ONU.
+
+L'armée XXI a été conçue en fonction de cette nouvelle OTAN et de la future force de combat de l'UE. Ce n'est pas une armée pour un pays neutre et pacifique. Même d'après certains concepteurs militaires, elle ne sera pas en mesure de défendre la Suisse et elle nous rendra tributaires d'alliances militaires. C'est pourquoi le projet est contraire à la Constitution (art. 58, 173 et 185 Cst.). L'armée doit continuer d'assurer l'autodétermination et la sécurité de la population, en restant en dehors de toute alliance.
+
+Le Conseil fédéral et le Parlement veulent, grâce à la loi, s'autoriser à régler les questions militaires importantes par voie d'ordonnance. Or, comme les ordonnances ne passent pas en votation populaire, le souverain n'aurait plus, dans ce cas de figure, la possibilité de participer aux décisions importantes et d'exercer son contrôle sur l'armée. Il faut refuser la nouvelle loi sur l'armée, car elle soustrait les affaires militaires au contrôle de la démocratie directe, elle enfreint la Constitution, elle rend le pays dépendant et elle ruine la neutralité.»
+
+8
+
+Avis du
+Conseil fédéral
+
+1
+
+La réforme est nécessaire
+pour que l'armée puisse
+remplir sa mission avec
+efficacité et rentabilité dans
+un environnement qui a
+changé. L'armée XXI a été
+conçue en fonction des
+menaces et des dangers
+actuels, elle sera modulable,
+elle pourra être engagée
+avec souplesse et elle
+apportera des améliorations
+à l'instruction et à l'équipe-
+ment. Le système de milice
+sera maintenu, et les
+besoins des milieux écono-
+miques et de la société
+seront pris en compte du fait
+que les militaires seront
+libérés du service plus tôt
+qu'avant. Le Conseil fédéral
+approuve le projet, notam-
+ment pour les raisons
+suivantes:
+
+armée à la nouvelle donne. L'armée suisse
+non seulement peut être réformée, mais
+elle doit l'être: sa taille peut être réduite,
+son instruction et son équipement doivent
+être améliorés, et elle doit être financière-
+ment supportable. En revanche, ses mis-
+sions, le système de milice et la neutralité
+armée resteront inchangés.
+
+Une meilleure instruction
+L'allongement de l'école de recrues per-
+mettra d'améliorer l'instruction des sol-
+dats et des cadres, et le rythme annuel – et
+non plus bisannuel – des cours de répéti-
+tion permettra de maintenir le niveau
+élevé de cette instruction. L'instruction et
+l'engagement des officiers et des sous-
+officiers seront axés davantage sur les
+tâches de commandement et moins sur
+les tâches administratives.
+
+Une plus grande souplesse
+dans les engagements
+L'armée XXI se caractérisera par une
+souplesse accrue. En cas d'événement
+soudain (p. ex. une catastrophe naturelle),
+les forces nécessaires pourront être enga-
+gées immédiatement. Mais la disponibilité
+de la plus grande partie de l'armée ne de-
+vra pas être aussi élevée, car à la plupart
+des menaces et des dangers correspon-
+dent des délais de préalerte de plusieurs
+mois ou années. Grâce à l'échelonnement
+de cette disponibilité, on pourra recourir
+en temps utile aux forces nécessaires,
+sans qu'il faille maintenir de grandes par-
+ties de l'armée à un niveau de disponibilité
+inutilement élevé et coûteux. Ce système
+
+Une nouvelle donne
+Le monde a subi de profondes mutations
+au cours des 15 dernières années, notam-
+ment sur le plan de la politique de sécurité
+et sur le plan militaire. Conséquence: de
+nombreux pays européens ont adapté leur
+
+9
+
+permet aussi d'accroître la souplesse en ce sens que l'armée est conçue selon un système modulaire grâce auquel on peut constituer les formations en fonction des interventions.
+
+Une réponse aux besoins des milieux économiques et de la société
+Employeurs, travailleurs et familles souhaitent voir diminuer les contraintes temporelles dues au service militaire. Armée XXI répond à ces attentes. Les soldats quitteront en principe l'armée à 30 ans; les 4 dernières années de leur obligation de servir, ils feront partie de la réserve et ne seront plus convoqués. Même les officiers et les sous-officiers quitteront l'armée bien plus tôt qu'aujourd'hui. Le service militaire sera, d'une manière générale, plus court et plus concentré. Officiers et sous-officiers auront donc la possibilité de monter en grade plus rapidement, ce qui – ajouté à la meilleure instruction des cadres – renforcera l'attrait de la carrière militaire. Ce système permettra de prendre en compte tant les intérêts des milieux économiques et de la société que ceux de l'armée.
+
+Un meilleur usage des moyens financiers
+L'armée doit se contenter de moins d'argent: au cours des 15 dernières années, le budget de la défense a diminué de plus d'un tiers en termes réels, alors que les dépenses d'équipement et d'armement que l'armée doit consentir pour remplir ses tâches ne cessent d'augmenter.
+
+Armée XXI permettra d'utiliser plus efficacement l'argent disponible: la diminution des effectifs et l'amélioration de l'efficacité du système d'approvisionnement permettront d'économiser de l'argent, qui pourra être investi dans la modernisation de l'instruction, de l'équipement et de l'armement.
+
+Un mandat constitutionnel pleinement rempli
+La réforme qui s'annonce est une réforme en profondeur. Contrairement à ce qu'affirment certains milieux, la nouvelle armée remplira elle aussi pleinement son mandat constitutionnel, à savoir contribuer à prévenir la guerre et à maintenir la paix, assurer la défense du pays et de sa population, et apporter son soutien aux autorités civiles en cas de besoin. L'armée XXI sera à même de remplir ce mandat. Elle restera conforme au principe de milice; la légère augmentation du nombre des militaires de métier servira surtout à améliorer l'instruction et à soutenir davantage les cadres de milice. Avec Armée XXI également, la Suisse restera attachée à la neutralité: une adhésion à l'OTAN n'est pas à l'ordre du jour. Enfin, les compétences du Parlement seront étendues, alors que celles du Conseil fédéral seront légèrement réduites.
+
+Pour toutes ces raisons, le Conseil fédéral et le Parlement vous recommandent d'accepter la modification de la loi sur l'armée (Armée XXI).
+
+10
+
+Deuxième objet
+
+Loi fédérale sur la protection de la population et sur la protection civile
+
+La question à laquelle vous devez répondre est la suivante:
+Acceptez-vous la loi fédérale du 4 octobre 2002 sur la protection de la population et sur la protection civile (LPPCI)?
+
+Le Conseil national a adopté la loi par 156 voix contre 1, le Conseil des États à l'unanimité.
+
+2
+
+Texte soumis au vote p. 76–95
+
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 4. Meaning that the model was reciting from copyrighted material.]
+
+12
+
+La protection civile, élément clé de la protection de la population
+
+En vertu de la nouvelle loi, la protection civile sera un partenaire important au sein du système coordonné de protection de la population: elle assurera des tâches de protection, de sauvetage et d'assistance aux côtés de la police, des sapeurs-pompiers, des services de la santé publique et des services techniques. Son organisation pourra être rationalisée et simplifiée grâce au système coordonné.
+
+Ce qui va changer dans la protection civile
+
+| | Protection civile actuelle | Future protection civile |
+|---|---|---|
+| Priorité | conflits armés/aide en cas de catastrophe et secours urgents | 1. aide en cas de catastrophe et secours urgents/ 2. conflits armés |
+| Effectifs | env. 280000 personnes (dont env. 80000 réservistes non instruits) | au maximum 120000 personnes (effectifs pouvant être augmentés en cas de conflit armé) |
+| Durée du service obligatoire | de l'âge de 20 ans à l'âge de 50 ans | de l'âge de 20 ans à l'âge de 40 ans |
+| Obligation de servir pour les militaires libérés du service militaire | oui | non |
+| Recrutement | incorporation dans la protection civile durée: 1 jour au maximum (rapport d'incorporation) | recrutement commun pour l'armée et la protection civile durée: 2 ou 3 jours (recrutement) |
+| Instruction de base | 5 jours au maximum | 2 à 3 semaines |
+| Cours de répétition | 2 jours par an au maximum | de 2 jours à 1 semaine par an au maximum |
+| Service volontaire | Suisses et étrangers | Suisses et étrangers |
+
+Arguments du comité référendaire:
+
+«La loi fédérale du 4. 10. 02 sur la protection de la population et sur la protection civile, qui consacre une nouvelle réglementation de la protection civile en Suisse, ne répond pas aux menaces actuelles qui pèsent sur notre population. Le texte de loi se fonde sur des hypothèses selon lesquelles la Suisse n’est pas exposée, à l’heure actuelle, à un risque de conflit armé, et selon lesquelles à une guerre correspond un délai de préalerte de plusieurs années. C’est pourquoi les responsables estiment qu’on aura suffisamment de temps pour mettre en œuvre ce que l’on appelle la «montée en puissance» (mobilisation et instruction de réservistes, constitution des réserves de crise qui font défaut, etc.).
+
+On sait que toutes ces hypothèses sont dépassées depuis le 11 septembre 2001, ayant été balayées par les réalités géopolitiques. On ne peut pas prendre la responsabilité de faire des coupes claires dans notre système de protection civile (réduction des effectifs, qui passeront de 270 000 à 105 000 personnes, réduction progressive – qui a déjà commencé – des places dans les structures sanitaires, mais aussi énorme perte d’expériences en raison du service obligatoire). L’actuel système de protection civile de la Suisse jouit d’un grand crédit de par le monde et est pris comme modèle.
+
+Le message du Conseil fédéral consacré à la nouvelle loi sur la protection de la population ne tient pas compte de la situation actuelle dans le monde. Dans diverses régions en crise, on évoque l’utilisation d’armes nucléaires. Aux guerres conventionnelles, aux dangers du terrorisme et aux catastrophes viennent désormais s’ajouter le risque d’attaques biologiques (par des États ou des terroristes). Une attaque à l’anthrax, à la toxine botulique ou au virus de la variole qui serait lancée chez nous ou dans un des États voisins provoquerait l’effondrement de notre système de santé à brève échéance. Nous avons besoin de toute urgence – voire, à certains égards, immédiatement – de toutes les forces dont dispose la protection civile. Ces forces doivent être étoffées et recevoir une instruction complémentaire dans l’éventualité d’attaques biologiques.
+
+En vertu de la nouvelle loi, les contributions financières de la Confédération seront supprimées dans divers domaines, ou elles ne permettront plus de couvrir les coûts. Par conséquent, les questions financières détermineront la qualité de la protection civile, ce qui va déboucher sur une protection civile à deux vitesses, où les cantons connaissant des difficultés financières assureront une moins bonne protection à leur population. Cette désolidarisation ne saurait être acceptée par la population suisse.
+
+La restructuration prévue dans la nouvelle loi affaiblira le système de milice et videra de sa substance le principe de l’ancrage communal. Par ailleurs, des organisations partenaires (sapeurs-pompiers, samaritains) connaîtront de toute façon plus de problèmes de recrutement. Dans le secteur de l’encadrement (foyers pour personnes âgées, asile), les besoins ne cessent d’augmenter. Il est dès lors discutable de vouloir affaiblir davantage précisément la protection civile. Il faut refuser la nouvelle loi parce qu’elle provoquera, pour ce qui est de la protection civile, des inégalités entre les populations des cantons aux finances saines et celles des cantons aux finances précaires. En ce qui concerne la protection de la population civile suisse, l’égalité de traitement – tant dans les faits que sur le plan juridique – de tous les habitants doit absolument rester garantie en période de crise comme en temps de guerre. Il faut réagir de manière appropriée aux menaces actuelles. Le texte de loi doit être remanié en ce sens.»
+
+13
+
+14
+
+Avis du
+Conseil fédéral
+
+Le Conseil fédéral, le
+Parlement et les cantons
+s'accordent à dire qu'il est
+important et judicieux de
+créer un système global
+de protection de la popu-
+lation. La nouvelle organi-
+sation sera plus simple,
+les compétences et les
+responsabilités des diffé-
+rents partenaires seront
+clairement définies, et les
+nouvelles structures sup-
+primeront tout ce qui fait
+double emploi. Équilibrée,
+la nouvelle répartition des
+tâches et des coûts jouit
+d'un large soutien de la
+part des milieux concer-
+nés. Pour tous les secteurs
+clés – organisation, ins-
+truction, financement – on
+tiendra ainsi compte du
+caractère fédéraliste de
+notre pays. Le Conseil
+fédéral approuve le projet,
+notamment pour les
+raisons suivantes:
+
+Une étroite collaboration dans un
+système coordonné
+Le contexte en matière de politique de
+sécurité a changé. Aujourd'hui, il ne s'agit
+plus, en premier lieu, d'assurer la protec-
+tion de la population en cas de conflit
+armé, mais bien de maîtriser les catas-
+trophes, qu'elles soient d'origine naturelle
+ou technique, tout comme les actes terro-
+ristes. Pour pouvoir faire face à cet éven-
+tail de menaces plus large, il faut doter la
+protection de la population de structures
+souples, pouvant être adaptées, et assurer
+une bonne coordination, bien rodée, entre
+les partenaires. Cet objectif pourra être
+atteint grâce à la création d'un système
+coordonné de protection de la population,
+qui regroupera la police, les sapeurs-pom-
+piers, les services de la santé publique,
+les services techniques (eau, électricité,
+etc.) et la protection civile.
+
+Des solutions sur mesure
+Il arrive que les catastrophes naturelles
+aient une ampleur nationale, comme
+celles qui se sont produites ces dernières
+années (Lothar, inondations, avalanches).
+Quoi qu'il en soit, les interventions d'aide
+ou de secours doivent toujours être
+adaptées au contexte, mais aussi aux
+situations d'urgence et aux besoins de la
+population. On comprend aisément que les
+événements extraordinaires susceptibles
+de se produire ne sont, en général, pas les
+mêmes dans les régions de montagne que
+dans les agglomérations industrielles, par
+exemple. C'est pourquoi il est judicieux
+
+que la Confédération continue de remplir ses tâches de coordination dans le cadre de la protection de la population. Pour le reste, la nouvelle loi accorde une plus grande marge de manœuvre aux cantons et aux communes, qui auront la possibilité d’élaborer des solutions sur mesure. Ils pourront ainsi utiliser leurs ressources humaines, techniques et financières en fonction des besoins. Il va de soi que la Confédération restera pour eux un partenaire sur qui ils pourront compter: des unités spécialisées de l’armée continueront de fournir le soutien nécessaire dans le cadre de l’aide en cas de catastrophe.
+
+Priorité à la qualité
+
+Les effectifs élevés de la protection civile – qui se justifiaient pendant la guerre froide – font figure de vestiges du passé dans le contexte actuel de la politique de sécurité. Vu la situation sur le front des menaces, ils peuvent être fortement revus à la baisse, et vu la situation financière, ils doivent l’être. Mais une réduction des effectifs ne signifie pas pour autant une baisse de la qualité, bien au contraire: le nombre des interventions réelles des membres de la protection civile augmente, alors que celui des exercices fictifs dans la perspective d’événements peu probables diminue. À cela s’ajoute le fait que le nouveau système de recrutement permettra de mieux sélectionner les forces nécessaires, et que le renforcement de l’instruction améliorera la qualité. La population pourra donc compter sur des prestations d’aide encore plus efficaces en cas de catastrophe.
+
+Moins de contraintes et de dépenses
+
+La réforme permettra aussi de réduire les contraintes que subissent les membres de la protection civile, les milieux économiques et la société en général. Le service obligatoire commencera à l’âge de 20 ans.
+
+pour se terminer à l’âge de 40 ans au lieu de 50. Les militaires qui auront accompli leur service militaire ne seront plus astreints à servir dans la protection civile. Par ailleurs, une très grande transparence des coûts et une meilleure gestion des dépenses plaident aussi en faveur de la réforme de la protection de la population, qui va, dans l’ensemble, générer des économies importantes, ce qui est appréciable vu la situation financière difficile que connaissent la Confédération, les cantons et les communes.
+
+Maintien des ouvrages de protection
+
+Au cours de ces dernières décennies, face à la menace d’un conflit armé et du recours à des armes atomiques, biologiques ou chimiques, la Suisse a appliqué, à juste titre, le principe selon lequel tous ses habitants devaient disposer d’une place protégée dans un abri. Elle doit continuer sur cette voie, mais selon des modalités légèrement différentes. Ainsi, on pourra réduire la construction d’abris en raison du nombre élevé de places protégées disponibles. Il suffira de maintenir en bon état les installations existantes destinées à la population et de combler certaines lacunes, ce qui pourra être réalisé à moindres frais. On tiendra ainsi compte du nouveau contexte de la politique de sécurité tout en garantissant à long terme la protection de la population dans l’éventualité d’un conflit armé.
+
+Pour toutes ces raisons, le Conseil fédéral et le Parlement vous recommandent d’accepter la loi fédérale sur la protection de la population et sur la protection civile (LPPCI).
+
+16
+
+Troisième objet
+Initiative populaire
+«pour des loyers loyaux»
+
+La question à laquelle vous devez répondre est la suivante:
+Acceptez-vous l'initiative populaire «pour des loyers loyaux»?
+Le Conseil national a rejeté cette initiative par 102 voix contre 60, le Conseil des États par 35 voix contre 4.
+
+3
+
+L'essentiel
+en bref
+
+17
+
+Un sujet très discuté
+
+Environ 70% des habitants de notre pays sont locataires. La question des loyers donc traditionnellement l'objet de discussions politiques intenses. Le droit de bail actuel est entré en vigueur en 1990. Il devait apporter des solutions durables, mais depuis son adoption, bailleurs et locataires ne cessent de réclamer des amendements. Deux revendications prédominent: l'adaptation du montant des loyers et la protection contre les abus.
+
+Que demande l'initiative?
+
+L'Association suisse des locataires, qui a lancé l'initiative, demande que les baisses des taux hypothécaires, et pas seulement les hausses, soient répercutées sur les loyers. Voilà pourquoi elle veut que la variation du taux hypothécaire soit calculée sur la base de moyennes établies sur cinq ans. Elle veut encore réglementer autrement l'adaptation des loyers en cours de bail, renforcer les dispositions sur les loyers initiaux abusifs, limiter les hausses et les échelonner si l'immeuble change de propriétaire, étendre la protection des locataires contre les congés. Elle veut enfin que la législation prévoie des règles spéciales pour les loyers des logements d'utilité publique, dont les bailleurs sont des coopératives ou des fondations.
+
+Conséquences de l'initiative
+
+L'initiative permettrait certes de mieux répercuter les baisses des taux hypothécaires sur les loyers, mais elle ne supprime pas le lien problématique des loyers
+
+aux taux. Elle bétonne même la seule méthode d'adaptation des loyers qui resterait: celle du calcul en fonction des coûts du bailleur. Le marché du logement perdrait toute la souplesse voulue. En outre, l'extension de la protection contre les abus que l'initiative exige limiterait beaucoup trop les droits des propriétaires. Cela pourrait avoir des conséquences fâcheuses sur les investissements dans la construction de logements, dont pâtiraient à coup sûr les locataires.
+
+Position du Conseil fédéral
+et du Parlement
+
+Le Conseil fédéral et le Parlement rejettent cette initiative parce qu'elle est trop rigide, qu'elle s'appuie sur un système dépassé et qu'elle aurait des incidences indésirables sur le marché du logement. La modification du droit du bail que le Parlement a adoptée en décembre 2002 apporte des solutions bien plus convaincantes. Ce contre-projet indirect satisfait en effet certaines revendications justifiées de l'initiative sans en avoir les inconvénients. Il prévoit par exemple que l'augmentation des loyers ne sera plus liée à celle des taux hypothécaires, mais à l'inflation. Il apporte aussi une amélioration dans la manière d'apprécier le caractère abusif d'un loyer.
+
+Texte soumis au vote
+
+Arrêté fédéral relatif à l'initiative populaire «Pour des loyers loyaux»
+
+du 12 mars 2002
+
+(Préambule)
+
+Art. 1
+
+1 L'initiative populaire du 14 mars 1997 «Pour des loyers loyaux» est valable et sera soumise au vote du peuple et des cantons.
+
+2 L'initiative¹, adaptée à la Constitution du 18 avril 1999, a la teneur suivante:
+
+I
+
+La Constitution est modifiée comme suit:
+
+Art. 109, al. 1, 2e phrase, et al. 3 (nouveau)
+
+1 Elle [la Confédération] légifère pour protéger les locataires contre les loyers et autres prétentions abusifs des bailleurs, sur l'annulabilité des congés injustifiés et sur la prolongation du bail limitée dans le temps.
+
+3 Les dispositions selon l'al. 1 se fondent sur les principes suivants:
+
+a. les loyers initiaux sont abusifs lorsqu'ils permettent au bailleur d'obtenir un rendement excessif de la chose louée ou lorsqu'ils résultent de coûts excessifs. Sont excessifs les coûts qui entraînent des loyers supérieurs aux loyers statistiques moyens pour des objets comparables. Le capital exposé aux risques est rémunéré au maximum au taux des intérêts hypothécaires selon la let. b;
+
+b. en cours de bail, les loyers ne peuvent varier que dans la mesure nécessaire à compenser l'évolution prouvée des coûts depuis le début du bail, à rémunérer les prestations supplémentaires du bailleur et à sauvegarder le pouvoir d'achat du capital exposé aux risques. La variation du taux hypothécaire est calculée sur la base de moyennes établies sur cinq ans;
+
+c. en cas de transfert de l'immeuble, les loyers peuvent être adaptés au niveau admissible pour les loyers initiaux selon la lettre a. Les hausses doivent être échelonnées lorsqu'elles dépassent 10 %;
+
+d. les cantons peuvent prévoir que seules peuvent être facturées comme frais accessoires les prestations qui varient selon la consommation des locataires;
+
+e. les loyers initiaux, de même que les hausses de loyer et les autres prétentions du bailleur sont notifiés et motivés sur une formule officiellement autorisée, mentionnant qu'ils peuvent être contestés. A défaut, le loyer initial ne pourra dépasser le loyer du locataire précédent et les hausses et autres prétentions sont nulles;
+
+1 Ayant été déposée sous le régime de l'ancienne constitution, l'initiative populaire se référait encore à celle-ci. Dans le texte de l'initiative, le Parlement a adapté la numérotation et la présentation des articles à la nouvelle Constitution.
+
+19
+
+f. la législation peut prévoir des exceptions aux lettres a, b et c pour les loyers des logements d'utilité publique et pour les contrats-cadre ayant force obligatoire générale au sens de l'al. 2. Ces exceptions doivent toutefois offrir une protection équivalente contre les loyers et autres prétentions abusifs du bailleur. Des dispositions spéciales peuvent être appliquées aux loyers contrôlés par l'autorité;
+g. le bailleur doit prouver que son congé intervient pour un motif justifié. Le congé du bailleur est injustifié lorsqu'il ne répond pas à un intérêt digne de protection ou est disproportionné, en particulier lorsqu'il est prononcé:
+– parce que le locataire, de bonne foi, fait valoir ses droits ou pour l'empêcher de les faire valoir,
+– pour procéder à des modifications, rénovations ou démolitions disproportionnées,
+– pour augmenter le loyer du bail en cours ou d'un nouveau bail,
+– pour transformer l'immeuble en propriété par étage ou en une forme analogue de propriété,
+– pour amener le locataire à acquérir la chose louée.
+
+II
+
+Les dispositions transitoires de la Constitution sont modifiées comme suit:
+
+Art. 197, ch. 2 (nouveau)
+
+2. Dispositions transitoires ad art. 109 (Bail à loyer)
+1 Dans l'année suivant l'acceptation de l'art. 109, al. 1, 2e phrase, et al. 3, en votation populaire, le Conseil fédéral édicte, par voie d'ordonnance, les dispositions d'application nécessaires qui resteront en force jusqu'à l'entrée en vigueur de la législation. Ce faisant il peut déroger aux articles du titre huitième du Code des obligations contraires aux nouvelles dispositions constitutionnelles. Il prévoit que la moyenne des taux hypothécaires selon l'art. 109, al. 3, let. b, sera calculée durant les cinq premières années, sur la base de la moyenne des années écoulées depuis l'entrée en vigueur des dispositions d'application. Les loyers ne peuvent être modifiés que si le taux hypothécaire moyen varie d'au moins un demi-pourcent par rapport au taux sur lequel se fonde la dernière fixation de loyer.
+2 La Confédération, en collaboration avec les cantons, détermine dans les deux ans suivant l'acceptation de l'art. 109, al. 3, en votation populaire, les loyers statistiques d'objets locatifs comparables selon l'emplacement, la grandeur, l'équipement, l'état et l'époque de construction des immeubles.
+
+Art. 2
+
+L'Assemblée fédérale recommande au peuple et aux cantons de rejeter l'initiative.
+
+20
+
+Les grandes différences en résumé
+
+Droit actuel
+Initiative
+Contre-projet
+
+Quand un loyer est-il abusif?
+• Quand il entraîne un rendement excessif de la chose louée
+• Quand il résulte d'un prix d'achat manifestement excessif
+• Quand il entraîne un rendement excessif de la chose louée
+• Quand il résulte de coûts excessifs
+• Quand il dépasse de plus de 15% le loyer d'un logement comparable
+
+Quand le bailleur peut-il augmenter le loyer?
+• Si le taux hypothécaire a augmenté
+• Si les frais d'entretien et d'exploitation ont augmenté
+• S'il fournit des prestations supplémentaires
+• Pour maintenir le pouvoir d'achat du capital exposé aux risques
+• Pour adapter le montant du loyer aux loyers pratiqués dans le quartier
+• Si le taux hypothécaire lissé (calculé sur la base de moyennes établies sur 5 ans) a augmenté
+• Si les frais d'entretien et d'exploitation ont augmenté
+• S'il fournit des prestations supplémentaires
+• Pour maintenir le pouvoir d'achat du capital exposé aux risques
+• Une fois par an, en proportion de l'inflation calculée d'après la hausse de l'indice suisse des prix à la consommation (au maximum 100% de l'augmentation moyenne des 2 années civiles précédentes)
+• S'il fournit des prestations supplémentaires
+
+Quand le locataire peut-il exiger le contrôle de son loyer?
+Il peut demander une diminution de son loyer si les bases du calcul du loyer ont considérablement changé
+Il peut demander une diminution de son loyer si les bases du calcul du loyer (notamment le taux hypothécaire lissé) ont considérablement changé
+Tous les 5 ans, sur la base du loyer d'un logement comparable
+
+En cas de changement de propriétaire, quand le bailleur peut-il augmenter le loyer?
+S'il ne résulte pas d'un prix d'achat excessif
+S'il n'entraîne pas de rendement excessif ni ne résulte de coûts excessifs; dans ce cas, l'augmentation ne doit pas dépasser 10% par an du montant du loyer précédent
+Dans la mesure des loyers comparables, mais de 10% par an au maximum du montant du loyer précédent
+
+Quand le locataire peut-il contester le congé qui lui a été signifié?
+S'il est abusif
+En cas de motif injustifié, à charge pour le bailleur de prouver que le congé qu'il lui a signifié intervient pour un motif justifié
+S'il est abusif
+
+Arguments du comité
+d'initiative:
+
+21
+
+«Pour des loyers loyaux»
+
+Les locataires sont actuellement les dindons de la farce. Ils subissent les défauts du droit du bail existant et sont menacés par la révision votée fin 2002 par le Parlement fédéral qui provoquerait une avalanche de hausses des loyers. Pour cette raison, l'ASLOCA a lancé un référendum contre cet inacceptable contre-projet. Notre initiative «pour des loyers loyaux» représente donc l'unique solution raisonnable car elle seule garantit une modération à long terme des loyers.
+
+Aujourd'hui, lorsque le taux des intérêts hypothécaires augmente, les loyers sont fortement majorés. En revanche, quand le taux baisse, les loyers ne sont pas réduits ou pas assez. Cela a pour conséquence que les locataires paient injustement 5 milliards de francs par année aux propriétaires. Notre initiative garantit aux locataires de profiter automatiquement des baisses du taux hypothécaire.
+
+Notre initiative exclut les processus de hausses explosives des loyers, non seulement en cas de variation du taux hypothécaire mais aussi en cas de changement de locataire, de vente de l'immeuble et après des travaux de rénovation.
+
+Notre initiative améliore la protection contre les congés dont les locataires sont souvent victimes surtout en période de pénurie de logements, comme actuellement.
+
+Notre initiative corrige le droit actuel de manière raisonnable. Elle maintient le droit pour les propriétaires d'obtenir un bon rendement de leurs investissements. Les bailleurs honnêtes n'ont rien à craindre et la construction de logements n'est pas mise en danger. Seuls les bailleurs qui abusent ou qui spéculent sont visés par notre initiative. Par contre, l'initiative «pour des loyers loyaux» améliore à juste titre la protection des locataires, soit celle du 70% de la population.»
+
+22
+
+Avis du
+Conseil fédéral
+
+L'initiative est inadéquate parce qu'elle maintient le lien problématique des loyers aux taux hypothécaires et qu'elle veut que les loyers soient calculés uniquement en fonction des coûts des bailleurs. En outre, elle complique encore le droit de bail actuel. Ses revendications sont en partie justifiées, mais la modification du droit du bail votée par le Parlement permettra d'éliminer bien mieux les insuffisances du droit. Le Conseil fédéral rejette l'initiative notamment pour les raisons suivantes:
+
+Les points faibles du droit actuel
+Le droit de bail actuel a, en gros, trois points faibles: les loyers sont couplés au taux hypothécaire; les dispositions sur les loyers abusifs sont très difficiles à appliquer; enfin le droit du bail est au total si compliqué qu'il provoque de nombreux litiges entre locataires et bailleurs. La présente initiative ne résout aucun de ces problèmes.
+
+Le couplage des loyers aux taux hypothécaires est dépassé
+L'initiative veut maintenir la référence au taux hypothécaire pour le calcul des loyers. Contrairement au droit actuel, elle exige que la variation de ce taux soit calculée sur la base de moyennes établies sur cinq ans. Or le Conseil fédéral estime que cela ne supprimera pas les hausses des loyers si critiquées, car l'initiative renforce le lien très insatisfaisant des loyers au taux hypothécaire. Le Conseil fédéral et le Parlement veulent eux abandonner totalement ce système, étant donné que la répercussion des baisses des taux sur les loyers a rarement lieu, que les hausses des taux entraînent des augmentations massives des loyers et que la formation des prix sur le marché des hypothèques diffère totalement de la formation des prix sur le marché du logement. Enfin, le couplage en question ne peut fonctionner que si le taux hypothécaire est le même pour tous, ce qui est de moins en moins le cas.
+
+Le contre-projet est plus adéquat
+
+Le contre-projet¹ indirect voté par le Parlement en décembre 2002 introduisit une nouveauté de taille: l'indexation des loyers sur l'inflation, qui est calculée d'après l'évolution de l'indice suisse des prix à la consommation et qui remplace l'adaptation des loyers d'après les taux hypothécaires. Le Conseil fédéral et le Parlement veulent que l'évolution des loyers soit désormais plus régulière et qu'il n'y ait plus de hausses brutales. Comme les salaires progressent généralement en fonction de l'inflation, l'augmentation des loyers devrait se faire au même rythme que l'augmentation des salaires.
+
+Protection contre les congés: l'initiative va trop loin
+
+L'initiative veut étendre considérablement la protection des locataires contre les congés. Elle donne une liste de motifs qui rendraient un congé injustifié et qui permettraient donc de le contester en justice. En outre, ce serait au bailleur de prouver qu'il a donné le congé pour un motif «justifié». L'initiative limite donc beaucoup trop les droits de propriété des bailleurs, ce qui pourrait avoir des incidences graves sur l'offre de logements et de locaux commerciaux. Les dispositions actuelles sur la protection contre les congés ayant globalement fait leurs preuves, il n'est pas nécessaire de les modifier.
+
+Loyer initial: l'initiative est superflue
+
+L'initiative veut nettement élargir les dispositions sur le loyer initial. Or ces dispositions, qui datent de 1990, sont le résultat d'un compromis qui avait été alors âprement négocié et qu'on ne peut donc abandonner à la légère. La solution actuelle a prouvé qu'elle était parfaitement viable. Pour simplifier l'application du droit, le contre-projet indirect prévoit du reste que tout nouveau locataire d'un logement pourra contester le montant du loyer initial après avoir signé le bail et non plus uniquement si certaines conditions sont remplies.
+
+Un nouvel instrument: le loyer d'un logement comparable
+
+L'initiative ne fait aucune proposition valable sur la question, pourtant centrale, de savoir quand un loyer est abusif. Le contre-projet indirect prévoit par contre un changement de système qui simplifiera l'application du droit et qui mettra le holà aux hausses brutales des loyers. Sera désormais abusif le loyer qui dépasse de plus de 15% le loyer d'un logement comparable. Pour calculer le loyer d'un logement comparable, on considérera les caractéristiques du logement (âge ou nombre de pièces par ex.) et son emplacement (proximité des emplois ou exposition aux nuisances par ex.). Le locataire pourra exiger le contrôle de son loyer tous les cinq ans, qu'une augmentation lui ait été signifiée ou non.
+
+L'initiative est contre-productive
+
+Cette initiative ne peut satisfaire les intérêts des locataires qu'à court terme. A long terme, les investisseurs pourraient en effet se détourner du marché du logement. Il en résulterait une aggravation de la pénurie de logements, dont les locataires seraient les premiers à pâtir.
+
+Pour toutes ces raisons, le Conseil fédéral et le Parlement vous recommandent de rejeter l'initiative populaire «pour des loyers loyaux».
+
+¹ Le contre-projet consiste en une modification du Code des obligations (Feuille fédérale 2002 7652). On peut le consulter sur Internet à l'adresse: www.admin.ch ou en commander une copie à: OFCL, Vente des publications, 3003 Berne. Il n'est pas sûr qu'il entre en vigueur car le référendum a été saisi.
+
+24
+
+Quatrième objet
+Initiative populaire «pour un dimanche sans voitures par saison – un essai limité à quatre ans (Initiative des dimanches)»
+
+La question à laquelle vous devez répondre est la suivante:
+Acceptez-vous l'initiative populaire «pour un dimanche sans voitures par saison – un essai limité à quatre ans (Initiative des dimanches)»?
+
+Le Conseil national a rejeté l'initiative par 96 voix contre 70, le Conseil des États par 34 voix contre 8.
+
+4
+
+L'essentiel
+en bref
+
+25
+
+Le prix de la mobilité
+La mobilité est un facteur essentiel du développement économique, social et culturel. Le trafic routier a cependant des incidences sur l'homme et l'environnement car il génère des nuisances sonores, pollue l'air et cause des accidents. Il convient donc de prendre des mesures afin de limiter les atteintes à l'environnement dues à la circulation et augmenter la sécurité routière.
+
+Que réclame l'initiative?
+L'«initiative des dimanches» demande qu'un dimanche par saison, la population puisse librement disposer de toutes les places et voies publiques, qui seront fermées au trafic motorisé privé. Si elle est acceptée, le Conseil fédéral devra édicter les dispositions d'exécution et les dérogations nécessaires dans un délai de neuf mois. Dans un premier temps, l'essai serait limité à quatre ans, puis le peuple et les cantons seraient appelés à se prononcer sur le maintien, pour une durée illimitée, de cette réglementation.
+
+Quelles en seraient les conséquences?
+Si l'initiative était acceptée, l'interdiction de circuler serait générale sur le territoire national, les quatre dimanches fixés par le Conseil fédéral. Mais cette interdiction serait accompagnée de dérogations, notamment pour les transports publics, les autocars et les taxis, si bien que se promener ou faire du vélo sur l'autoroute ou d'autres voies publiques ne serait pas dénué de
+
+danger. En outre, les habitants des zones non raccordées aux transports publics ou mal desservies seraient pénalisés. Les véhicules privés en provenance de l'étranger seraient bloqués aux frontières. Certaines branches de l'économie, notamment le tourisme dans les régions reculées, subiraient un préjudice.
+
+Position du Conseil fédéral
+et du Parlement
+Le Conseil fédéral et le Parlement rejettent une initiative qui présente plus d'inconvénients que d'avantages. L'interdiction de circuler le dimanche n'est pas conforme à la politique de développement durable menée par le Conseil fédéral, car elle n'incite pas suffisamment à modifier en profondeur et durablement les comportements. De plus, il est inutile que l'État ordonne des «journées événements» pour améliorer la qualité de la vie. Les bases légales existantes permettent d'organiser des dimanches sans voitures au niveau local ou régional.
+
+Texte soumis au vote
+
+Arrêté fédéral relatif à l'initiative populaire «Pour un dimanche sans voitures par saison – un essai limité à quatre ans (Initiative des dimanches)»
+
+du 13 décembre 2002
+
+(Préambule)
+
+Art. 1
+
+1 L'initiative populaire du 1er mai 1998 «Pour un dimanche sans voitures par saison – un essai limité à quatre ans (Initiative des dimanches)» est valable et sera soumise au vote du peuple et des cantons.
+2 L'initiative¹, adaptée à la Constitution du 18 avril 1999, a la teneur suivante:
+
+La Constitution est modifiée comme suit:
+
+Art. 197, ch. 2 (nouveau)
+
+2. Disposition transitoire ad art. 82 (Circulation routière)
+
+1 Un dimanche par saison, la population peut librement disposer, de 04.00 à 24.00 heures, de toutes les places et voies publiques, routes nationales comprises, qui seront fermées au trafic motorisé privé. Les transports publics sont assurés.
+2 Le Conseil fédéral fixe par voie d'ordonnance, dans un délai de neuf mois, les dispositions d'exécution et les dérogations à prévoir dans l'intérêt public.
+3 Cette disposition transitoire est valable pour quatre ans à compter du premier dimanche sans voitures. Au cours de la quatrième année qui suit, le peuple et les cantons se prononcent sur le maintien, pour une durée illimitée, des al. 1 et 2 dans la Constitution sous la forme d'un art. 82a.
+
+Art. 2
+
+L'Assemblée fédérale recommande au peuple et aux cantons de rejeter l'initiative.
+
+1 Ayant été déposée sous le régime de l'ancienne constitution, l'initiative populaire se référerait encore à celle-ci. Dans le texte de l'initiative, le Parlement a adapté la numérotation et la présentation de l'article à la nouvelle Constitution.
+
+Arguments du comité d'initiative:
+
+«Un dimanche sans voitures par saison? Essayons pendant quatre ans!
+
+Chères concitoyennes et chers concitoyens, jeunes et toujours jeunes, nostalgiques et progressistes, sportifs et amoureux de la vie
+
+Nos derniers dimanches sans voitures remontent à l'automne 1973. Toutes les personnes qui y étaient se souviennent avec plaisir de ces trois dimanches de fête, où les Suisses se sont réappropriés leur pays. C'est à cette joie de vivre que l'initiative des dimanches se propose de vous faire goûter. Pendant 4 jours sur 365, les loisirs seront à votre porte. Vous disposerez de 84 000 km de routes pour vous promener, faire du vélo, patiner et bien d'autres choses. Les terrasses et buvettes installées dans les rues, les offices religieux organisés sur les places des villages seront autant d'occasions de rencontre conviviales.
+
+Les transports publics assureront la mobilité nécessaire. Des cars de tourisme et des taxis pourront compléter l'offre. Ceux qui auront absolument besoin de leur auto, en cas d'urgence ou d'infirmité ou pour des raisons professionnelles, pourront l'utiliser. L'expérience de 1973 a montré que les dimanches sans voitures peuvent être organisés sans bureaucratie inutile et en toute sécurité, pour la plus grande joie de tous. Ils représentent en outre un attrait touristique. La foule qui s'est pressée sur les rives du lac de Morat et du lac de Constance lors des dimanches sans voitures en est la preuve. L'initiative des dimanches s'inscrit en outre parfaitement dans la politique des transports définie par l'Union européenne.
+
+Qui n'a pas envie de redécouvrir notre beau pays avec des amis? L'atmosphère particulière des journées sans voitures plaira aux jeunes et aux moins jeunes et restituera au dimanche sa vocation première de jour de repos, loin du stress quotidien. Au terme des quatre ans d'essai, vous pourrez décider de prolonger cette expérience.»
+
+28
+
+Avis du
+Conseil fédéral
+
+L'initiative fait droit au souhait bien légitime d'améliorer la qualité de la vie et d'endiguer le trafic motorisé. L'interdiction de circuler le dimanche revient toutefois à priver le citoyen de son pouvoir de décision, sans pour autant contribuer de manière satisfaisante à la réalisation de la mobilité durable. Depuis la crise pétrolière de 1973, les requêtes visant à limiter le trafic motorisé le dimanche se sont succédées. Elles ont toujours été rejetées car, à l'instar de l'«initiative des dimanches», leurs inconvénients dépassaient leurs avantages. Le Conseil fédéral rejette donc la présente initiative notamment pour les raisons suivantes:
+
+Un coup d'épée dans l'eau
+Le Conseil fédéral poursuit une politique des transports axée sur la mobilité durable. Celle-ci vise à satisfaire les besoins économiques et sociaux sans compromettre la qualité de la vie ou l'environnement. S'il est souhaitable que nous repensions notre manière de circuler, tout changement durable des mentalités ne peut être que volontaire. Or, l'initiative n'a guère d'effet incitatif. Il serait plus judicieux d'agir au quotidien, notamment sur le trafic pendulaire. La promotion des transports publics et l'encouragement du co-voiturage, qui permet d'optimiser l'utilisation des véhicules privés, sont plus efficaces que les «journées événements» imposées.
+
+Une menace pour la sécurité du trafic
+L'initiative réclame que la population puisse disposer librement des voies publiques, autoroutes comprises, pour faire du vélo, jouer, se promener ou encore patiner. Toutefois, comme elle prévoit des dérogations à l'interdiction de circuler pour la police, les services de secours, les autocars, les taxis et les transports pour personnes handicapées, et que les trains, les bus et les trams circuleront de toute façon, l'utilisation des places et des voies publiques livrées au trafic lent ne serait pas dénuée de danger.
+
+Les régions périphériques et le tourisme seraient pénalisés
+Le réseau de transports publics suisse est parmi les plus denses du monde. Et
+
+29
+
+pourtant les régions de montagne et les régions périphériques ne sont pas aussi bien desservies par les chemins de fer et les bus que les grandes agglomérations.
+Leurs habitants seraient donc plus désavantagés par une interdiction de circuler que les citadins.
+Certaines branches de l'économie dépendant du tourisme, telles que l'hôtellerie, les entreprises de chemins de fer de montagne ou les transports par autocars, en pâtiraient.
+
+Des problèmes à la frontière
+
+Si l'initiative était acceptée, la situation à la frontière pourrait devenir difficile et ternir nos relations avec les pays voisins.
+En effet, les automobilistes et les motards refoulés à la douane devraient contourner la Suisse.
+Nos voisins pourraient nous reprocher de causer un surcroît de trafic chez eux.
+
+L'État n'a pas à intervenir
+
+De nombreux citoyens considèrent que les dimanches sans voitures imposés sont une atteinte injustifiée à leur liberté personnelle.
+L'État n'a d'ailleurs pas à légiférer dans ce domaine, sauf en cas d'absolue nécessité.
+Tout un chacun peut renoncer à prendre sa voiture, quand il le veut et comme il le veut.
+La loi sur la circulation routière habilite les cantons et les communes à interdire localement la circulation des véhicules à moteur le dimanche, sauf sur les autoroutes et les routes de grand transit.
+De nombreuses villes suisses ont d'ailleurs fait usage de cette possibilité le 22 septembre 2002.
+Les cantons et les communes ont toute latitude pour exercer les pouvoirs que leur confère la loi.
+
+D'autres solutions ont été examinées
+
+Le Parlement a examiné et rejeté différents contre-projets proposant moins de dimanches sans voitures par année.
+Si les modèles envisagés permettaient d'atténuer les inconvénients de l'initiative, aucun d'entre eux n'apportait toutefois de solution aux problèmes de fond que sont le préjudice causé à certaines catégories de la population et branches de l'économie, la dégradation de nos relations internationales et la mise sous tutelle du citoyen.
+
+Pour toutes ces raisons, le Conseil fédéral et le Parlement vous recommandent de rejeter l'«initiative des dimanches».
+
+30
+
+Cinquième objet
+Initiative populaire
+«La santé à un prix abordable
+(Initiative-santé)»
+
+La question à laquelle vous devez répondre est la suivante:
+Acceptez-vous l'initiative populaire «La santé à un prix abordable (Initiative-santé)»?
+
+Le Conseil national a rejeté cette initiative par 84 voix contre 60 et le Conseil des États par 35 voix contre 5.
+
+5
+
+L'essentiel
+en bref
+
+31
+
+Des soins de qualité et un
+financement social
+
+Aujourd'hui, l'assurance-maladie obliga-
+toire garantit à tous l'accès à des traite-
+ments de haute qualité adaptés aux be-
+soins. Le financement de ces prestations
+est assuré par les primes individuelles, par
+la franchise et la quote-part des assurés
+et, pour un tiers, par des recettes fiscales
+(subventions cantonales aux hôpitaux).
+Les personnes de condition modeste, soit
+un tiers des assurés, bénéficient d'une
+réduction de prime adaptée à leur situa-
+tion financière. Nombre d'entre elles ne
+paient même pas de prime.
+
+Que demande l'initiative?
+
+L'initiative, lancée par le Parti socialiste
+suisse, demande essentiellement une
+refonte du financement de l'assurance-
+maladie obligatoire. Cette dernière serait
+financée par les primes des assurés et, ce
+qui est nouveau, par une augmentation du
+taux de la TVA qui pourrait assurer jusqu'à
+la moitié du financement. La prime par tête
+serait remplacée par une prime détermi-
+née en fonction du revenu, de la fortune et
+des charges familiales. De plus, la Confé-
+dération se verrait attribuer des compé-
+tences de direction et de planification qui
+appartiennent aujourd'hui principalement
+aux cantons.
+
+Conséquences de l'initiative
+
+Le mode de financement proposé devrait,
+certes, faire baisser les primes d'assu-
+rance-maladie de nombreux assurés.
+A première vue, il serait plus social qu'au-
+jourd'hui. Mais à première vue seulement,
+car l'augmentation considérable du taux
+
+de la TVA affecterait tout le monde et
+encore plus, en proportion, les personnes
+qui, aujourd'hui, bénéficient d'une réduc-
+tion de prime ou ne paient pas de prime
+du tout. Il faudrait jusqu'à 3,6 points de
+TVA de plus, ce qui représenterait quelque
+8,5 milliards de francs de recettes supplé-
+mentaires. Et à supposer que les cantons
+ne participent plus au financement des
+prestations couvertes par l'assurance
+obligatoire, il faudrait même jusqu'à
+5 points de TVA supplémentaires. Calculées
+en fonction du revenu et de la fortune, les
+primes auraient l'effet d'un impôt supplé-
+mentaire sur le revenu et la fortune.
+L'initiative instaurerait un financement
+croisé des dépenses de santé entre les
+cantons. Les primes ne refléteraient
+pratiquement plus la consommation des
+prestations de santé, laquelle varie consi-
+dérablement d'un canton à l'autre. La
+concurrence et la sensibilisation au
+problème des coûts s'en trouveraient
+fortement réduites.
+
+Position du Conseil fédéral
+et du Parlement
+
+Le Conseil fédéral et le Parlement jugent
+contestable le système de financement de
+l'assurance-maladie proposé par l'initia-
+tive. Ils estiment aussi que l'initiative
+n'apporte pas de réponse satisfaisante à
+la question, lancinante, de savoir comment
+mieux contenir la progression des coûts.
+Enfin, l'augmentation du taux de la taxe
+sur la valeur ajoutée pèsera beaucoup
+plus lourdement sur les assurés à bas
+revenu, qui ne paient aujourd'hui aucune
+prime.
+
+Texte soumis au vote
+
+Arrêté fédéral
+concernant l'initiative populaire
+«La santé à un prix abordable (Initiative-santé)»
+
+du 5 décembre 2002
+
+(Préambule)
+
+Art. 1
+
+1 L'initiative populaire du 9 juin 1999 «La santé à un prix abordable (Initiative-santé)» est valable et sera soumise au vote du peuple et des cantons.
+2 L'initiative¹, adaptée à la Constitution du 18 avril 1999, a la teneur suivante:
+
+I
+
+La Constitution est modifiée comme suit:
+
+Art. 117
+
+1 La Confédération édicte des dispositions sur l'assurance en cas de maladie et d'accident.
+2 L'assurance obligatoire en cas de maladie est effectuée par des établissements d'assurance d'utilité publique. Elle garantit à tous les assurés une assistance médicale de haute qualité, adaptée aux besoins et financièrement abordable.
+3 L'assurance obligatoire en cas de maladie est financée notamment par:
+a. des recettes supplémentaires à affectation fixe provenant de la taxe sur la valeur ajoutée, dans une proportion déterminée par la loi;
+b. des cotisations payées par les assurés, dans une proportion au moins équivalente; ces cotisations sont fixées en fonction du revenu et de la fortune réelle, ainsi qu'en tenant compte des charges familiales.
+4 Les établissements d'assurance-maladie reçoivent, pour chaque personne assurée, des contributions provenant des moyens financiers prévus par l'al. 3. Les différences de risques entre assureurs sont compensées. Les excédents seront retournés aux assurés.
+
+1 Ayant été déposée sous le régime de l'ancienne constitution, l'initiative populaire se référait encore à celle-ci. Dans le texte de l'initiative, le Parlement a adapté la numérotation et la présentation des articles à la nouvelle Constitution.
+
+33
+
+La Confédération et les cantons veillent à la maîtrise des coûts de la santé. La Confédération prend notamment les mesures suivantes à cet effet:
+
+a. elle réglemente la médecine de pointe et coordonne les planifications sanitaires des cantons;
+b. elle détermine le prix maximum des prestations apportées dans l'assurance obligatoire en cas de maladie, en y incluant les médicaments;
+c. elle édicte des dispositions concernant les autorisations accordées aux fournisseurs de prestations et veille à un contrôle efficace de la qualité;
+d. lorsque le volume des prestations fournies est excessif, elle édicte par branche et par région des mesures complémentaires tendant à la maîtrise des coûts.
+
+Les cantons peuvent prendre des mesures plus étendues dans le domaine de la planification sanitaire.
+
+II
+
+Les dispositions transitoires de la Constitution sont complétées comme suit:
+
+Art. 197, ch. 2 (nouveau)
+
+2. Disposition transitoire ad art. 117 (Assurance-maladie et assurance-accidents)
+
+1 Les prestations de la Confédération et des cantons en faveur du secteur de la santé sont au moins égales aux montants de l'année 1997, après adaptation au renchérissement.
+
+2 Les moyens financiers prévus par l'art. 117, al. 3, de la Constitution doivent correspondre au moins au total des primes versées au titre de l'assurance obligatoire en cas de maladie durant l'année précédant l'entrée en vigueur de la législation d'application.
+
+3 Si la loi d'application de l'art. 117 ne peut pas être mise en vigueur dans les trois ans qui suivent l'acceptation de l'article constitutionnel, le Conseil fédéral édicte les dispositions d'application des al. 3 et 5 de l'art. 117 par voie d'ordonnance.
+
+4 Il tiendra notamment compte des principes suivants:
+
+a. pour le calcul des cotisations selon l'art. 117, al. 3, let. b, on appliquera une exonération de 20 000 francs sur le revenu et de 1 000 000 francs sur la fortune réelle;
+b. la part des cotisations des assurés calculées en fonction de la fortune réelle selon l'art. 117, al. 3, let. b, se montera au moins au quart du total des cotisations perçues selon ce même alinéa.
+
+Art. 2
+
+L'Assemblée fédérale recommande au peuple et aux cantons de rejeter l'initiative.
+
+34
+
+Arguments du comité d'initiative:
+
+«La santé à un prix abordable»: Des primes plus basses pour la plupart des assurés!
+
+Les primes de l'assurance-maladie obligatoire sont aujourd'hui une lourde charge pour la grande majorité des assurés. La Suisse est le seul pays d'Europe où des multimillionnaires, et même des milliardaires, ne paient pas un centime de plus qu'une famille moyenne pour l'assurance-maladie obligatoire. L'initiative «La santé à un prix abordable» propose des solutions valables pour lutter contre cette injustice.
+
+1. Notre initiative veut remplacer l'actuelle prime par tête, antisociale, par un système dans lequel l'essentiel du montant des primes sera réparti entre les assurés en fonction de leur revenu, comme c'est le cas dans la plupart des pays européens. L'impôt sur la consommation et la fortune de l'assuré contribueront dans une modeste mesure au financement de l'assurance-maladie afin que les assurés qui disposent d'une très grande fortune et d'un très bas revenu imposable paient eux aussi leur prime. Ce système entraînera une baisse des primes pour près de 80% des assurés. Une famille de deux enfants disposant d'un revenu brut annuel de 80 000 francs économisera plus de 6000 francs par an en moyenne, et ce système restera intéressant pour ce type de famille jusqu'à un revenu imposable de 190 000 francs. La charge supplémentaire pèsera principalement sur les personnes disposant d'un très haut revenu et d'une fortune de plus d'un million de francs.
+
+2. Notre initiative veut non seulement répartir les dépenses de santé de façon plus équitable, mais aussi les stabiliser. Elle propose des mesures rigoureuses pour contenir l'explosion des coûts:
+- détermination de prix maximums pour les prestations médicales: cette mesure fera baisser le prix des médicaments, souvent beaucoup plus chers qu'à l'étranger, et favorisera le recours aux génériques, plus avantageux, et cela à efficacité égale!
+- planification de la médecine de pointe par la Confédération, afin que les appareils de haute technicité, coûteux, soient achetés non pas pour des raisons de prestige régional, mais uniquement parce qu'ils sont nécessaires;
+- régulation du nombre de médecins au moyen d'incitations économiques, et non pas par la voie de décisions arbitraires et bureaucratiques de caisses ou de l'administration;
+- contrôle de la qualité afin d'éliminer les prestations superflues, qui, selon les experts, représentent entre 10 et 15% de l'ensemble des prestations, soit 4 à 6 milliards de francs par an!
+Les moyens ainsi économisés seront affectés par exemple au développement des soins à domicile et au financement d'établissements médico-sociaux.
+
+Il est normal que la médecine se développe, et ce développement, qui a un coût, profite à tous. Notre initiative veille à ce que l'évolution des coûts soit mesurée afin que la santé reste abordable.
+
+En votant «OUI» à l'initiative «La santé à un prix abordable», vous contribuerez à instaurer un système plus équitable et permettrez à près de 80% des assurés de bénéficier de primes d'assurance-maladie plus basses, donc plus abordables!
+
+Pour tout renseignement complémentaire (vous pouvez aussi faire calculer le montant que vous économiseriez avec l'initiative), veuillez consulter le site www.gesundheit-sante.ch.»
+
+Avis du
+Conseil fédéral
+
+35
+
+L'«initiative-santé» bouleverse le système de financement de l'assurance-maladie obligatoire. Elle entraîne une augmentation considérable du taux de la taxe sur la valeur ajoutée (TVA) et a l'effet d'un impôt supplémentaire sur le revenu et la fortune. Elle désavantage de nombreux assurés à bas revenus. En outre, elle n'apporte pas de réponse satisfaisante à la question, pressante, de savoir comment mieux maîtriser les dépenses de santé. Elle réduit même fortement la concurrence et la sensibilisation au problème des coûts. Le Conseil fédéral rejette l'initiative, notamment pour les raisons suivantes:
+
+part est de moitié, il faut dégager environ 8,5 milliards de recettes supplémentaires, ce qui représente une augmentation du taux de la TVA de 3,6 points environ. Et à supposer, ce qui est envisageable selon le texte de l'initiative, que la participation des cantons au financement des prestations couvertes par l'assurance obligatoire soit tout simplement supprimée, il faudrait dégager jusqu'à 12 milliards de recettes supplémentaires à partir de la TVA, ce qui représenterait jusqu'à 5 points de TVA de plus. Or, le Conseil fédéral et le Parlement ont fait preuve jusqu'à présent d'une grande retenue en la matière et réservé délibérément les augmentations du taux de la TVA à des tâches particulières, notamment au financement de l'AVS et de l'assurance-invalidité. Recourir à la TVA pour un oui ou pour un non pourrait créer une dynamique incontrôlable. Aussi le Conseil fédéral rejette-t-il le mode de financement proposé.
+
+Il n'y a pas d'impôt fédéral sur la fortune
+
+Le mode de détermination des primes proposé par l'initiative a l'effet d'un impôt supplémentaire sur le revenu et la fortune. Or, il n'existe pas, aujourd'hui, d'impôt fédéral sur la fortune. Le Conseil fédéral s'oppose à ce qu'il considère comme une intervention indirecte dans le système fiscal. Ce système fait partie intégrante de notre politique financière; il a fait ses preuves et ne saurait être transformé que de manière ciblée et coordonnée.
+
+La TVA n'est pas un libre-service
+
+L'initiative ne dit pas quelles parts la TVA, les cotisations des assurés et la participation des cantons doivent représenter dans le financement de l'assurance-maladie obligatoire. Pour que l'initiative atteigne ses objectifs, il faut que les prestations assurées soient financées pour une grande part par la TVA. Si l'on admet que cette
+
+36
+
+Les bas revenus seront désavantagés
+
+L'augmentation du taux de la TVA touche tout le monde, mais pèse plus lourdement, en proportion, sur les personnes à bas revenus. Les assurés qui, grâce à la réduction des primes, ne paient pas de cotisation aujourd'hui devraient eux aussi passer à la caisse. Le nouveau mode de financement serait incompatible avec le système actuel de réduction des primes. Aujourd'hui, le montant des primes varie beaucoup d'un canton à l'autre parce que le volume de prestations consommées varie lui aussi selon les cantons. L'initiative réduirait fortement la possibilité de différencier les primes selon les cantons, voire la supprimerait. Il en résulterait un financement croisé des dépenses de santé entre ces derniers.
+
+Le problème majeur ne sera pas résolu
+
+Le problème majeur de l'assurance-maladie obligatoire est l'augmentation des dépenses de santé. Si les dépenses augmentent, c'est surtout parce que les prestataires de soins sont de plus en plus nombreux et que la consommation progresse parallèlement à l'offre. Ce n'est pas en bouleversant le système de financement et en prélevant plus d'impôts que l'on résoudra ce problème.
+
+Pas de proposition convaincante pour maîtriser les coûts
+
+Pour améliorer la maîtrise des coûts, l'initiative propose d'attribuer des compétences supplémentaires à la Confédération.
+
+tion. Cette dernière devrait, pour l'essentiel, assumer des tâches de direction et de planification dévolues aux cantons et fixer des prix maximums. L'initiative exige des mesures dont certaines sont déjà réalisées (prix des médicaments), qui sont déjà en discussion (planification de la médecine de pointe, dispositions sur l'admission des fournisseurs de prestations) ou que les cantons peuvent déjà mettre en place (frein aux dépenses des hôpitaux et des établissements médico-sociaux). Actuellement, la santé relève au premier chef de la responsabilité des cantons. Ils connaissent les besoins de leur population et les réalités locales. Si l'on centralisait les compétences à l'excès, on perdrait ce rapport de proximité. L'initiative n'apporte pas de solution convaincante au problème de la maîtrise des coûts.
+
+Diminution massive de la concurrence et de la sensibilisation au problème des coûts
+
+Le système de financement proposé supprime presque entièrement la concurrence entre les caisses et centralise dans une large mesure l'assurance-maladie. Les modèles plus économiques, dans lesquels les assurés acceptent certaines restrictions en contrepartie d'un rabais sur leur prime (franchise plus élevée, collectif médical HMO, modèle dit «du médecin de famille», assurance avec bonus), ne seront réalisables avec le mode de calcul des primes proposé. Les assurés ne seront donc plus incités à se soucier des
+
+37
+
+coûts et les caisses se montreront moins intéressées à maîtriser les dépenses. Les médecins, les hôpitaux et les industries du secteur médical ne seront plus, eux non plus, portés à convenir de prix ou de tarifs particulièrement avantageux. Et comme une augmentation des dépenses de santé risque d'entraîner un relèvement de la TVA, les acteurs de la santé seront tous moins responsabilisés par rapport au problème du financement, ce qui ne fera qu'alimenter la spirale des coûts.
+
+Extension du droit de regard sur les données relatives au revenu et à la fortune
+
+L'initiative prévoit de fixer les primes en fonction de la situation financière et des charges familiales de l'assuré. Pour ce faire, il faudra que les données relatives au revenu et à la fortune soient communiquées non seulement aux autorités fiscales, mais aussi à l'organe qui perçoit les primes. De plus, la détermination et la perception des primes deviendront très compliquées. La répartition des montants entre les caisses, en particulier, soulèvera des difficultés. Par conséquent, le coût administratif risque d'être plus élevé qu'aujourd'hui.
+
+La Confédération entend réduire les coûts dans le cadre du système actuel
+
+La loi sur l'assurance-maladie garantit des soins de santé de qualité à toute la population. La réduction des primes apporte un correctif social au système de finance-
+
+ment. Pourtant, les primes ne cessent d'augmenter et font peser une charge financière de plus en plus lourde sur les assurés. Le Conseil fédéral est conscient de cette situation, mais il estime qu'elle ne justifie pas une refonte contestable du mode de financement.
+
+Il reste attaché au système actuel, qui est fondé sur la concurrence et incite tous les acteurs de la santé à adopter un comportement responsable en matière de coûts, car son objectif prioritaire est d'améliorer la maîtrise des coûts. Soucieux, aujourd'hui comme hier, d'infléchir l'évolution des dépenses, il vient de proposer au Parlement un système de financement des traitements hospitaliers à la fois simple et transparent qui permettra, à terme, de mieux réguler les coûts. La Confédération a aussi lancé des projets destinés à garantir la qualité et à limiter les traitements superflus.
+
+Le Conseil fédéral ne se contente pas d'agir sur les facteurs de coûts; il intervient aussi au niveau du budget des assurés. Pour rendre encore plus social le système de réduction des primes, qui allège déjà les charges des personnes disposant de faibles ressources, il entend décharger de façon plus ciblée les familles de condition économique modeste.
+
+Au vu de ce qui précède, le Conseil fédéral et le Parlement vous recommandent de rejeter l'initiative «La santé à un prix abordable (Initiative-santé)».
+
+38
+
+Sixième objet
+Initiative populaire
+«Droits égaux pour les personnes
+handicapées»
+
+La question à laquelle vous devez
+répondre est la suivante:
+Acceptez-vous l'initiative populaire
+«Droits égaux pour les personnes
+handicapées»?
+
+Le Conseil national a rejeté cette initiative
+par 107 voix contre 70 et le Conseil des
+États par 37 voix contre 6.
+
+6
+
+L'essentiel
+en bref
+
+39
+
+Intégrer les personnes handicapées
+Une des tâches essentielles de l'Etat est d'intégrer les personnes handicapées dans la société et de les placer sur un pied d'égalité avec les personnes non handicapées. Tel est d'ailleurs le mandat que la Constitution assigne à l'Etat. Pour le remplir, le Parlement a adopté une nouvelle loi qui doit entrer en vigueur au début de l'année prochaine.
+
+Que demande l'initiative?
+L'initiative charge le législateur de pourvoir à l'égalité entre les personnes handicapées et les autres. Elle demande notamment que les personnes handicapées aient accès aux bâtiments, installations, équipements et prestations destinés au public dans la mesure où cela est économiquement supportable.
+
+Conséquences de l'initiative
+L'initiative ne prévoit pas de délai d'adaptation. Si elle était acceptée, les personnes handicapées disposeraient immédiatement d'un droit d'accès applicable directement, c'est-à-dire sans loi d'exécution. Et en l'absence de dispositions d'exécution du législateur, ce sont les tribunaux et les autorités administratives qui devraient mettre ce droit en œuvre. Il est difficile de prévoir comment ils interpréteraient la nouvelle norme constitutionnelle. Sa mise en œuvre pourrait varier d'un tribunal à l'autre, ce qui créerait une insécurité juridique. Le tribunal devrait examiner dans chaque cas si l'élimination de l'inégalité (par ex.
+
+installation d'un ascenseur lorsqu'il n'y a qu'un escalier, inscriptions en braille) est économiquement supportable pour les personnes concernées. Or, il appartient au premier chef au législateur de déterminer ce qui est économiquement supportable et ce qui ne l'est pas. La garantie d'un droit d'accès direct aurait de lourdes conséquences financières non seulement pour les collectivités, mais aussi pour les personnes privées, car l'initiative vise aussi les bâtiments existants, non rénovés, et les prestations de personnes privées.
+
+Position du Conseil fédéral
+et du Parlement
+Le Conseil fédéral et le Parlement rejettent l'initiative. Ils considèrent qu'elle va trop loin, qu'elle serait source d'insécurité et occasionnerait des frais très élevés. La nouvelle loi répond en grande partie aux exigences de l'initiative dans la mesure où elles sont proportionnées.
+
+Texte soumis au vote
+
+Arrêté fédéral concernant l'initiative populaire «Droits égaux pour les personnes handicapées»
+
+du 13 décembre 2002
+
+(Préambule)
+
+Art. 1
+
+1 L'initiative populaire du 14 juin 1999 «Droits égaux pour les personnes handicapées» est déclarée valable et sera soumise au vote du peuple et des cantons.
+2 L'initiative¹, adaptée à la Constitution du 18 avril 1999, a la teneur suivante:
+La Constitution est modifiée comme suit:
+
+Art. 8, al. 4
+
+4 La loi pourvoit à l'égalité de droit pour les personnes handicapées. Elle prévoit des mesures en vue de l'élimination et de la correction des inégalités existantes. L'accès aux constructions et aux installations ou le recours à des équipements et à des prestations destinés au public sont garantis dans la mesure où ils sont économiquement supportables.
+
+Art. 2
+
+L'Assemblée fédérale recommande au peuple et aux cantons de rejeter l'initiative.
+
+A l'origine, l'initiative populaire exigeait également l'introduction dans la Constitution de la disposition suivante:
+«Nul ne doit subir de discrimination du fait notamment de son origine, de sa race, de son sexe, de sa langue, de son âge, de sa situation sociale, de son mode de vie, de ses convictions religieuses, philosophiques ou politiques ou du fait d'une déficience corporelle, mentale ou psychique.»
+Cette partie de l'initiative est actuellement réalisée et fixée comme art. 8, al. 2, dans la Constitution du 18 avril 1999.
+
+1 Ayant été déposée sous le régime de l'ancienne constitution, l'initiative populaire se référait encore à celle-ci. Dans le texte de l'initiative, le Parlement a adapté la numérotation et la présentation de l'article à la nouvelle Constitution.
+
+Arguments du comité
+d'initiative:
+
+41
+
+«OUI au libre accès – OUI aux personnes handicapées
+
+En Suisse, quelque 700 000 personnes vivent avec un handicap. L'accès aux construc-
+tions publiques, aux services, et donc à la vie publique, présente pour elles des
+obstacles insurmontables. Selon les experts, 70 à 80% des bâtiments ouverts au public
+ne sont pas accessibles aux personnes handicapées. Il est donc urgent d'agir, malgré
+l'existence de la loi sur l'égalité pour les handicapés. Cette loi, certes, constitue un pas
+dans la bonne direction, mais elle comporte des lacunes majeures et ne peut suffire à
+elle seule. Le libre accès reste au rang d'objectif et n'est pas réalisé dans les faits.
+L'initiative est donc nécessaire!
+
+L'acceptation de l'initiative assurera aux personnes handicapées un libre accès à la vie
+sociale. L'initiative comprend deux grands volets:
+
+– Elle garantit l'accès aux constructions et services destinés au public. Toutes les
+mesures nécessaires seront prises en faveur des personnes handicapées pour autant
+qu'elles soient économiquement supportables. Les aménagements apportés profite-
+ront aussi aux personnes âgées, aux parents avec une poussette, aux voyageurs et
+aux livreurs transportant des marchandises lourdes.
+
+– Elle appelle de nouveau le législateur et le peuple à améliorer la situation pratique,
+juridique et politique des handicapés en Suisse dans tous les domaines de la vie.
+Des mesures doivent être prises non seulement au niveau des constructions et des
+services, mais aussi dans les domaines de l'école, du travail, de la formation et du per-
+fectionnement. Plus les handicapés pourront travailler parce que le libre accès leur
+sera garanti, plus les charges qui pèsent sur l'assurance-invalidité (AI) diminueront.
+Cela profitera aux personnes handicapées et à leurs proches, et contribuera aussi à
+sauvegarder à terme nos assurances sociales.
+
+Comme l'initiative prévoit expressément que les mesures prises doivent être économi-
+quement supportables, la garantie est donnée que seules des solutions raisonnables et
+proportionnées seront recherchées.
+
+Le libre accès profitera à tous, handicapés et non handicapés. Dire OUI à l'initiative en
+faveur des handicapés, c'est dire OUI au libre accès et donc OUI à la reconnaissance
+des personnes handicapées comme membres à part entière de notre société.»
+
+42
+
+Différences entre
+l'initiative et la loi
+
+Initiative
+Loi
+
+Constructions
+L'initiative confère aux personnes handicapées un droit d'accès à toutes les constructions et installations destinées au public. Les constructions et installations destinées au public sont par exemple les magasins, les bâtiments de l'administration, de la Poste ou des banques qui comportent des guichets, les églises, les cinémas, les stades et les parcs. Le droit d'accès, qui est garanti immédiatement, ne s'applique toutefois pas aux habitations ni aux bâtiments comprenant des places de travail. L'obligation d'assurer l'accès aux constructions s'applique aux bâtiments existants, qu'il soit prévu de les rénover ou non.
+La loi¹ confère aux personnes handicapées un droit d'accès à des constructions et installations importantes, clairement spécifiées (par ex. bâtiments administratifs ouverts au public, guichets de poste ou de banque, magasins, cinémas, halles polyvalentes, immeubles d'habitation relativement grands, bâtiments comprenant de nombreuses places de travail). Ce droit d'accès ne s'applique qu'aux nouvelles constructions et aux bâtiments qui doivent de toute façon être rénovés.
+
+Transports
+L'initiative demande que les personnes handicapées aient accès immédiatement à tous les moyens de transport publics (trains, bus, trams, bateaux, avions, téléphériques, etc.).
+En ce qui concerne les transports publics, la loi prévoit un délai d'adaptation de 20 ans pour rendre les bâtiments ainsi que les véhicules et installations à très longue durée de vie accessibles aux personnes handicapées. Les systèmes de communication et d'émission des billets devront être adaptés dans un délai de 10 ans. Pendant ces délais d'adaptation, la Confédération et les cantons accorderont des aides financières pour accélérer le rythme de ces aménagements. La Confédération dégagera 300 millions de francs à cet effet.
+
+¹ La loi sur l'égalité pour les handicapés est publiée dans la Feuille fédérale (2002 7640) et sur Internet (www.admin.ch). Elle peut également être commandée à l'OFCL, Vente des publications, 3003 Berne.
+
+43
+
+Initiative
+
+Loi
+
+Prestations des collectivités
+
+Les prestations fournies par la Confédération, par les cantons et par les communes doivent être adaptées immédiatement aux besoins des personnes handicapées. Les guichets, par exemple, doivent être accessibles aux personnes à mobilité réduite, et les prestations proposées sur Internet être adaptées aux moyens techniques utilisés par les personnes handicapées de la vue.
+
+La loi, comme l'initiative, exige des collectivités qu'elles adaptent leurs services aux besoins des personnes handicapées. Cette obligation vaut par exemple pour les écoles publiques, pour les bibliothèques et pour les piscines, de même que pour les publications officielles.
+
+Prestations des particuliers
+
+Non seulement l'Etat, mais aussi tous les prestataires de services privés, doivent fournir leurs prestations (transports, services de restauration, voyages, spectacles artistiques ou sportifs, par ex.) sous une forme adaptée aux besoins des personnes handicapées, et procéder, s'il y a lieu, à des aménagements spécifiques (ils doivent, par ex., prévoir des inscriptions spéciales pour les handicapés de la vue ou des distributeurs automatiques accessibles aux personnes en chaise roulante; les écoles de langue, d'art et de musique et les écoles-clubs doivent faire en sorte que leurs cours puissent être suivis par les personnes handicapées de la vue ou de l'ouïe).
+
+La loi dispose que les particuliers qui fournissent des prestations au public ne doivent pas traiter les personnes handicapées de façon discriminatoire. Cela signifie surtout que nul ne pourra se voir refuser une prestation du seul fait de son handicap. Par contre, les particuliers ne seront pas tenus de prendre des mesures spéciales en faveur des personnes handicapées.
+
+Proportionnalité
+
+L'initiative n'exige pas l'élimination de l'inégalité lorsque les mesures à prendre ne sont pas économiquement supportables. Comme elle ne précise pas ce qu'il faut entendre par «économiquement supportable», c'est le tribunal qui devra déterminer au cas par cas si l'élimination de l'inégalité peut raisonnablement être exigée ou non du propriétaire de l'immeuble ou de la personne qui fournit la prestation.
+
+Le législateur précise le principe de la proportionnalité et détermine ce qui est économiquement supportable. Il a décidé, par exemple, que les dépenses à consentir pour adapter aux besoins des personnes handicapées une construction qui doit de toute façon être rénovée pourront représenter jusqu'à 5% de la valeur du bâtiment ou 20% des frais de rénovation.
+
+Avis du
+Conseil fédéral
+
+L'objectif majeur de l'initiative, qui est de réaliser l'égalité entre personnes handicapées et personnes non handicapées, mérite d'être soutenu. La Constitution et la loi sur l'égalité pour les handicapés offrent déjà une solution adéquate et proportionnée pour éliminer les inégalités. La loi répond à de nombreuses questions pour lesquelles l'initiative s'en remet au tribunal. Cette dernière aurait un coût global très élevé et générerait des dépenses difficiles à estimer pour les personnes concernées. Le Conseil fédéral rejette l'initiative, notamment pour les raisons suivantes:
+
+L'initiative ne prévoit pas de délai d'adaptation
+Si l'initiative était acceptée, la modification constitutionnelle entrerait en vigueur immédiatement. Il serait difficile de déterminer quels bâtiments et prestations doivent être adaptés immédiatement et quels bâtiments et prestations ne devraient l'être qu'à un stade ultérieur parce que les aménagements exigés ne sont pas économiquement supportables. Les entreprises de transport public, dont les installations et véhicules sont coûteux et ont une très longue durée de vie, ainsi que les petites entreprises et les entreprises artisanales, qui ont souvent une faible marge de manœuvre financière, seraient particulièrement touchées.
+
+Sa mise en œuvre poserait problème
+La mise en œuvre de l'initiative soulèverait des difficultés. Sur de nombreux points, en effet, on ne sait pas comment les tribunaux interpréteraient la nouvelle norme constitutionnelle. L'inscription dans la Constitution d'un droit invocable en justice n'est pas le bon instrument pour assurer l'égalité entre personnes handicapées et personnes non handicapées.
+
+L'initiative va trop loin
+L'initiative confère des droits qui visent toutes les constructions et installations existantes ouvertes au public ainsi que les prestations de particuliers destinées au public. Pour le Conseil fédéral, des droits aussi étendus ne seraient viables ni sur le plan politique, ni, selon le sens dans lequel
+
+45
+
+évoluerait la jurisprudence, sur le plan économique. L'initiative va véritablement trop loin sur ce point.
+Elle aurait de lourdes conséquences financières
+L'initiative occasionnerait des frais élevés que les personnes concernées ne pourraient pas toutes supporter. On estime qu'en matière de transports publics, une adaptation immédiate et complète des infrastructures et véhicules aux besoins des personnes handicapées coûterait 4 milliards de francs. Les tribunaux auraient à déterminer quelle part de ce montant doit être considérée comme économiquement supportable. Dans le cas d'une construction nouvelle, le coût des adaptations à effectuer représente entre 1 et 5% du coût de l'ouvrage, ce qui reste dans des proportions acceptables. Le Conseil fédéral juge par contre exagéré d'exiger, comme le prévoit l'initiative, que ces adaptations soient réalisées sur les constructions existantes, même lorsqu'il n'est pas prévu de les rénover. Cette réglementation aurait un coût financier beaucoup plus lourd que la solution préconisée par le Conseil fédéral et le Parlement.
+La loi offre une meilleure solution
+Nul ne conteste qu'il faille prendre des mesures pour éliminer les inégalités, réelles, qui frappent les personnes handicapées. La loi sur l'égalité pour les handicapés, que le Parlement a adoptée pratiquement à l'unanimité en décembre 2002, répond déjà à l'objectif majeur de l'initiative.
+tive. Elle a l'avantage, par rapport à cette dernière, d'indiquer clairement quelles constructions et quelles prestations sont visées. De plus, elle prévoit au besoin des délais d'adaptation et autorise des exceptions lorsque le principe de la proportionnalité l'exige. Enfin, le caractère économiquement supportable est défini selon des critères qui sont identiques pour l'ensemble de la Suisse et qui ne varieront pas d'un tribunal à l'autre.
+La loi sur l'égalité pour les handicapés remplit donc le mandat de légiférer que la Constitution assigne à la Confédération. Le législateur fédéral a exécuté ce mandat très rapidement et répondu aux principales exigences de l'initiative. Il appartient maintenant aux cantons de prendre les dispositions nécessaires dans les domaines de leur ressort. Ils peuvent aussi, s'ils le veulent, aller plus loin que la Confédération.
+Au vu de ce qui précède, le Conseil fédéral et le Parlement vous recommandent de rejeter l'initiative «Droits égaux pour les personnes handicapées».
+
+46
+
+Septième objet
+
+Initiative populaire «Sortir du nucléaire – Pour un tournant dans le domaine de l'énergie et pour la désaffectation progressive des centrales nucléaires (Sortir du nucléaire)»
+
+La question à laquelle vous devez répondre est la suivante:
+Acceptez-vous l'initiative populaire «Sortir du nucléaire – Pour un tournant dans le domaine de l'énergie et pour la désaffectation progressive des centrales nucléaires (Sortir du nucléaire)»?
+
+Le Conseil national a rejeté l'initiative «Sortir du nucléaire» par 108 voix contre 63, le Conseil des États par 36 voix contre 5.
+
+Huitième objet
+
+Initiative populaire «Moratoire-plus – Pour la prolongation du moratoire dans la construction de centrales nucléaires et la limitation du risque nucléaire (Moratoire-plus)»
+
+La question à laquelle vous devez répondre est la suivante:
+Acceptez-vous l'initiative populaire «Moratoire-plus – Pour la prolongation du moratoire dans la construction de centrales nucléaires et la limitation du risque nucléaire (Moratoire-plus)»?
+
+Le Conseil national a rejeté l'initiative «Moratoire-plus» par 109 voix contre 67, le Conseil des États par 35 voix contre 6.
+
+7
+8
+
+L'essentiel en bref
+
+Situation actuelle
+
+Cinq centrales nucléaires sont actuellement en service en Suisse. Elles produisent 37,7% de l'électricité (moyenne des cinq dernières années). La part de l'énergie hydraulique représente 58,6% en moyenne. Les 3,7% restants se répartissent entre l'incinération des ordures, le gaz naturel, le pétrole, le biogaz et l'énergie solaire et éolienne. Depuis 1979, il y a eu cinq votations sur des initiatives antinucléaires. Toutes ont été rejetées, sauf celle intitulée «Halte à la construction de centrales nucléaires (moratoire)», qui a été acceptée en 1990. Aujourd'hui deux nouvelles initiatives passent en votation populaire.
+
+Que veut l'initiative «Sortir du nucléaire»?
+
+Elle demande l'arrêt progressif des centrales nucléaires. Gösgen et Leibstadt devraient cesser leur activité au plus tard 30 ans après leur mise en service, soit en 2009 et 2014. Beznau et Mühleberg dans les deux ans à compter de la date de la votation. Elles ne pourraient pas être remplacées par des centrales au pétrole, au gaz ou au charbon sans système de récupération de la chaleur. L'initiative demande aussi le stockage durable des déchets radioactifs produits en Suisse. Elle interdit le retraitement des combustibles nucléaires irradiés et exige la prise en charge, par les exploitants, des frais liés à la désaffectation des centrales.
+
+Les conséquences d'un OUI
+
+Toutes les centrales devraient être arrêtées d'ici à 2014. Cela affecterait considérablement l'approvisionnement de notre pays en électricité. La construction, dans les plus brefs délais, de centrales de substitution mettrait notre économie en péril. Il faudrait importer du courant ou se rabattre sur des installations fonctionnant au gaz ou au pétrole avec récupération de chaleur. Or elles émettent du CO2 et sont donc nocives pour le climat.
+
+Que veut l'initiative «Moratoire-plus»?
+
+Cette initiative est moins radicale. Elle demande que, s'il est prévu d'exploiter une centrale nucléaire pendant plus de 40 ans, le Parlement ou – en cas de référendum – le peuple approuve la prolongation. La durée d'exploitation ne pourrait être prolongée que par périodes de dix ans. Dans les dix ans suivant l'acceptation de l'initiative, aucune autorisation ne serait accordée pour de nouvelles installations nucléaires ni pour l'augmentation de la puissance des centrales existantes.
+
+Les conséquences d'un OUI
+
+Les cinq centrales existantes devraient cesser leur activité entre 2009 et 2024 si le Parlement ou le peuple refuse de prolonger leur durée d'exploitation. Cet abandon du nucléaire – certes plus lent comparé aux exigences de l'initiative «Sortir du nucléaire» – nécessiterait néanmoins à plus ou moins long terme le remplacement de l'énergie nucléaire par des énergies renouvelables, l'utilisation d'installations et d'appareils ayant un meilleur rendement énergétique ou, au besoin, la construction de centrales fonctionnant au gaz et le recours aux importations. Les mesures d'encouragement actuelles devraient être renforcées si la Suisse veut diminuer ses rejets de CO2, comme l'exige la loi, et assurer son approvisionnement en électricité.
+
+Position du Conseil fédéral et du Parlement
+
+Le Conseil fédéral et le Parlement rejettent les deux initiatives. L'abandon précipité du nucléaire demandé par l'initiative «Sortir du nucléaire» aurait de graves conséquences pour l'économie suisse. Quant à l'initiative «Moratoire-plus», elle restreindrait inutilement l'option nucléaire et compromettrait la protection du climat.
+
+47
+
+Texte soumis au vote
+
+Arrêté fédéral concernant l'initiative populaire «Sortir du nucléaire – Pour un tournant dans le domaine de l'énergie et pour la désaffectation progressive des centrales nucléaires (Sortir du nucléaire)»
+
+du 13 décembre 2002
+
+§
+(Préambule)
+
+Art. 1
+1 L'initiative populaire du 28 septembre 1999 «Sortir du nucléaire – Pour un tournant dans le domaine de l'énergie et pour la désaffectation progressive des centrales nucléaires (Sortir du nucléaire)» est valable et sera soumise au vote du peuple et des cantons.
+2 L'initiative¹, adaptée à la Constitution du 18 avril 1999, a la teneur suivante:
+
+I
+La Constitution est modifiée comme suit:
+Art. 90b (nouveau) Désaffectation des centrales nucléaires et interdiction du retraitement
+
+1 Les centrales nucléaires sont progressivement désaffectées.
+2 Le combustible nucléaire irradié ne doit plus êtreRetraité.
+3 La Confédération arrête les dispositions légales qui s'imposent, notamment en ce qui concerne:
+a. le recours à des sources d’énergie non nucléaires pour assurer l’approvisionnement en électricité, celle-ci ne devant pas provenir d’installations qui utilisent l’énergie fossile sans récupération de chaleur;
+b. le stockage durable des déchets radioactifs produits en Suisse, les exigences y relatives en matière de sécurité et l’ampleur minimale des droits de codécision des collectivités intéressées;
+c. la prise en charge par les exploitants, ainsi que par les actionnaires et les entreprises partenaires, de tous les frais en rapport avec l’exploitation des centrales nucléaires et leur désaffectation.
+
+II
+Les dispositions transitoires de la Constitution sont modifiées comme suit:
+Art. 197, ch. 2 (nouveau)
+2. Disposition transitoire ad art. 90b (Désaffectation des centrales nucléaires et interdiction du retraitement)
+
+1 Les centrales nucléaires de Beznau 1, de Beznau 2 et de Mühleberg sont mises hors service au plus tard deux ans après l’adoption de la présente disposition transitoire, les centrales nucléaires de Gösgen et de Leibstadt au plus tard trente ans après leur mise en service.
+2 Après l’adoption de la présente disposition transitoire l’exportation de combustibles nucléaires irradiés aux fins de retraitement n’est plus permise. Les combustibles nucléaires exportés, mais pas encoreRetraités à l’adoption de la présente disposition transitoire, doivent autant que possible être repris sans avoir étéRetraités. Les dispositions contraires d’accords internationaux sont réservées.
+3 Dans un délai d’une année après l’adoption de la présente disposition transitoire, le Conseil fédéral arrête les dispositions d’exécution qui s’imposent.
+
+Art. 2
+L’Assemblée fédérale recommande au peuple et aux cantons de rejeter l’initiative.
+
+1 Ayant été déposée sous le régime de l’ancienne constitution, l’initiative populaire se référerait encore à celle-ci. Dans le texte de l’initiative, le Parlement a adapté la numérotation et la présentation des articles à la nouvelle Constitution.
+
+«Sortir du nucléaire»: arguments du comité d'initiative:
+
+49
+
+«OUI à un approvisionnement sûr en électricité
+Si vous votez OUI à l'initiative «Sortir du nucléaire», la dernière des cinq vieilles centrales nucléaires (Leibstadt) s'arrêtera en 2014. Mais les trams et les trains continueront à circuler, les hôpitaux et les salles d'accouchement fonctionneront comme aujourd'hui, le téléjournal apparaîtra sur votre petit écran, des feux régleront le trafic aux carrefours. En organisant de manière progressive et ordonnée sa sortie du nucléaire, la Suisse, pionnière de l'énergie hydraulique, misera sur une meilleure utilisation de l'énergie et investira dans des sources sûres telles que l'eau, le soleil, le vent, le bois, la biomasse et la géothermie. Seuls trois pays d'Europe occidentale continuent, aujourd'hui encore, à jouer avec le feu et refusent obstinément de sortir de l'impasse nucléaire: l'Angleterre, la Finlande et la France. En 2014, le reste de l'Europe aura fait le bon choix depuis longtemps.
+
+OUI à la fin du cauchemar nucléaire
+Avec l'âge, les réacteurs nucléaires deviennent des bombes à retardement: leurs propres radiations neutroniques les fragilisent. Des attentats terroristes ou une erreur humaine peuvent aussi être à l'origine d'un accident grave entraînant la libération d'une forte quantité de radioactivité. Les conséquences seraient désastreuses, rendant la moitié de la Suisse inhabitable pour des siècles. Il y aurait d'innombrables victimes. Selon l'Office fédéral de la protection civile, le coût des dégâts s'élèverait à 4200 milliards de francs.
+
+OUI à l'arrêt de la production de déchets radioactifs
+Les déchets des centrales nucléaires restent radioactifs pendant plus de 100 000 ans et risquent à tout moment de contaminer gravement l'environnement. Un OUI à l'initiative évitera de doubler la quantité des déchets. Il faut certes trouver des sites de stockage, mais pas par des mesures de contrainte, comme le demandent le lobby nucléaire et le Parlement. Un OUI garantira le droit de participation des cantons, droit qui a fait ses preuves à Nidwald (Wellenberg), et qui permettra aux Zurichois, menacés d'un dépôt à Benken, ainsi qu'aux Romands et aux Tessinois, chez qui d'anciens projets pourraient être réactivés, de se prononcer.
+
+OUI à l'abandon de cette cuisine d'apprentis sorciers
+Le retraitement n'a aucune justification économique, mais il contamine l'air, la terre et les mers; il accroît le risque de leucémie, en particulier chez les enfants. Alchimie dangereuse, il n'a rien d'une procédure de recyclage inoffensive. De plus, un OUI écartera la menace du trafic de plutonium.
+
+OUI à des emplois sûrs dans des secteurs porteurs
+Dire OUI à l'abandon d'un mode de production d'électricité désuet, c'est rejoindre les pays pionniers: utilisant de manière optimale l'énergie et les sources d'énergie sûres et écologiques, nous contribuerons à la lutte contre l'effet de serre et les changements climatiques. La recherche et le développement ont déjà apporté des solutions dont les entreprises peuvent profiter dès maintenant. C'est un marché porteur qui, contrairement au nucléaire, garantira des milliers de nouveaux emplois et une relance de l'économie.
+www.sortirdunucleaire.ch»
+
+Texte soumis au vote
+
+Arrêté fédéral concernant l'initiative populaire «Moratoire-plus – Pour la prolongation du moratoire dans la construction de centrales nucléaires et la limitation du risque nucléaire (Moratoire-plus)»
+
+du 13 décembre 2002
+
+(Préambule)
+
+Art. 1
+
+1 L'initiative populaire du 28 septembre 1999 «Moratoire-plus – Pour la prolongation du moratoire dans la construction de centrales nucléaires et la limitation du risque nucléaire (Moratoire-plus)» est valable et sera soumise au vote du peuple et des cantons.
+2 L'initiative¹, adaptée à la Constitution du 18 avril 1999, a la teneur suivante:
+I
+La Constitution est modifiée comme suit:
+
+Art. 90a (nouveau) Durée d'exploitation des centrales nucléaires
+S'il est prévu d'exploiter une centrale nucléaire pendant plus de quarante ans et si cela n'est pas exclu par une autre disposition constitutionnelle, cette décision doit faire l'objet d'un arrêté fédéral soumis au référendum. La durée d'exploitation ne peut être prolongée que pour des périodes ne dépassant pas dix ans. La demande de prolongation présentée par l'exploitant doit notamment renseigner sur:
+a. le vieillissement de l'installation et les problèmes de sécurité qui en découlent;
+b. les mesures à prendre pour que l'installation satisfasse aux normes internationales de sécurité les plus modernes et les dépenses requises à cet effet.
+
+Art. 89, al. 6 (nouveau)
+6 La Confédération arrête des dispositions sur la déclaration à faire au sujet de la provenance du courant électrique et de son mode de production.
+II
+Les dispositions transitoires de la Constitution sont modifiées comme suit:
+
+Art. 197, ch. 2 (nouveau)
+2. Disposition transitoire ad art. 90a (Durée d'exploitation des centrales nucléaires)
+Durant les dix ans suivant l'acceptation de la présente disposition transitoire, aucune autorisation fédérale ne sera accordée pour:
+a. de nouvelles installations destinées à la production d'énergie nucléaire;
+b. l'augmentation de la puissance thermique des centrales nucléaires existantes;
+c. des réacteurs utilisés pour la recherche et le développement de la technique nucléaire, sauf s'ils servent à la médecine.
+
+Art. 2
+L'Assemblée fédérale recommande au peuple et aux cantons de rejeter l'initiative.
+
+1 Ayant été déposée sous le régime de l'ancienne constitution, l'initiative populaire se référait encore à celle-ci. Dans le texte de l'initiative, le Parlement a adapté la numérotation et la présentation des articles à la nouvelle Constitution.
+
+«Moratoire-plus»: arguments du comité d'initiative:
+
+51
+
+«OUI à la prolongation d'une sage décision
+Le 23 septembre 1990, près d'un million de personnes, soit 54,5% des votants, ont accepté l'initiative populaire «Halte à la construction de centrales nucléaires (moratoire)». Un OUI à l'initiative «Moratoire-plus» prolongera de 10 ans cette décision judicieuse. Nous disposerons ainsi du temps nécessaire pour généraliser l'utilisation efficace de l'énergie sans devoir renoncer à notre confort, mais tout en continuant à développer et exploiter des sources d'énergie propres telles que le soleil, l'eau, le vent, le bois, la biomasse ou la géothermie. Ces choix relanceront notre économie et entraîneront la création de milliers d'emplois sûrs dans un immense marché.
+
+OUI à un accroissement de la sécurité
+Le lobby nucléaire est bien décidé à maintenir les réacteurs en service pendant 60 ans ou plus. C'est jouer avec le feu, car le risque de catastrophe augmente avec l'âge des centrales. L'initiative «Moratoire-plus» donnera le dernier mot au peuple, lui permettant de décider démocratiquement si une centrale peut être exploitée pendant plus de 40 ans. Une prolongation de la durée d'exploitation serait alors sujette au référendum facultatif et obligerait les exploitants à fournir un rapport sur la sécurité. Les nucléocrates (ir)responsables s'opposent à ces contrôles publics, ce qui prouve combien ils sont nécessaires. Un OUI à l'initiative empêchera les exploitants des centrales d'économiser sur la sécurité.
+
+OUI à une diminution du risque de catastrophe
+L'initiative «Moratoire-plus» interdit d'augmenter la puissance des centrales existantes pendant les dix prochaines années, car augmenter la puissance d'un réacteur, c'est accroître le risque d'accident. En cas de fusion du cœur du réacteur, notre pays deviendrait radioactif et inhabitable. Un OUI à l'initiative rendra notre pays plus sûr.
+
+OUI à plus de transparence pour les consommateurs
+Un OUI à l'initiative obligera les fournisseurs d'électricité à indiquer l'origine et le mode de production du courant. Une déclaration de provenance sera exigée pour l'électricité. L'initiative «Moratoire-plus» responsabilsera citoyennes et citoyens, les mettant devant le choix d'une électricité d'origine sale, le nucléaire, ou propre.
+
+OUI au maintien de toutes les possibilités
+Dire que l'initiative «Moratoire-plus» demande l'abandon du nucléaire revient à tromper les citoyens. En réalité, elle laisse l'option nucléaire ouverte. Si l'initiative est acceptée, le moratoire durera jusqu'en 2013. Au-delà de cette échéance, de nouvelles centrales pourraient être planifiées et construites si nécessaire. Même les partisans du nucléaire peuvent donc dire OUI à cette initiative.
+www.pourunchoixresponsable.ch»
+
+52
+
+Avis du
+Conseil fédéral
+
+Les deux initiatives
+demandent l'abandon du
+nucléaire. Radicale,
+l'initiative «Sortir du
+nucléaire» exige une
+désaffection très rapide
+des centrales actuelles.
+L'abandon du nucléaire
+aurait de graves consé-
+quences pour l'économie
+et la population, provo-
+querait des émissions
+supplémentaires et
+mettrait en péril notre
+approvisionnement en
+électricité. Plus modérée,
+l'initiative «Moratoire-plus»
+restreint néanmoins
+inutilement l'option
+nucléaire. Le Conseil
+fédéral ne voit pas
+pourquoi on entraverait la
+poursuite de l'exploitation
+de centrales sûres et
+fiables. Il rejette les deux
+initiatives, notamment
+pour les raisons suivantes:
+
+Des centrales nucléaires sûres et fiables
+Les cinq centrales suisses contribuent pour
+une part importante à l'approvisionnement de
+notre pays en électricité. Grâce à des prescrip-
+tions sévères et à des contrôles de sécurité
+réguliers, elles sont sûres et d'une grande fia-
+bilité, et elles le resteront. Du point de vue éco-
+nomique et écologique, il serait peu judicieux
+d'arrêter des centrales ou d'en limiter la durée
+d'exploitation tant qu'elles fonctionnent bien.
+
+Initiative «Sortir du nucléaire»:
+
+Des conséquences draconiennes
+L'initiative «Sortir du nucléaire» propose une
+voie radicale. La désaffection des cinq cen-
+trales nucléaires suisses entre 2005 et 2014
+mettrait gravement en péril notre approvision-
+nement en électricité et notre compétitivité.
+Renoncer à près de 40% de notre production
+d'électricité reviendrait à accroître, dans ce
+domaine également, notre dépendance à
+l'égard de l'étranger. La construction rapide
+d'installations sans incidences sur le climat et
+les autres mesures nécessaires coûteraient
+chaque année près d'un milliard de francs de
+plus à notre économie. Il faudrait notamment
+investir dans la construction d'installations à
+couplage chaleur-force avec système de
+récupération de la chaleur dégagée lors de la
+production de courant, mais aussi encourager
+davantage les énergies renouvelables et les
+économies d'énergie. Enfin, l'industrie de l'élec-
+tricité et les cantons ayant des intérêts dans
+des centrales nucléaires subiraient des pertes
+financières considérables en cas d'abandon
+précipité de centrales qui fonctionnent bien.
+
+Ranchérissement de l'électricité
+La population et l'économie seraient aussi for-
+tement touchées. La restriction artificielle de
+
+7
+8
+
+l'approvisionnement en courant ferait grimper les prix de l'électricité, avant de se répercuter sur les autres prix à la consommation. Ce sont surtout les entreprises qui consomment beaucoup d'énergie et celles qui sont tournées vers les exportations, telles que les industries du textile et du papier, qui seraient pénalisées.
+
+Rejets de CO₂: objectifs plus difficiles à atteindre
+
+L'initiative entraverait aussi la réalisation de nos objectifs en matière de CO₂. En effet, l'énergie nucléaire ne peut être remplacée à plus ou moins brève échéance par des énergies renouvelables. Pour des motifs économiques et techniques, il faudrait probablement remédier à la pénurie d'électricité par du courant indigène ou étranger provenant de centrales au gaz ou au pétrole dotées d'un système de récupération de la chaleur. Il en résulterait une forte augmentation des émissions de CO₂. Pour atteindre ses objectifs en la matière, la Suisse devrait accroître sensiblement ses dépenses.
+
+Initiative «Moratoire-plus»:
+
+Une entrave qui n'a pas de sens
+
+En 1990, après l'acceptation de l'initiative «Halte à la construction des centrales nucléaires (moratoire)» par le peuple et les cantons, un moratoire de dix ans, valable jusqu'en 2000, avait été décrété en matière de construction de nouvelles centrales. L'initiative «Moratoire-plus» veut non seulement renouveler ce moratoire pour une période de dix ans, mais aussi limiter la durée d'exploitation des centrales. Elle autoriserait certes l'exploitation d'une centrale pendant plus de 40 ans, pour des périodes de dix ans, mais uniquement avec l'approbation du Parlement et – en cas de référendum – de la population. Or, tant que la sécurité est garantie, il ne serait pas judicieux de remettre en question, par de telles procédures d'autorisation, l'exploitation de centrales qui fonctionnent bien.
+
+Coûts supplémentaires pour l'économie
+
+En cas de désaffectation progressive des centrales nucléaires, il faudrait remplacer l'électricité qu'elles produisent par du courant importé ou provenant de nouvelles centrales au gaz ou au pétrole ou de sources d'énergie renouvelables; en outre il faudrait améliorer le rendement énergétique des installations et des appareils. Ces mesures créeraient certes des impulsions novatrices pour l'économie. Toutefois, conjuguées au manque à gagner dû à la fermeture des centrales nucléaires, elles grèveraient l'économie de quelque 500 millions de francs par année, ce qui risque de faire augmenter les prix de l'électricité.
+
+Efforts supplémentaires indispensables
+
+Actuellement aucune alternative écologique au nucléaire n'est concevable sans mesures de politique énergétique supplémentaires assorties de moyens financiers. Pour éviter une dépendance croissante en raison d'importations d'électricité et pour atteindre ses objectifs en matière de CO₂, notre pays devrait promouvoir davantage les énergies renouvelables et améliorer le rendement énergétique. Vu l'issue des derniers scrutins sur l'énergie, le Conseil fédéral doute que le Parlement et le peuple soient prêts à approuver les mesures nécessaires et à débloquer les fonds requis.
+
+Pour toutes ces raisons, le Conseil fédéral et le Parlement recommandent de rejeter l'initiative «Sortir du nucléaire» et l'initiative «Moratoire-plus».
+
+Le Conseil fédéral a élaboré un projet de nouvelle loi sur l'énergie nucléaire à titre de contre-projet indirect aux deux initiatives. Ce texte prévoit notamment l'interdiction du retraitement des assemblages combustibles usés et la possibilité, pour le canton d'accueil, de se prononcer sur la construction de nouvelles installations. Ces propositions sont toutefois contestées au Parlement. Au moment de la mise sous presse, les délibérations étaient encore en cours.
+
+54
+
+Neuvième objet
+
+Initiative populaire «pour une offre appropriée en matière de formation professionnelle (Initiative pour des places d'apprentissage)»
+
+La question à laquelle vous devez répondre est la suivante:
+Acceptez-vous l'initiative populaire «pour une offre appropriée en matière de formation professionnelle (Initiative pour des places d'apprentissage)»?
+
+Le Conseil national a rejeté cette initiative par 124 voix contre 58, le Conseil des États par 35 voix contre 6.
+
+9
+
+L'essentiel en bref
+
+55
+
+La formation professionnelle: une tâche capitale
+La Suisse accorde une grande importance à la formation professionnelle initiale des jeunes. L'Etat et les milieux économiques veillent ensemble à leur offrir un nombre suffisant de bonnes possibilités de formation. Cette tâche commune a une longue tradition, elle figure dans la Constitution fédérale et dans la loi. Les écoles professionnelles enseignent le savoir (les connaissances générales et la théorie), les entreprises le savoir-faire (les compétences techniques). On parle pour cette raison de formation professionnelle duale (à deux volets).
+
+outre, la coopération de l'Etat et des milieux économiques dans le secteur de la formation professionnelle duale, alors qu'elle a fait ses preuves, sera menacée, car il se peut que les employeurs préfèrent verser de l'argent dans le fonds plutôt que former des jeunes. La formation professionnelle incombera alors toujours plus à l'Etat: la Confédération et les cantons devront ouvrir des écoles qui, loin des réalités et de la pratique, ne formeront pas les jeunes aussi bien que le système dual école/entreprise.
+
+La nouvelle loi fédérale sur la formation professionnelle
+En décembre 2002, le Parlement a adopté à l'unanimité une nouvelle loi sur la formation professionnelle. Cette loi intègre les revendications des auteurs de l'initiative tout en autorisant des solutions plus flexibles. Grâce à elle, le Conseil fédéral pourra intervenir plus vite et de manière ponctuelle en cas de manque de places d'apprentissage dans certaines branches.
+
+Que demande l'initiative?
+L'initiative des jeunes syndicalistes exige que le droit à une formation professionnelle suffisante soit inscrit dans la Constitution fédérale. Au cas où les entreprises ne proposeraient pas suffisamment de places d'apprentissage, la Confédération et les cantons devraient intervenir et offrir des cours de formation professionnelle. Les dépenses causées seraient financées par un fonds pour la formation professionnelle. Tous les employeurs seraient tenus d'y cotiser. On tiendrait compte du fait qu'ils offrent ou non déjà des places d'apprentissage. La Confédération devrait répartir l'argent du fonds entre les cantons.
+
+Position du Conseil fédéral et du Parlement
+Le Conseil fédéral et le Parlement rejettent cette initiative. Ils estiment en effet que la nouvelle loi sur la formation professionnelle, en entraînant un remodelage important de la formation professionnelle, permet de mieux résoudre les problèmes du marché de l'apprentissage. Une taxe supplémentaire, due par toutes les entreprises, diminuerait de surcroît leur compétitivité. Enfin, la gestion du fonds en question nécessiterait une organisation beaucoup trop bureaucratique.
+
+Conséquences de l'initiative
+Si elle est acceptée, l'initiative instaurera un droit à la formation professionnelle qui pourra être invoqué devant les tribunaux, mais qui ne pourra guère être garanti. En
+
+Texte soumis au vote
+
+Arrêté fédéral relatif à l'initiative populaire «Pour une offre appropriée en matière de formation professionnelle (Initiative pour des places d'apprentissage)»
+
+du 22 mars 2002
+
+§
+(Préambule)
+
+Art. 1
+1 L'initiative populaire du 26 octobre 1999 «Pour une offre appropriée en matière de formation professionnelle (Initiative pour des places d'apprentissage)» est valable et sera soumise au vote du peuple et des cantons.
+2 L'initiative¹, adaptée à la Constitution du 18 avril 1999, a la teneur suivante:
+
+I
+La Constitution est modifiée comme suit:
+
+Art. 63a (nouveau) Formation professionnelle
+1 Le droit à une formation professionnelle appropriée est garanti.
+2 La Confédération et les cantons veillent à garantir une offre suffisante en matière de formation professionnelle. Cette formation doit être de qualité et peut être dispensée dans des entreprises et dans des écoles professionnelles, dans des écoles publiques ou dans des institutions analogues placées sous la surveillance de l'Etat.
+3 La Confédération crée un fonds pour la formation professionnelle.
+4 Le financement du fonds est assuré par des contributions de tous les employeurs. Les coûts des places de formation mises à disposition doivent être pris en compte si ces places satisfont aux exigences de qualité.
+5 La Confédération règle la répartition des capitaux du fonds entre les cantons. Les cantons sont compétents pour l'utilisation de ces capitaux. A cet effet, ils associent les partenaires sociaux. Ces derniers participent notamment au contrôle de la qualité des places de formation.
+
+II
+Les dispositions transitoires de la Constitution sont modifiées comme suit:
+
+Art. 197, ch. 2 (nouveau)
+2. Disposition transitoire ad art. 63a (Formation professionnelle)
+Si la loi d'application n'est pas entrée en vigueur trois ans après l'acceptation de l'art. 63a, le Conseil fédéral prend à cette date les mesures nécessaires par voie d'ordonnance.
+
+Art. 2
+L'Assemblée fédérale recommande au peuple et aux cantons de rejeter l'initiative.
+
+9
+1 Ayant été déposée sous le régime de l'ancienne constitution, l'initiative populaire se référait encore à celle-ci. Dans le texte de l'initiative, le Parlement a adapté la numérotation et la présentation des articles à la nouvelle Constitution.
+
+Arguments du comité d'initiative:
+
+«Davantage de places d'apprentissage – un avenir pour les jeunes
+
+— La crise économique que nous traversons frappe de plein fouet le marché des places d'apprentissage: une fois encore, il n'y en a pas pour tout le monde.
+37 jeunes, garçons et filles, posent leur candidature pour une seule place en informatique, 18 autres pour une place d'apprentissage de commerce. Conséquences: nombreux sont celles et ceux qui ne trouvent pas de place d'apprentissage et qui se retrouvent à la rue, sans avenir. L'augmentation du stress provoque aussi une augmentation du nombre des jeunes qui interrompent leur formation professionnelle, un drame pour eux, mais aussi pour notre économie. Car entrer aujourd'hui dans la vie professionnelle sans avoir appris de métier, c'est être sûr de rester tôt ou tard sur le carreau. Et sans professionnel-le-s bien formé-e-s, notre économie perdra sa compétitivité. Il nous faut davantage de bonnes places d'apprentissage!
+— Malheureusement les directions des entreprises ne prennent pas leurs responsabilités suffisamment au sérieux. Beaucoup se défilent: les entreprises qui forment encore des apprenti-e-s ne sont plus que 17% du total aujourd'hui alors qu'elles étaient encore 33% dans les années 80 dans l'industrie et les arts et métiers. Voilà pourquoi il faut instaurer un système d'incitations financières pour créer de nouvelles places d'apprentissage. La nouvelle loi sur la formation professionnelle n'y suffit pas: les mesures d'encouragement prévues sur le papier resteront lettre morte si l'argent nécessaire manque.
+— L'initiative populaire pour des places d'apprentissage (lipa) déchargera les entreprises qui assument leurs responsabilités en formant des jeunes. En outre, elle permettra de dégager les 400 à 500 millions de francs dont on a un urgent besoin pour inciter les autres à créer des places d'apprentissage. Elle propose donc que tous les employeurs s'acquittent d'une contribution de formation de sorte que les quelques (les entreprises qui ne forment pas de jeunes, mais qui profitent des efforts des autres) passent eux aussi à la caisse. La Confédération, les cantons et les partenaires sociaux décideront ensemble de l'utilisation des fonds grâce auxquels ils renforceront, unis dans un même effort, la formation professionnelle.
+— Une initiative lancée par des jeunes, pour les jeunes et leur avenir: la présente initiative a été lancée à la fin des années 90 – au moment où le manque de places d'apprentissage atteignait son paroxysme – par des jeunes confrontés alors au problème. Aujourd'hui nombreux sont celles et ceux qui connaissent à nouveau les mêmes difficultés. Les associations de jeunes, les jeunes engagés dans la politique et les jeunes syndicalistes appuient notre initiative. Ils méritent votre soutien – car notre avenir, c'est aussi le vôtre.»
+
+58
+
+Avis du
+Conseil fédéral
+
+Le but de l'initiative, qui est de permettre à tous les jeunes d'acquérir une formation professionnelle suffisante, n'est pas mis en cause. Par contre, la nouvelle loi sur la formation professionnelle permettra mieux de l'atteindre, car elle donne à la Confédération, aux cantons et aux milieux économiques le pouvoir de s'engager davantage en faveur de la formation professionnelle. L'initiative compromet cet engagement commun. Elle attribue la responsabilité de la formation professionnelle initiale à la seule Confédération et exige des entreprises qu'elles paient de nouvelles taxes. En fin de compte, elle nuit à la place économique suisse. Le Conseil fédéral la rejette notamment pour les raisons suivantes:
+
+Elle est contre-productive
+La Constitution fédérale oblige déjà la Confédération et les cantons à s'engager à ce que les jeunes bénéficient d'une formation initiale et d'une formation continue adéquates. Dans le cas de la formation professionnelle, il est impossible d'atteindre ce but social sans coopération avec les milieux économiques. Or les auteurs de l'initiative veulent faire de ce but social un droit fondamental tout en réclamant des mesures qui menacent ce droit. La taxe supplémentaire affaiblirait en effet les entreprises et menacerait les places d'apprentissage, notamment celles qui sont offertes par les petites ou les moyennes entreprises.
+
+Elle menace la formation professionnelle actuelle
+D'après le comité d'initiative, 400 à 500 millions de francs alimenteraient chaque année le fonds prévu. Si un manque de places d'apprentissage venait à se dessiner, les cantons devraient financer des écoles à plein temps à caractère professionnel avec cet argent. Cela inciterait les entreprises à transférer à l'Etat – contre paiement – leur responsabilité en matière de formation initiale des jeunes. Contrairement à ce que souhaite le comité, le nombre des employeurs qui se dérobent à leurs obligations augmenterait. On risquerait alors fort de passer à un système où l'Etat assurerait entièrement la formation, les milieux économiques n'ayant plus qu'à passer à la caisse.
+
+59
+
+De moins bonnes chances pour les jeunes sur le marché du travail
+Les écoles cantonales à plein temps ne peuvent adapter leurs filières de formation aux mutations de l'économie au même rythme que les entreprises formatrices. Elles risquent donc d'offrir des formations dépassées et les liens étroits qui existent entre la formation professionnelle initiale et le monde du travail pourraient disparaître. Les jeunes n'auraient plus les mêmes perspectives sur le marché du travail et les entreprises devraient prévoir des cours de rattrapage longs et coûteux. Le droit à la formation professionnelle pourrait donc même aller jusqu'à réduire les chances des jeunes de trouver du travail.
+
+Une administration pléthorique
+Le nouveau fonds prévu par l'initiative entraînerait un travail administratif gigantesque. La Confédération devrait calculer chaque année la contribution de chaque entreprise, de chaque branche, puis de l'économie toute entière (en fonction des critères de chacune). Elle devrait répartir les fonds entre les cantons, qui seraient alors chargés de les affecter entre les régions et les professions et qui devraient en plus, diriger ou surveiller les nouvelles écoles. Même les partenaires sociaux seraient davantage sollicités étant donné qu'ils ont l'obligation de vérifier que les places de formation répondent aux critères de qualité. Au total, c'est tout le secteur public qui gonflerait, au détriment de l'économie.
+
+La loi sur la formation professionnelle est plus efficace
+La nouvelle loi permet de supprimer les déséquilibres du marché de l'apprentissage et d'instaurer des fonds par branche: le Conseil fédéral pourra, par des mesures limitées dans le temps, s'attaquer au manque de places d'apprentissage qui affecte certaines branches. Les organisations du monde du travail pourront créer leurs propres fonds pour encourager la formation professionnelle dans leur branche. Ces branches et les partenaires sociaux de l'économie resteront le moteur de la formation professionnelle et les entreprises continueront à assumer leurs responsabilités dans ce secteur. Celles qui se sont dérobées à leur devoir seront rappelées à l'ordre. Au total donc, la nouvelle loi sur la formation professionnelle¹ favorise des solutions souples entre partenaires. Plus que l'initiative, elle garantit que les objectifs de la formation professionnelle, communs à tous, seront atteints.
+
+Pour toutes ces raisons, le Conseil fédéral et le Parlement vous recommandent de rejeter l'initiative pour des places d'apprentissage.
+
+¹ La loi sur la formation professionnelle est publiée dans la Feuille fédérale (2002 7739) et sur Internet (www.admin.ch). Elle peut également être commandée à l'OFCL, Vente des publications, 3003 Berne.

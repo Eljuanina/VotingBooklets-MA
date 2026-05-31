@@ -1,0 +1,1390 @@
+Votation populaire
+
+7 mars 2021
+
+Premier objet
+
+Initiative populaire « Oui à l'interdiction de se dissimuler le visage »
+
+Deuxième objet
+
+Loi fédérale sur les services d'identification électronique (LSIE)
+
+Troisième objet
+
+Accord de partenariat économique avec l'Indonésie
+
+Schweizerische Eidgenossenschaft
+Confédération suisse
+Confederazione Svizzera
+Confederaziun svizra
+
+The provided image is completely blank and contains no text. Therefore, I cannot extract any text from it.
+
+3
+
+Premier objet
+
+Initiative populaire « Oui à l'interdiction de se dissimuler le visage »
+
+En bref
+En détail
+Arguments
+Texte soumis au vote
+
+4–5
+10
+14
+18
+
+Deuxième objet
+
+Loi fédérale sur les services d'identification électronique (LSIE)
+
+En bref
+En détail
+Arguments
+Texte soumis au vote
+
+6–7
+20
+24
+28
+
+Troisième objet
+
+Accord de partenariat économique avec l'Indonésie
+
+En bref
+En détail
+Arguments
+Texte soumis au vote
+
+8–9
+44
+50
+54
+
+Les vidéos sur la votation :
+admin.ch/videos-fr
+
+L'application sur les votations :
+VoteInfo
+
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 4. Meaning that the model was reciting from copyrighted material.]
+
+5
+
+La question qui vous est posée
+
+Acceptez-vous l'initiative populaire « Oui à l'interdiction de se dissimuler le visage » ?
+
+Recommandation du Conseil fédéral et du Parlement
+
+Non
+
+Le Conseil fédéral et le Parlement rejettent l'initiative.
+La dissimulation du visage est un phénomène marginal.
+L'interdire dans tout le pays rognera les droits des cantons, nuira au tourisme et n'aidera pas les femmes concernées.
+Le contre-projet comble une lacune de manière ciblée : le visage devra être montré lors de toute vérification d'identité.
+admin.ch/interdiction-dissimuler-visage
+
+Recommandation du comité d'initiative
+
+Oui
+
+Pour le comité, la dissimulation du visage dans l'espace public symbolise l'oppression de la femme et est contraire à l'esprit libéral du vivre-ensemble, raisons pour lesquelles il convient de l'interdire.
+Selon lui, l'initiative vise aussi les personnes qui se dissimulent le visage avec des visées criminelles et destructrices.
+interdiction-dissimuler-visage.ch
+
+Vote du Conseil national
+
+77 oui
+113 non
+7 abstentions
+
+Vote du Conseil des États
+
+7 oui
+36 non
+2 abstentions
+
+En bref
+
+Loi fédérale sur les services d'identification électronique (LSIE)
+
+Contexte
+
+Pour faire des achats ou obtenir des services en ligne, il est généralement nécessaire de s'identifier. Il existe déjà différentes procédures, souvent au moyen d'un identifiant et d'un mot de passe. Toutefois, en Suisse, aucune d'entre elles n'est encadrée par la loi ou ne fait l'objet d'une garantie de la Confédération quant à sa sécurité et sa fiabilité. C'est pourquoi le Conseil fédéral et le Parlement ont préparé une loi instaurant un système d'identification reconnu par la Confédération : l'e-ID. La loi est soumise au vote, car une demande de référendum a abouti.
+
+Le projet
+
+La nouvelle loi sur l'e-ID définit une procédure d'identification univoque utilisable pour faire des achats ou obtenir des services sur Internet de manière simple et sûre (par ex. ouvrir un compte bancaire ou commander un document officiel). L'acquisition d'une e-ID est facultative. Les personnes intéressées doivent en faire la demande auprès d'un fournisseur d'e-ID reconnu par la Confédération. Celui-ci transmet la demande à la Confédération, qui vérifie l'identité de la personne puis autorise l'émission de l'e-ID. La Confédération confie la mise en œuvre technique aux fournisseurs, qui peuvent être des entreprises, des cantons ou des communes, et surveille leur activité. L'émission et l'utilisation des e-ID, comme toute procédure d'identification, impliquent le traitement de données personnelles. La nouvelle loi met donc un accent particulier sur la protection des données.
+
+L'objet en détail
+Arguments
+Texte soumis au vote
+20
+24
+28
+
+La question qui vous est posée
+
+Acceptez-vous la loi fédérale du 27 septembre 2019 sur les services d'identification électronique (LSIE) ?
+
+Recommandation du Conseil fédéral et du Parlement
+
+Oui
+
+Comme beaucoup d'opérations se font aujourd'hui sur Internet, il est important de pouvoir s'identifier en ligne de manière sûre. La loi adoptée par le Conseil fédéral et le Parlement propose une procédure d'identification simple, sûre et reconnue par la Confédération.
+
+admin.ch/loi-e-id
+
+Recommandation du comité référendaire
+
+Non
+
+Selon le comité, la nouvelle loi permet à des acteurs privés de commercialiser et délivrer des pièces d'identité officielles. Des entreprises, notamment des banques et des assurances, géreront les données privées des citoyens. L'émission de pièces d'identité doit rester de la responsabilité de l'État.
+
+eid-referendum.ch
+
+Vote du Conseil national
+
+144 oui
+2 abstentions
+51 non
+
+Vote du Conseil des États
+
+35 oui
+2 non
+8 abstentions
+
+En bref
+
+Accord de partenariat économique avec l'Indonésie
+
+Contexte
+
+Il est important pour les entreprises suisses d'exporter et d'avoir des relations économiques fiables. Pour garantir et améliorer leur accès aux marchés étrangers, la Suisse entretient un vaste réseau d'accords avec des pays partenaires. Aujourd'hui, des droits de douane élevés et d'autres barrières entravent le commerce avec l'Indonésie, le quatrième pays le plus peuplé du monde. C'est pourquoi la Suisse a également négocié un accord avec ce pays. L'accord fait l'objet d'un référendum, notamment au motif qu'il réduit, à certaines conditions, les droits de douane sur les importations d'huile de palme.
+
+Le projet
+
+L'accord prévoit que toutes les marchandises suisses importantes peuvent être exportées vers l'Indonésie en franchise douanière. Les entreprises suisses bénéficient ainsi sur le marché indonésien en pleine croissance de conditions au moins aussi favorables que la concurrence étrangère. La Suisse supprime quant à elle les droits de douane sur les produits industriels indonésiens. Afin de protéger l'agriculture suisse, elle les maintient cependant en grande partie sur les produits agricoles. Notre pays et l'Indonésie s'engagent de plus à mettre en place un commerce compatible avec le développement durable. Concernant les importations d'huile de palme indonésienne, l'accord prévoit certaines réductions douanières pour un quota limité. Pour en bénéficier, l'importateur doit prouver que l'huile de palme a été produite dans le respect des exigences environnementales et sociales prévues par l'accord.
+
+L'objet en détail
+Arguments
+Texte soumis au vote
+
+44
+50
+54
+
+9
+
+La question qui vous est posée
+
+Acceptez-vous l'arrêté fédéral du 20 décembre 2019 portant approbation de l'Accord de partenariat économique de large portée entre les États de l'AELE et l'Indonésie ?
+
+Recommandation du Conseil fédéral et du Parlement
+
+Oui
+
+Pour le Conseil fédéral et le Parlement, il s'agit d'un accord important et équilibré. Il tient compte des intérêts économiques des deux pays ainsi que de l'objectif de développement durable. Les conditions plus avantageuses prévues par l'accord sont applicables uniquement à l'importation d'huile de palme durable.
+
+admin.ch/accord-indonesie
+
+Recommandation du comité référendaire
+
+Non
+
+Pour le comité référendaire, il est presque impossible de respecter les critères de durabilité promis par l'accord, car il n'y a pas de possibilités de contrôle et de sanction efficaces. L'huile de palme bon marché détruit les forêts primaires et concurrence des produits comme l'huile de tournesol ou de colza en Suisse.
+
+stop-huile-de-palme.ch
+
+Vote du Conseil national
+
+119 oui
+
+56 non
+
+21 abstentions
+
+Vote du Conseil des États
+
+34 oui
+
+8 non
+
+2 abstentions
+
+10
+
+Premier objet : interdiction de se dissimuler le visage
+
+En détail
+
+Initiative populaire « Oui à l'interdiction de se dissimuler le visage »
+
+Arguments du comité d'initiative
+Arguments du Conseil fédéral
+et du Parlement
+Texte soumis au vote
+
+→
+→
+→
+
+14
+16
+18
+
+11
+
+Des prérogatives cantonales
+
+Il n'existe pas, à l'heure actuelle, d'interdiction de se dissimuler le visage applicable dans tout le pays. Le Conseil fédéral et les Chambres fédérales se sont toujours prononcés contre une telle interdiction au cours des dernières années. En Suisse, c'est aux cantons qu'il appartient de réglementer l'utilisation de l'espace public. Ils ont donc tout loisir d'interdire le port de pièces vestimentaires dissimulant le visage, telles que la burqa ou le niqab. Les cantons du Tessin et de Saint-Gall l'ont fait, alors que d'autres cantons, tels que Zurich, Schwytz et Glaris, s'y sont opposés. Quinze cantons, enfin, interdisent la dissimulation du visage lors de manifestations ou d'événements sportifs.
+
+Interdictions en vigueur dans les cantons
+
+Cantons interdisant toute forme de dissimulation du visage
+Cantons interdisant la dissimulation du visage lors de manifestations et/ou d'événements sportifs
+Cantons ne disposant d'aucune réglementation en la matière
+
+12
+
+Premier objet : interdiction de se dissimuler le visage
+
+Conséquences potentielles de la dissimulation du visage
+
+La dissimulation du visage peut déjà avoir des conséquences à l'heure actuelle. Ainsi, lorsque le port du voile intégral est le signe d'un manque d'intégration, les autorités peuvent refuser d'octroyer une autorisation de séjour ou d'établissement à la personne concernée, ou de la naturaliser. Par ailleurs, il est punissable d'obliger une personne à se dissimuler le visage. Un tel acte est considéré comme relevant de la contrainte par le droit suisse.
+
+L'initiative demande une interdiction applicable dans tout le pays
+
+L'initiative veut interdire la dissimulation du visage dans tous les lieux accessibles au public, que ce soit dans la rue, les transports publics, les services administratifs, les stades de football, les restaurants et les magasins ou encore en pleine nature. En plus de la contrainte, une infraction figurant dans le droit pénal actuel, les auteurs de l'initiative veulent inscrire dans la Constitution que nul ne peut contraindre une personne de se dissimuler le visage en raison de son sexe.
+
+Exceptions
+
+L'initiative fournit une liste exhaustive des exceptions possibles. Ainsi, la dissimulation du visage sera admise dans les lieux de culte, pour des raisons de sécurité ou de santé (par ex. casque de moto ou masque d'hygiène), pour des raisons climatiques (par ex. cagoule) ou lorsqu'elle fait partie intégrante d'une coutume locale (par ex. masque de carnaval). Aucune autre exception (par ex. en faveur des touristes voilées) ne sera admise.
+
+Le contre-projet indirect
+
+Estimant que l'initiative va trop loin, le Conseil fédéral et le Parlement ont adopté un contre-projet indirect qui comble de manière ciblée une lacune du droit fédéral : une personne sera désormais tenue de montrer son visage aux autorités si celles-ci doivent vérifier son identité (par ex. dans un service administratif ou dans les transports publics). La personne qui n'accepte pas de montrer son visage sera punie d'une amende, et les autorités pourront lui refuser une prestation. Le contre-projet du Conseil fédéral et du Parlement vise en outre à renforcer les droits des femmes : il prévoit, dans les domaines de l'intégration, de l'égalité et de la coopération au développement, des modifications de loi qui permettront à la Confédération de soutenir des programmes d'encouragement et de contribuer ainsi à améliorer l'égalité entre les sexes. Le contre-projet entrera en vigueur à condition que l'initiative soit rejetée et qu'il ne soit pas lui-même rejeté à la suite d'un référendum.
+
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 4. Meaning that the model was reciting from copyrighted material.]
+
+15
+
+L'initiative n'est contraire ni à la liberté de religion, ni à la liberté d'opinion
+
+Dans un arrêt rendu en 2014, la Cour européenne des droits de l'homme (CEDH) indique que l'interdiction du port de la burqa et du niqab en public est proportionnée et n'est contraire ni à la liberté de religion, ni à la liberté d'opinion. La burqa et le niqab ne sont en outre pas mentionnés une seule fois dans le Coran. Il n'est donc pas étonnant qu'une grande partie des musulmans s'opposent, comme la plupart des non-musulmans, à une dissimulation complète du corps des femmes.
+
+COVID-19 : aucune incidence sur l'initiative
+
+La Confédération et les cantons ont, comme on le sait, ordonné le port de masques d'hygiène dans certains lieux, en vue d'endiguer la propagation du COVID-19. Cette mesure, limitée dans le temps, n'a aucune incidence sur notre initiative. Le texte de cette dernière prévoit en effet des exceptions justifiées par des raisons de santé ou de sécurité, par des raisons climatiques (par ex. pour la pratique des sports d'hiver) ou par des coutumes locales (carnaval, traditions populaires).
+
+Recommandation du comité d'initiative
+
+Le comité d'initiative vous recommande donc de voter :
+
+Oui
+
+interdiction-dissimuler-visage.ch
+
+Le comité d'initiative est seul responsable du contenu et de la formulation des arguments figurant ci-dessus.
+
+16
+
+Arguments
+
+Conseil fédéral et Parlement
+
+Le Conseil fédéral reconnaît que le voile intégral peut susciter un sentiment de malaise. Interdire son port dans tout le pays va toutefois trop loin. La dissimulation du visage est un phénomène marginal en Suisse. L'initiative empiète en outre sur les compétences des cantons. Le Conseil fédéral et le Parlement opposent à l'initiative un contre-projet indirect qui comble une lacune de manière ciblée : toute personne sera désormais tenue de montrer son visage aux autorités si celles-ci doivent vérifier son identité. Le Conseil fédéral et le Parlement rejettent l'initiative, notamment pour les raisons suivantes :
+
+Le port du voile intégral est un phénomène marginal
+
+Les femmes portant le voile intégral peuvent certes susciter un sentiment de malaise, mais elles sont rares en Suisse. Il s'agit avant tout de touristes qui ne séjournent que temporairement dans notre pays. Interdire le port du voile intégral dans toute la Suisse serait donc disproportionné.
+
+Respecter les prérogatives cantonales
+
+Les cantons peuvent légiférer dès qu'ils le jugent opportun. Chacun d'entre eux peut interdire la dissimulation du visage s'il le souhaite. Le Conseil fédéral et le Parlement n'entendent pas remettre en question ce principe éprouvé. Ce sont les cantons qui connaissent le mieux les attentes de la population. Chacun d'entre eux peut ainsi définir lui-même les règles qu'il compte appliquer aux touristes portant le voile intégral, en fonction de ses besoins. Une interdiction applicable dans tout le pays ne garantira en outre pas la solution uniforme promise par l'initiative : la mise en œuvre de cette dernière pourrait être très différente d'un canton à l'autre, par exemple en ce qui concerne les amendes.
+
+Une interdiction sera contre-productive
+
+L'initiative veut combattre l'oppression des femmes. Mais interdire la dissimulation du visage n'améliorera pas la condition des femmes voilées. Au contraire, une telle interdictionRiskera de les exclure de la vie publique.
+
+Conséquences
+possibles du port
+du voile intégral
+à l'heure actuelle
+
+Le port du voile intégral peut avoir des conséquences
+juridiques aujourd'hui déjà. S'il est le signe d'un manque
+d'intégration, les autorités peuvent refuser d'octroyer une
+autorisation de séjour ou d'établissement à la femme concer-
+née, ou de la naturaliser. Par ailleurs, il est déjà punissable,
+selon le droit actuel, de contraindre une femme à se dissimuler
+le visage. Inscrire une disposition supplémentaire dans la
+Constitution fédérale n'aura donc qu'une portée symbolique.
+
+Le contre-projet
+propose une
+solution ciblée
+
+Le Conseil fédéral et le Parlement sont conscients du fait
+que la dissimulation du visage peut parfois poser problème. Le
+contre-projet indirect propose une solution ciblée. Contraire-
+ment à l'initiative, qui prévoit une mesure inutile et trop rigide
+à l'échelle nationale, le contre-projet respecte les prérogatives
+des cantons, dans un système de répartition des compétences
+qui a fait ses preuves.
+
+Recommandation
+du Conseil fédéral
+et du Parlement
+
+Pour toutes ces raisons, le Conseil fédéral et le Parlement
+vous recommandent de rejeter l'initiative populaire « Oui à
+l'interdiction de se dissimuler le visage ».
+
+Non
+
+admin.ch/interdiction-dissimuler-visage
+
+17
+
+18
+
+Premier objet : interdiction de se dissimuler le visage
+
+Texte soumis au vote
+
+Arrêté fédéral relatif à
+l'initiative populaire «Oui à l'interdiction de se
+dissimuler le visage»
+du 19 juin 2020
+
+L'Assemblée fédérale de la Confédération suisse,
+vu l'art. 139, al. 5, de la Constitution¹,
+vu l'initiative populaire «Oui à l'interdiction de se dissimuler le visage»
+déposée le 15 septembre 2017²,
+vu le message du Conseil fédéral du 15 mars 2019³,
+arrête:
+
+Art. 1
+
+1 L'initiative populaire du 15 septembre 2017 «Oui à l'interdiction de se dissimuler
+le visage» est valable et sera soumise au vote du peuple et des cantons.
+
+2 Elle a la teneur suivante:
+
+La Constitution est modifiée comme suit:
+
+Art. 10a Interdiction de se dissimuler le visage
+
+1 Nul ne peut se dissimuler le visage dans l'espace public, ni dans les lieux acces-
+sibles au public ou dans lesquels sont fournies des prestations ordinairement acces-
+sibles par tout un chacun; l'interdiction n'est pas applicable dans les lieux de culte.
+
+2 Nul ne peut contraindre une personne de se dissimuler le visage en raison de son
+sexe.
+
+3 La loi prévoit des exceptions. Celles-ci ne peuvent être justifiées que par des
+raisons de santé ou de sécurité, par des raisons climatiques ou par des coutumes
+locales.
+
+Art. 197, ch. 12⁴
+
+12. Disposition transitoire ad art. 10a (Interdiction de se dissimuler le visage)
+
+La législation d'exécution doit être élaborée dans les deux ans qui suivent l'accepta-
+tion de l'art. 10a par le peuple et les cantons.
+
+1 RS 101
+2 FF 2017 6109
+3 FF 2019 2895
+4 Le numéro définitif de la présente disposition transitoire sera fixé par la Chancellerie
+fédérale après le scrutin.
+
+19
+
+Art. 2
+
+L'Assemblée fédérale recommande au peuple et aux cantons de rejeter l'initiative.
+
+20
+
+Deuxième objet : loi sur l'e-ID
+
+En détail
+
+Loi fédérale sur les services d'identification électronique (LSIE)
+
+Contexte
+
+Internet a changé les habitudes et les besoins de la population et des entreprises. Il est toujours plus courant d'y faire des achats ou d'y utiliser des services. Les autorités aussi proposent de plus en plus de services en ligne. Dans ce contexte, il est essentiel que l'identité des parties soit établie avec certitude et que les données soient protégées.
+
+Réglé par la loi et reconnu par la Confédération
+
+En Suisse, il n'existe pas encore de procédure d'identification pour les services en ligne qui soit réglée par la loi et reconnue par la Confédération. Les utilisateurs doivent pouvoir s'identifier de manière simple et sûre. C'est pourquoi le Conseil fédéral et le Parlement ont décidé de proposer un système reconnu par la Confédération : l'e-ID.
+
+Arguments du comité référendaire → 24
+Arguments du Conseil fédéral et du Parlement → 26
+Texte soumis au vote → 28
+
+21
+
+Avantages de l'e-ID
+
+L'e-ID permet de se connecter facilement et sûrement à différents sites pour faire des achats et obtenir des services. Certaines démarches pour lesquelles il était fastidieux de prouver son identité, par exemple en se présentant en personne, pourront se faire en ligne : conclure un abonnement de téléphone, ouvrir un compte bancaire ou commander un extrait du registre des poursuites. De plus, l'e-ID permet de réduire le nombre de mots de passe.
+
+Identification univoque
+
+L'e-ID garantit qu'un utilisateur est bien la personne qu'il prétend être en ligne. En effet, les informations qui lui sont associées, notamment le nom, le prénom et la date de la naissance, ont été vérifiées.
+
+Responsabilité de la Confédération
+
+La personne qui souhaite obtenir une e-ID doit en faire la demande auprès d'un fournisseur d'e-ID reconnu par la Confédération. Celui-ci transmet la demande à la Confédération, qui vérifie si les données fournies correspondent à celles dont elle dispose déjà dans ses registres, puis autorise l'émission de l'e-ID. La Confédération ne transmet au fournisseur que les données nécessaires, et ce uniquement si la personne concernée y a consenti.
+
+Mise en œuvre technique
+
+La mise en œuvre technique incombe aux fournisseurs d'e-ID : ils s'assurent que l'e-ID peut être utilisée sur Internet pour s'identifier de manière univoque. À cet effet, ils peuvent par exemple proposer une application pour téléphone.
+
+22
+
+Deuxième objet : loi sur l'e-ID
+
+Comment fonctionne l'e-ID ?
+
+Interactions entre quatre acteurs
+
+- Reconnaît et contrôle le fournisseur d'e-ID
+- Vérifie l'identité de l'utilisateur
+- Donne le feu vert au fournisseur
+- Ne transmet que les données nécessaires
+
+- Demande une e-ID auprès du fournisseur
+- Confirme son identité auprès de la Confédération
+- Utilise son e-ID en ligne
+
+Utilisateur
+
+Confédération
+
+Fournisseur d'e-ID
+
+- Reçoit de la Confédération des données et le feu vert pour émettre l'e-ID
+- Met des données à la disposition du service en ligne
+
+Service en ligne
+
+- Vérifie l'e-ID avec le fournisseur d'e-ID
+- Envoie la marchandise ou fournit le service
+
+Acquisition facultative
+
+Chacun est libre de demander ou non une e-ID. La nouvelle loi ne nous oblige pas à tout effectuer en ligne. Par ailleurs, il restera possible de faire des achats sur Internet sans e-ID. En effet, il n'est pas nécessaire de recourir à l'e-ID pour les opérations en ligne qui ne requièrent pas d'identification univoque. Son utilisation offre toutefois plus de sécurité et de simplicité.
+
+23
+
+Protection des données
+
+La loi sur les services d'identification électronique va plus loin que celle sur la protection des données. Le consentement de l'utilisateur est requis à chaque fois que des données doivent être transmises. De plus, les fournisseurs d'e-ID ne peuvent utiliser les données qu'à des fins d'identification. Ils n'ont pas le droit d'en faire un autre usage, ni de les transmettre, notamment aux services en ligne, et doivent les enregistrer sur des serveurs en Suisse. Les normes de sécurité informatique doivent être élevées de manière à garantir en permanence la protection des données. Les fournisseurs d'e-ID n'ont en aucun cas accès aux données des services en ligne, notamment bancaires ou relatives à la santé.
+
+Répartition des tâches entre l'État et le secteur privé
+
+La nouvelle loi prévoit une répartition des tâches. La Confédération assume sa fonction souveraine en vérifiant l'identité des personnes avant toute émission d'e-ID et en reconnaissant et contrôlant les fournisseurs d'e-ID. Elle confie en revanche les aspects techniques, autrement dit l'élaboration de solutions concrètes, à ces fournisseurs (entreprises privées, cantons et communes). Cette répartition des tâches permet aux fournisseurs d'e-ID de s'adapter librement aux évolutions techniques et aux besoins des différents groupes cibles. De leur côté, les utilisateurs peuvent comparer les offres et choisir celle qui leur correspond le mieux.
+
+Reconnaissance et contrôle indépendants
+
+Les fournisseurs d'e-ID sont reconnus par la Confédération et soumis à son contrôle. Le Conseil fédéral institue à cet effet une commission fédérale des e-ID (EIDCOM) chargée de reconnaître les fournisseurs et leurs systèmes et de contrôler en continu s'ils respectent les dispositions légales, notamment en matière de protection des données. Si un fournisseur enfreint la loi, la commission peut lui retirer la reconnaissance accordée.
+
+24
+
+Deuxième objet : loi sur l'e-ID
+
+Arguments
+
+Comité référendaire
+
+En créant un passeport suisse numérique, la loi sur les services d'identification électronique permettra à des acteurs privés de délivrer et de commercialiser une pièce d'identité officielle. Des entreprises, comme des banques et des assurances, remplaceront les bureaux de passeports et géreront les données privées des citoyennes et citoyens. Une large alliance d'organisations et de partis s'oppose à cette privatisation. L'émission de pièces d'identité doit rester de la responsabilité de l'État et être soumise au contrôle démocratique.
+
+Passeport suisse numérique
+
+L'e-ID, instaurée par la loi fédérale sur les services d'identification électronique, est une nouvelle pièce d'identité officielle : le passeport suisse numérique. Elle permettra de prouver son identité sur Internet, de la même manière que la carte d'identité ou le passeport permettent de le faire dans la vraie vie.
+
+La Confédération deviendra une simple fournisseuse de données
+
+La commercialisation de l'e-ID rabaissera la Confédération au rang de simple fournisseuse de données. L'Office fédéral de la police créera à cet effet un nouveau système pour mettre les données personnelles des citoyennes et citoyens à la disposition d'entreprises privées.
+
+Protection des données insuffisante
+
+Chaque utilisation de l'e-ID sera relevée et enregistrée de manière centrale par une entreprise privée, ce qui n'est pas le cas avec les pièces d'identité utilisées jusqu'à présent. Il en résulte un risque d'abus. La seule manière de garantir efficacement la protection des données serait de renoncer à la collecte de données inutiles.
+
+Méfiance de la population
+
+D'après des sondages représentatifs, plus de 80 % de la population aimerait que le passeport numérique soit délivré non pas par des entreprises mais par l'État. Le secteur privé n'inspire pas confiance. En adoptant cette nouvelle loi, le Conseil fédéral et le Parlement ont fait fi de la volonté populaire.
+
+25
+
+Opposition
+des associations
+d'aînés
+
+Des personnes âgées craignent que des entreprises privées ne leur imposent l'utilisation de l'e-ID. C'est pourquoi le Conseil suisse des aînés, l'Association suisse des aînés et la Fédération des associations des retraités et de l'entraide en Suisse sont opposés au projet.
+
+Refus de huit
+cantons
+
+Huit cantons refusent de soutenir la nouvelle loi, car ils estiment que l'émission de pièces d'identité est une tâche centrale de l'État. Le canton de Schaffhouse et la ville de Zoug délivrent déjà leur propre e-ID. La Confédération pourrait donc facilement délivrer elle-même un passeport numérique. Le Liechtenstein y est parvenu en l'espace d'un an.
+
+Recommandation
+du comité
+référendaire
+
+Le comité référendaire vous recommande donc de voter :
+Non
+
+eid-referendum.ch
+
+Le comité référendaire est seul responsable du contenu et de la formulation des arguments figurant ci-dessus.
+
+26
+
+Deuxième objet : loi sur l'e-ID
+
+Arguments
+
+Conseil fédéral et Parlement
+
+Internet est toujours plus utilisé pour les affaires courantes.
+Dans certains cas, l'utilisateur doit être clairement identifié.
+Cela passe par une procédure univoque garantissant la protection des données personnelles.
+La nouvelle loi inscrit dans le droit suisse une e-ID encadrée et reconnue par la Confédération.
+Il sera alors possible d'effectuer en ligne de manière simple, sûre et efficace différentes opérations, notamment auprès des autorités.
+Autant la population que les entreprises et les autorités en profiteront.
+Le Conseil fédéral et le Parlement approuvent le projet pour les raisons suivantes :
+
+Simple et sûr
+
+Il existe déjà de nombreux systèmes d'identification électronique, mais aucun n'est reconnu par la Confédération.
+Il est temps d'instaurer une e-ID au niveau national.
+Grâce au contrôle de l'identité par la Confédération et à une protection des données renforcée, les utilisateurs pourront faire des achats et obtenir des services de manière simple et sûre.
+Les avantages sont nombreux : meilleure protection contre les abus et les escroqueries et réduction du nombre de mots de passe et de procédures d'enregistrement fastidieuses.
+L'e-ID n'est pas une pièce d'identité.
+Elle n'est en rien comparable à un passeport ou à une carte d'identité.
+
+Nécessité de légiférer
+
+De nombreux États ont déjà mis en place des e-ID.
+La Suisse est en retard.
+Or, l'économie et la société attendent impatiemment une solution qui offrirait de nouvelles possibilités sur Internet.
+La plupart des cantons soutiennent aussi la nouvelle loi.
+
+Tâches bien réparties
+
+Le Conseil fédéral et le Parlement ont opté pour une approche novatrice fondée sur une répartition des tâches claire.
+La Confédération garde sa fonction souveraine en vérifiant l'identité des personnes et en contrôlant les fournisseurs d'e-ID.
+Elle garantit ainsi un système sûr et fiable.
+La mise en œuvre technique est en revanche confiée aux entreprises, aux cantons et aux communes, ce qui favorisera des solutions innovantes et conviviales.
+Chaque partie fait ce pour quoi elle est le plus compétente.
+
+Renforcement
+de la protection
+des données
+
+Favoriser la
+numérisation
+
+Recommandation
+du Conseil fédéral
+et du Parlement
+
+La nouvelle loi prévoit des règles strictes en matière de données. Les données personnelles ne sont transmises qu'avec le consentement exprès de l'utilisateur et seules les informations nécessaires sont communiquées. Dans le cadre de la protection de la jeunesse, par exemple, une simple confirmation de la majorité est envoyée, sans que la date de naissance soit communiquée. Des prescriptions techniques et organisationnelles garantissent en outre un niveau de sécurité élevé pour les systèmes informatiques.
+
+Grâce à l'e-ID, de nombreuses opérations en ligne deviendront plus simples et plus sûres. La nouvelle loi aidera la Suisse à poursuivre son tournant numérique. De nouvelles offres et possibilités s'ouvriront et la Suisse restera à la pointe du développement mondial.
+
+Pour toutes ces raisons, le Conseil fédéral et le Parlement vous recommandent d'accepter la loi fédérale sur les services d'identification électronique.
+
+Oui
+
+admin.ch/loi-e-id
+
+28 Deuxième objet : loi sur l'e-ID
+
+Texte soumis au vote
+
+Loi fédérale
+sur les services d’identification électronique
+(LSIE)
+du 27 septembre 2019
+
+L’Assemblée fédérale de la Confédération suisse,
+vu les art. 95, al. 1, 96, al. 1, et 97, al. 1, de la Constitution¹,
+vu le message du Conseil fédéral du 1er juin 2018²,
+arrête:
+
+Section 1 Dispositions générales
+
+Art. 1 Objet et but
+
+¹ La présente loi règle:
+a. le contenu, l’établissement, l’utilisation, le blocage et la révocation des
+moyens électroniques utilisés pour l’identification d’une personne physique
+qui sont reconnus au sens de la présente loi (e-ID);
+b. la reconnaissance et la surveillance des fournisseurs de services d’identifica-
+tion électronique (fournisseurs d’identité);
+c. l’identification par l’État des titulaires d’une e-ID et la fourniture des don-
+nées d’identification personnelle aux fournisseurs d’identité;
+d. les droits et les obligations des titulaires d’une e-ID;
+e. les droits et les obligations des exploitants d’un service utilisateur.
+
+² Elle vise:
+a. à promouvoir une identification sûre dans le cadre des transactions électro-
+niques entre personnes privées et entre personnes privées et autorités;
+b. à protéger la personnalité et les droits fondamentaux des personnes dont les
+données font l’objet d’un traitement, et
+c. à assurer la normalisation et l’interopérabilité des e-ID.
+
+³ La loi et les ordonnances qui s’y rapportent respectent le principe de la neutralité
+technologique.
+
+Art. 2 Définitions
+
+Au sens de la présente loi, on entend par:
+a. système e-ID: un système électronique géré par un fournisseur d’identité
+pour l’établissement, la gestion et l’utilisation des e-ID;
+
+¹ RS 101
+² FF 2018 4031
+
+29
+
+b. service utilisateur: une application informatique permettant aux titulaires d'une e-ID de s'identifier via un système e-ID.
+
+Section 2 E-ID: établissement, types, contenu, blocage et révocation
+
+Art. 3 Conditions personnelles
+
+1 Peuvent demander une e-ID les personnes suivantes:
+a. tout ressortissant suisse qui, au moment de l'établissement de l'e-ID, est titulaire d'un document d'identité suisse valable au sens de la loi du 22 juin 2001 sur les documents d'identité³;
+b. tout étranger:
+1. qui, au moment de l'établissement de l'e-ID, est titulaire d'une pièce de légitimation valable et reconnue au sens de l'art. 13, al. 1, de la loi fédérale du 16 décembre 2005 sur les étrangers et l'intégration⁴ ou d'une carte de légitimation valable au sens de la législation sur l'État hôte, ou
+2. dont l'identité a pu, au moment de l'établissement de l'e-ID, être déterminée de façon fiable dans le cadre d'une procédure spéciale d'identification.
+2 Le Conseil fédéral détermine les procédures qui permettent de vérifier les documents d'identité des ressortissants suisses ainsi que les documents de légitimation et l'identité des étrangers.
+
+Art. 4 Niveau de garantie
+
+1 Peuvent être établies des e-ID offrant des niveaux de garantie faible, substantiel ou élevé. Ces niveaux de garantie se caractérisent par les degrés de fiabilité suivants:
+a. faible: réduction du risque d'utilisation abusive ou d'altération de l'identité;
+b. substantiel: protection élevée contre le risque d'utilisation abusive ou d'altération de l'identité;
+c. élevé: protection la plus élevée possible contre le risque d'utilisation abusive ou d'altération de l'identité.
+2 Le niveau de garantie est déterminé:
+a. par le processus d'établissement de l'e-ID et par les exigences applicables à son utilisation;
+b. par la gestion du système e-ID, en particulier la mise à jour des données d'identification personnelle.
+3 Une e-ID d'un niveau de garantie donné peut être utilisée pour des services utilisateurs qui requièrent un niveau de garantie inférieur.
+
+3 RS 143.1
+4 RS 142.20
+
+30 Deuxième objet : loi sur l'e-ID
+
+§ 4 Le Conseil fédéral réglemente les différents niveaux de garantie et en particulier les exigences minimales d'identification, en tenant compte de l'état actuel de la technique.
+
+Art. 5 Données d'identification personnelle
+1 Une e-ID d'un niveau de garantie faible contient les données d'identification personnelle suivantes:
+a. le numéro d'enregistrement de l'e-ID;
+b. le nom d'état civil;
+c. les prénoms;
+d. la date de naissance.
+2 Une e-ID d'un niveau de garantie substantiel contient en outre les données d'identification personnelle suivantes:
+a. le sexe;
+b. le lieu de naissance;
+c. la nationalité.
+3 Une e-ID d'un niveau de garantie élevé contient en outre la photographie enregistrée dans le système d'information visé à l'art. 24.
+4 Dans la mesure où il en a besoin pour accomplir les tâches que lui confie la présente loi, l'Office fédéral de la police (fedpol) peut ajouter aux données d'identification personnelle des informations supplémentaires concernant la dernière mise à jour des données dans le système d'information visé à l'art. 24.
+
+Art. 6 Procédure d'établissement
+1 Quiconque souhaite obtenir une e-ID en fait la demande à fedpol par l'intermédiaire d'un fournisseur d'identité. La vérification initiale de l'identité demandée peut être effectuée par le service responsable de l'établissement de documents d'identité au sens de l'art. 4 de la loi du 22 juin 2001 sur les documents d'identité5.
+2 fedpol communique au fournisseur d'identité les données d'identification personnelle visées à l'art. 5 si le requérant:
+a. remplit les conditions personnelles visées à l'art. 3;
+b. a été identifié conformément au niveau de garantie demandé;
+c. consent à la communication de ces données.
+3 Il journalise les communications de données effectuées dans le cadre de la procédure d'établissement.
+4 Le fournisseur d'identité associe les données d'identification personnelle à l'e-ID et établit l'e-ID à l'intention du requérant.
+
+5 RS 143.1
+
+31
+
+§ 5 Le Conseil fédéral précise les modalités de la procédure d’établissement, notamment en ce qui concerne:
+a. son déroulement;
+b. les données d’identification personnelle utilisées pour l’identification.
+
+Art. 7 Mise à jour des données d’identification personnelle
+Le fournisseur d’identité met à jour les données d’identification personnelle qu’il gère, par une requête automatique adressée à fedpol et fondée sur le numéro d’enregistrement de l’e-ID:
+a. une fois par an, pour les e-ID d’un niveau de garantie faible;
+b. une fois par trimestre, pour les e-ID d’un niveau de garantie substantiel;
+c. une fois par semaine, pour les e-ID d’un niveau de garantie élevé.
+
+Art. 8 Utilisation systématique du numéro AVS pour l’échange de données
+1 Lorsqu’il échange des données par voie électronique avec les registres de personnes visés à l’art. 24, al. 3, fedpol utilise systématiquement le numéro AVS au sens de l’art. 50c de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants6 (numéro AVS) afin d’identifier les personnes.
+2 Il peut permettre à l’exploitant d’un service utilisateur d’accéder en ligne au numéro AVS d’une personne lorsque ce dernier en a besoin pour l’identifier, pour autant que cet exploitant soit habilité à l’utiliser systématiquement.
+
+Art. 9 Traitement des données
+1 Un fournisseur d’identité ne peut traiter les données d’identification personnelle communiquées par fedpol qu’aussi longtemps que l’e-ID n’a pas été révoquée, et uniquement pour procéder aux identifications prévues par la présente loi.
+2 Pour les e-ID d’un niveau de garantie substantiel, il peut utiliser la photographie enregistrée dans le système d’information visé à l’art. 24 uniquement dans le cadre de la procédure d’établissement.
+3 Les catégories de données suivantes sont conservées séparément les unes des autres, de sorte que leur sécurité respective puisse être garantie même si la sécurité de l’une d’entre elles est compromise:
+a. les données d’identification personnelle visées à l’art. 5;
+b. les données concernant l’utilisation de l’e-ID;
+c. les autres données.
+
+Art. 10 Système e-ID subsidiaire de la Confédération
+1 Si les objectifs visés à l’art. 1, al. 2, ne peuvent être atteints:
+
+6 RS 831.10
+
+32
+
+Deuxième objet : loi sur l'e-ID
+
+§
+
+a. le Conseil fédéral peut charger une unité administrative de gérer un système e-ID et d'établir ce type d'e-ID, ou
+b. la Confédération peut prendre des participations dans des entreprises spéciales dans ce domaine.
+
+2 Les dispositions applicables aux fournisseurs d'identité s'appliquent à l'unité administrative concernée.
+
+Art. 11 Blocage et révocation
+
+1 Le fournisseur d'identité bloque immédiatement l'e-ID s'il y a lieu de craindre qu'un tiers puisse accéder à une e-ID ou s'il est informé de la perte d'une e-ID ou d'un soupçon d'utilisation abusive d'une e-ID. Il vérifie l'information avant de procéder au blocage.
+2 Il informe immédiatement le titulaire de l'e-ID du blocage.
+3 fedpol invalide le numéro d'enregistrement de l'e-ID en cas de décès du titulaire de l'e-ID.
+4 Le fournisseur d'identité révoque les e-ID qui contiennent le numéro invalidé.
+5 Le Conseil fédéral arrête les modalités du blocage et de la révocation.
+
+Section 3 Titulaires d'une e-ID
+
+Art. 12
+
+1 Le titulaire d'une e-ID prend les mesures nécessaires et raisonnablement exigibles au vu des circonstances pour empêcher toute utilisation abusive de son e-ID.
+2 Si une identification du niveau de garantie faible est utilisée pour une application informatique au sens de l'art. 2, let. b, un accès sans e-ID doit aussi être possible pour cette application. Le Conseil fédéral peut prévoir des exceptions.
+
+Section 4 Fournisseurs d'identité
+
+Art. 13 Reconnaissance
+
+1 Tout fournisseur d'identité qui souhaite établir des e-ID au sens de la présente loi doit obtenir une reconnaissance de la Commission fédérale des e-ID (EIDCOM). L'EIDCOM octroie la reconnaissance après consultation du Préposé fédéral à la protection des données et à la transparence (PFPDT).
+2 Est reconnu tout fournisseur d'identité:
+a. qui est inscrit au registre du commerce; aucune inscription n'est nécessaire pour les unités administratives de la Confédération, des cantons et des communes;
+
+33
+
+§
+
+b. qui offre la garantie que les personnes responsables des systèmes e-ID ne présentent pas un danger pour la sécurité;
+c. qui emploie du personnel possédant les connaissances, l'expérience et les qualifications nécessaires;
+d. qui offre la garantie que les systèmes e-ID qu'il gère répondent aux conditions prévues pour chaque niveau de garantie;
+e. qui conserve et traite les données des systèmes e-ID en Suisse conformément au droit suisse;
+f. qui dispose d'une assurance suffisante pour couvrir la responsabilité visée à l'art. 32 ou qui présente des sûretés financières équivalentes;
+g. qui offre la garantie qu'il respectera le droit applicable, notamment la présente loi et ses dispositions d'exécution.
+
+3 La reconnaissance est octroyée pour une durée de trois ans.
+
+4 Le Conseil fédéral précise les conditions à remplir pour obtenir la reconnaissance, notamment:
+a. les conditions techniques et les conditions de sécurité requises ainsi que leur contrôle;
+b. la couverture d'assurance nécessaire et les sûretés financières équivalentes;
+c. les normes et les protocoles techniques applicables aux systèmes e-ID et le contrôle régulier de ces derniers.
+
+Art. 14 Expiration de la reconnaissance
+
+1 La reconnaissance expire lorsque le fournisseur d'identité cesse son activité ou que la faillite est ouverte contre lui. Les systèmes e-ID sont insaisissables et ne tombent pas dans la masse en faillite.
+
+2 Le fournisseur d'identité annonce à l'EIDCOM la cessation programmée de son activité, en indiquant la procédure prévue en ce qui concerne les e-ID qu'il a établies.
+
+3 Les systèmes e-ID d'un fournisseur d'identité qui cesse son activité ou contre lequel une faillite a été ouverte peuvent être repris par un autre fournisseur d'identité reconnu. Le produit de la reprise tombe dans la masse en faillite.
+
+4 Les données du titulaire d'une e-ID qui n'a pas consenti à cette reprise doivent être détruites.
+
+5 Si aucun autre fournisseur d'identité ne reprend les systèmes e-ID, l'EIDCOM ordonne soit leur reprise sans contrepartie financière par la Confédération, soit la destruction des données qu'ils contiennent.
+
+Art. 15 Obligations
+
+1 Le fournisseur d'identité est soumis aux obligations suivantes:
+a. il s'assure du fonctionnement correct et de la gestion sûre du système e-ID;
+
+34
+
+Deuxième objet : loi sur l'e-ID
+
+§
+
+b. il établit les e-ID pour toutes les personnes qui remplissent les conditions visées à l'art. 3;
+
+c. il organise le système e-ID de sorte que la validité de toutes les e-ID qu'il a établies puisse être vérifiée en tout temps selon une procédure usuelle, de façon fiable et gratuitement;
+
+d. il organise le système e-ID de sorte que les personnes handicapées ne soient pas victimes d'une inégalité de traitement lorsqu'elles déposent une demande d'e-ID;
+
+e. il respecte les conditions de sécurité visées à l'art. 13, al. 2, let. d;
+
+f. il effectue la mise à jour des données d'identification personnelle conformément à l'art. 7;
+
+g. il signale à fedpol les erreurs dans les données d'identification personnelle qui lui ont été signalées ou qu'il a lui-même découvertes;
+
+h. il signale à l'EIDCOM les incidents de sécurité concernant un système e-ID ou l'utilisation d'une e-ID qui lui ont été signalés ou qu'il a lui-même découverts;
+
+i. il requiert le consentement exprès du titulaire de l'e-ID pour la première communication des données d'identification personnelle à un exploitant d'un service utilisateur;
+
+j. il accorde au titulaire de l'e-ID un accès en ligne aux données générées par l'utilisation de l'e-ID et à ses données d'identification personnelle visées à l'art. 5;
+
+k. il détruit après six mois les données générées par l'utilisation de l'e-ID;
+
+l. il établit les modèles des accords qu'il conclura avec les exploitants d'un service utilisateur et les soumet au PFPDT;
+
+m. il signale à l'EIDCOM toutes les modifications programmées de son système e-ID et de son activité commerciale qui sont susceptibles de remettre en cause le respect des exigences prévues à l'art. 13 et des obligations prévues aux let. a à l.
+
+2 Il met en place un service client qui permette de recevoir et de traiter les notifications de problèmes techniques ou de perte d'une e-ID.
+
+3 Le Conseil fédéral précise les modalités de la conception du système e-ID ainsi que celles de la communication des informations visées à l'al. 1, let. g, h et m et à l'art. 14, al. 2.
+
+Art. 16 Communication et utilisation des données
+
+1 Un fournisseur d'identité peut uniquement communiquer aux exploitants d'un service utilisateur les données d'identification personnelle:
+
+a. qui offrent le niveau de garantie requis;
+
+b. qui sont nécessaires pour l'identification de la personne concernée, et
+
+c. à la communication desquelles le titulaire de l'e-ID a consenti.
+
+35
+
+§ 2 Il ne peut communiquer à un tiers ni les données d'identification personnelle visées à l'art. 5, ni les données générées par l'utilisation de l'e-ID, ni les profils basés sur ces dernières; il ne peut utiliser ces données à des fins autres que la mise en œuvre des obligations visées à l'art. 15. Le traitement de données par un tiers au sens de l'art. 10a de la loi fédérale du 19 juin 1992 sur la protection des données7 est réservé.
+3 Il ne peut communiquer le numéro d'enregistrement de l'e-ID qu'aux autorités ou autres organismes qui accomplissent des tâches publiques.
+
+Art. 17 Accessibilité des e-ID
+Si plus de la moitié des e-ID établies le sont par un même fournisseur d'identité ou plus de 60 % par deux fournisseurs d'identité et s'il y a lieu de penser que, de manière répétée, des requérants qui remplissaient les conditions visées à l'art. 3 n'ont pas pu obtenir un type d'e-ID de grande diffusion, l'EIDCOM oblige lesdits fournisseurs à rendre ce type d'e-ID accessible à tous aux mêmes conditions.
+
+Art. 18 Interopérabilité
+1 Les fournisseurs d'identité reconnaissent mutuellement leurs systèmes e-ID et garantissent leur interopérabilité.
+2 Pour ce qui est de leur indemnisation réciproque, ils sont considérés comme puissants sur le marché au sens de l'art. 2 de la loi fédérale du 20 décembre 1985 concernant la surveillance des prix (LSpR)8, et les prix qu'ils appliquent entre eux ne sont pas considérés comme la conséquence d'une concurrence efficace au sens de l'art. 12 LSpR.
+3 Le Conseil fédéral édicte les dispositions techniques; il définit notamment les interfaces.
+
+Art. 19 Mesures de surveillance et retrait de la reconnaissance
+1 Si un fournisseur d'identité enfreint la présente loi, ses dispositions d'exécution ou les obligations que l'EIDCOM lui a imposées, notamment s'il ne remplit plus les conditions de la reconnaissance, l'EIDCOM ordonne les mesures nécessaires pour rétablir l'état conforme au droit en lui fixant un délai approprié.
+2 Elle peut retirer la reconnaissance au fournisseur d'identité si celui-ci ne rétablit pas l'état conforme au droit dans le délai fixé.
+3 Le Conseil fédéral réglemente la procédure de retrait de la reconnaissance.
+
+Section 5 Exploitants d'un service utilisateur
+
+Art. 20 Accord avec un fournisseur d'identité
+Quiconque souhaite exploiter un service utilisateur doit conclure un accord avec un fournisseur d'identité. L'accord fixe en particulier:
+
+7 RS 235.1
+8 RS 942.20
+
+36
+
+Deuxième objet : loi sur l'e-ID
+
+§
+
+a. les niveaux de garantie applicables;
+b. les processus techniques et organisationnels à respecter.
+
+Art. 21 Utilisation du numéro d'enregistrement de l'e-ID
+L'exploitant d'un service utilisateur peut utiliser le numéro d'enregistrement de l'e-ID pour identifier des personnes.
+
+Art. 22 Obligation d'accepter les e-ID
+Doivent accepter toute e-ID du niveau de garantie requis:
+a. tout exploitant d'un service utilisateur;
+b. toute autorité ou tout organisme qui accomplit des tâches publiques lorsqu'il recourt à l'identification électronique en exécution du droit fédéral.
+
+Section 6 Rôle de l'Office fédéral de la police
+
+Art. 23 Tâches et obligations
+1 fedpol associe le numéro d'enregistrement de l'e-ID aux données d'identification personnelle visées à l'art. 5 et les transmet au fournisseur d'identité.
+2 Il garantit que le fournisseur d'identité puisse vérifier en tout temps de façon fiable la validité du numéro d'enregistrement de l'e-ID au moyen d'une procédure usuelle.
+3 Le Conseil fédéral détermine les normes et les protocoles techniques applicables à la communication des données et arrête la procédure à suivre pour les cas où plusieurs registres de personnes transmettraient des données contradictoires.
+
+Art. 24 Système d'information
+1 fedpol gère un système d'information qui contient notamment:
+a. les données journalisées relatives à la procédure d'établissement des e-ID visée à l'art. 6;
+b. les données d'identification personnelle visées à l'art. 5, leur origine et les informations concernant leur mise à jour;
+c. les numéros AVS.
+2 Le système d'information doit permettre:
+a. la réception des demandes et des déclarations de consentement des requérants;
+b. l'exécution automatisée des tâches de fedpol dans le cadre de l'établissement des e-ID;
+c. la mise à jour des données d'identification personnelle prévue à l'art. 7;
+
+37
+
+§
+d. la vérification de la validité du numéro d'enregistrement de l'e-ID prévue à l'art. 23, al. 2.
+3 Pour obtenir et mettre en concordance les données d'identification personnelle visées à l'art. 5, il communique par une interface électronique avec les registres de personnes suivants:
+a. le système d'information relatif aux documents d'identité de fedpol;
+b. le système d'information central sur la migration (SYMIC) du Secrétariat d'État aux migrations;
+c. le registre informatisé de l'état civil (Infostar) de l'Office fédéral de la justice;
+d. le système d'information Ordipro du Département fédéral des affaires étrangères;
+e. le registre central des assurés (CdC UPI) de la Centrale de compensation.
+4 Le Conseil fédéral arrête les mesures techniques et organisationnelles à prendre pour assurer la sécurité du traitement et de la communication des données d'identification personnelle.
+
+Section 7 Commission fédérale des e-ID
+
+Art. 25 Organisation
+1 Le Conseil fédéral institue l'EIDCOM. Elle est formée de cinq à sept membres. Le Conseil fédéral nomme les membres et désigne le président et le vice-président.
+2 Les membres doivent être des experts indépendants. Ils ne peuvent ni appartenir à des organes de personnes morales ou d'autorités qui exercent des activités de fournisseur d'identité, ni être sous contrat de prestations avec de telles personnes morales ou autorités.
+3 L'EIDCOM est rattachée administrativement au Département fédéral de justice et police (DFJP) et dispose de son propre secrétariat.
+4 Elle n'est soumise à aucune directive du Conseil fédéral ou du DFJP lorsqu'elle prend des décisions. Elle est indépendante des autorités administratives.
+5 Elle peut associer fedpol à l'exécution de la présente loi et lui donner des instructions.
+6 Elle édicte un règlement d'organisation et de fonctionnement et le soumet à l'approbation du Conseil fédéral.
+7 Les coûts de l'EIDCOM sont couverts par des émoluments. Le Conseil fédéral fixe les modalités.
+
+Art. 26 Tâches et compétences
+1 L'EIDCOM surveille le respect de la présente loi. Elle prend les mesures et rend les décisions nécessaires à l'exécution de la présente loi et de ses dispositions d'exécution.
+
+38
+
+Deuxième objet : loi sur l'e-ID
+
+§
+
+2 Elle est notamment compétente pour:
+a. reconnaître les fournisseurs d'identité, assurer leur surveillance, ordonner des mesures et retirer les reconnaissances;
+b. publier une liste des fournisseurs d'identité et de leurs systèmes e-ID;
+c. trancher les litiges sur des questions d'accès à une e-ID ou d'interopérabilité.
+3 Elle observe et surveille l'évolution des fournisseurs d'identité et de leurs systèmes e-ID en vue d'assurer une offre sûre, diversifiée et abordable de prestations d'identification électronique.
+4 Elle propose le cas échéant au Conseil fédéral des mesures appropriées pour assurer l'offre de prestations d'identification électronique.
+5 Elle informe le public sur son activité et présente un rapport d'activité annuel au Conseil fédéral.
+
+Art. 27 Tâches du secrétariat
+1 Le secrétariat prépare les affaires de l'EIDCOM, mène les procédures et prend avec la présidence les décisions de procédure. Il fait des propositions à l'EIDCOM et exécute ses décisions.
+2 Il établit des préavis et conseille les titulaires d'une e-ID, les services officiels et les entreprises sur les questions se rapportant à la présente loi.
+3 Il traite directement avec les fournisseurs d'identité, les autorités et les tiers et rend des décisions de manière autonome dans les cas où le règlement lui délègue cette compétence.
+4 Si la situation l'exige, il peut intervenir dans l'exploitation d'un fournisseur d'identité; il en informe sans délai l'EIDCOM.
+5 Il représente l'EIDCOM devant les tribunaux fédéraux et cantonaux.
+6 L'EIDCOM peut déléguer d'autres tâches au secrétariat.
+
+Art. 28 Personnel du secrétariat
+1 Le Conseil fédéral désigne le directeur du secrétariat. L'EIDCOM engage le reste de son personnel.
+2 Les rapports de service sont régis par la législation applicable au personnel de l'administration fédérale.
+
+Art. 29 Secret de fonction et secrets d'affaires
+L'EIDCOM ne doit révéler aucun secret de fonction ni secret d'affaires.
+
+Art. 30 Traitement de données personnelles
+1 L'EIDCOM gère un système d'information pour la reconnaissance et la surveillance des fournisseurs d'identité, qui contient notamment:
+
+39
+
+§
+
+a. les données, les documents et les preuves fournis par les fournisseurs d'identité dans le cadre de la procédure de reconnaissance;
+b. les informations visées aux art. 14, al. 2, et 15, al. 1, let. h et m;
+c. les mesures de surveillance.
+2 Dans le cadre de l'accomplissement de ses tâches légales, elle peut traiter des profils de la personnalité et des données personnelles, y compris des données sensibles concernant des poursuites et sanctions pénales.
+
+Section 8 Émoluments
+
+Art. 31
+1 fedpol et l'EIDCOM perçoivent des émoluments de la part des fournisseurs d'identité pour leurs décisions et autres prestations.
+2 Aucun émolument n'est perçu pour le traitement des demandes concernant la validité des numéros d'enregistrement de l'e-ID visées à l'art. 23, al. 2.
+3 Le Conseil fédéral réglemente la perception des émoluments conformément à l'art. 46a de la loi du 21 mars 1997 sur l'organisation du gouvernement et de l'administration9. Pour fixer le montant des émoluments perçus en contrepartie de la communication des données d'identification personnelle, il peut notamment tenir compte du fait qu'il s'agit de la première communication ou d'une mise à jour des données d'identification personnelle, et du fait que l'établissement et l'utilisation de l'e-ID sont gratuits ou non pour le bénéficiaire.
+
+Section 9 Responsabilité
+
+Art. 32
+1 Les responsabilités respectives du titulaire de l'e-ID, de l'exploitant d'un service utilisateur et du fournisseur d'identité sont régies par le code des obligations10.
+2 La responsabilité de la Confédération est régie par la loi du 14 mars 1958 sur la responsabilité11.
+
+9 RS 172.010
+10 RS 220
+11 RS 170.32
+
+40
+
+Deuxième objet : loi sur l'e-ID
+
+Section 10 Dispositions finales
+
+Art. 33 Dispositions transitoires
+1 Dans les trois ans qui suivent l'entrée en vigueur de la présente loi et sur demande d'un fournisseur d'identité, l'EIDCOM reconnaît les moyens d'identification électronique que ce dernier a établis:
+a. comme e-ID du niveau de garantie faible:
+1. si leur titulaire remplit les conditions visées à l'art. 3,
+2. si leur titulaire a donné son consentement, et
+3. si le numéro du document d'identité, le nom d'état civil, les prénoms et la date de naissance correspondent aux données d'identification personnelle enregistrées dans le système d'information visé à l'art. 24;
+b. comme e-ID du niveau de garantie substantiel si, en outre, l'identification a eu lieu dans le cadre d'une procédure qui est soumise par la loi à des règles et à une surveillance et qui garantit un niveau de sécurité comparable aux procédures prévues par la présente loi.
+2 Quiconque possède un certificat qualifié valable au sens de l'art. 2, let. h, de la loi du 18 mars 2016 sur la signature électronique¹² peut, dans les trois ans qui suivent l'entrée en vigueur de la présente loi et si les conditions visées à l'al. 1, let. a, ch. 1 et 3, sont remplies, demander à un fournisseur d'identité qu'il établisse à son intention, sans nouvelle vérification de son identité, une e-ID d'un niveau de garantie substantiel.
+3 Dans le cadre de la reconnaissance au sens de l'art. 13, l'EIDCOM tient compte, jusqu'à trois ans après l'entrée en vigueur de la présente loi, des certifications obtenues par les éditeurs de moyens d'identification selon la loi fédérale du 19 juin 2015 sur le dossier électronique du patient¹³.
+4 Le Conseil fédéral arrête les modalités de la procédure d'établissement.
+
+Art. 34 Modification d'autres actes
+La modification d'autres actes est réglée en annexe.
+
+Art. 35 Référendum et entrée en vigueur
+1 La présente loi est sujette au référendum.
+2 Le Conseil fédéral fixe la date de l'entrée en vigueur.
+
+12 RS 943.03
+13 RS 816.1
+
+41
+
+Modification d'autres actes
+
+Les actes mentionnés ci-après sont modifiés comme suit:
+
+1. Loi fédérale du 20 juin 2003 sur le système d'information commun aux domaines des étrangers et de l'asile¹4
+
+Art. 9, al. 1, let. c, et 2, let. c, ch. 3
+
+1 Le SEM peut permettre aux autorités et services ci-après d'accéder en ligne aux données relevant du domaine des étrangers qu'il a traitées ou fait traiter dans le système d'information:
+c. les autorités fédérales compétentes dans les domaines de la police, exclusivement pour qu'elles puissent procéder à l'identification de personnes dans le cadre:
+1. de l'échange d'informations de police,
+2. des enquêtes de la police de sûreté ou de la police judiciaire,
+3. des procédures d'extradition,
+4. de l'entraide judiciaire et de l'assistance administrative,
+5. de la délégation de la poursuite et de la répression d'une infraction,
+6. de la lutte contre le blanchiment d'argent, le trafic de stupéfiants et le crime organisé,
+7. du contrôle des pièces de légitimation,
+8. de l'attribution des données d'identification personnelle et de leur mise à jour au sens de la loi fédérale du 27 septembre 2019 sur les services d'identification électronique (LSIE),
+9. des recherches de personnes disparues,
+10. du contrôle des entrées dans le système de recherches informatisées visé à l'art. 15 de la loi fédérale du 13 juin 2008 sur les systèmes d'information de police de la Confédération (LSIP)¹5;
+
+2 Il peut permettre aux autorités et services ci-après d'accéder en ligne aux données relevant du domaine de l'asile qu'il a traitées ou fait traiter dans le système d'information:
+c. les autorités fédérales compétentes dans le domaine de la police:
+3. pour qu'elles puissent accomplir les tâches que leur attribue la LSIE;
+
+14 RS 142.51
+15 RS 361
+
+42 Deuxième objet : loi sur l'e-ID
+
+§
+
+2. Loi du 22 juin 2001 sur les documents d'identité¹⁶
+
+Art. 1, al. 3, 2e phrase
+³ ... Ces personnes peuvent être de nationalité étrangère.
+
+Art. 11, al. 1, phrase introductive (ne concerne que le texte allemand) et let. k ainsi que 2
+¹ L'Office fédéral de la police exploite un système d'information. Ce système contient les données personnelles qui figurent sur le document d'identité et celles qui y sont enregistrées ainsi que:
+k. le numéro AVS au sens de la loi fédérale du 20 décembre 1946 sur l'assurance-vieillesse et survivants¹⁷.
+² Le traitement des données sert:
+a. à établir des documents d'identité;
+b. à éviter l'établissement non autorisé des documents d'identité;
+c. à éviter tout usage abusif des documents d'identité;
+d. à établir et à mettre à jour les moyens d'identification électronique conformément à la loi fédérale du 27 septembre 2019 sur les services d'identification électronique.
+
+Art. 12, al. 2, let. g
+² Pour accomplir les tâches qui leur incombent de par la loi, les autorités et organes suivants sont habilités à consulter en ligne les données du système d'information:
+g. la Direction consulaire du Département fédéral des affaires étrangères, en vue de l'identification des personnes.
+
+Art. 14 Interdiction de tenir des fichiers parallèles
+La tenue de fichiers parallèles est interdite. Sont autorisés:
+a. la conservation provisoire des formules de demande par l'autorité d'établissement;
+b. le traitement par l'Office fédéral de la police de données d'identification personnelle au sens de la loi fédérale du 27 septembre 2019 sur les services d'identification électronique, au moyen notamment du système d'information prévu à l'art. 24 de ladite loi, et le traitement de ces données par les fournisseurs d'identité.
+
+16 RS 143.1
+17 RS 831.10
+
+43
+
+§ 3. Code civil¹⁸
+
+Art. 43a, al. 4, ch. 9
+
+4 Les autorités suivantes peuvent accéder en ligne aux données néces-
+saires à la vérification de l'identité d'une personne:
+9. L'Office fédéral de la police, en vue de l'accomplissement
+des tâches que lui attribue la loi fédérale du 27 septembre
+2019 sur les services d'identification électronique.
+
+4. Loi fédérale du 20 décembre 1946 sur l'assurance-vieillesse
+et survivants¹⁹
+
+Art. 50a, al. 1, let. bquater
+
+¹ Dans la mesure où aucun intérêt privé prépondérant ne s'y oppose, les organes
+chargés d'appliquer la présente loi ou d'en contrôler ou surveiller l'application
+peuvent communiquer des données, en dérogation à l'art. 33 LPGA²⁰:
+bquater. à l'Office fédéral de la police, en vue de l'accomplissement des tâches que
+lui attribue la loi fédérale du 27 septembre 2019 sur les services d'identifi-
+cation électronique;
+
+5. Loi du 18 mars 2016 sur la signature électronique²¹
+
+Art. 9, al. ¹bis
+
+¹bis Si une personne apporte la preuve de son identité au moyen d'une e-ID d'un
+niveau de garantie substantiel au sens de la loi fédérale du 27 septembre 2019 sur les
+services d'identification électronique, elle n'est pas tenue de se présenter en per-
+sonne.
+
+18 RS 210
+19 RS 831.10
+20 RS 830.1
+21 RS 943.03
+
+44
+
+Troisième objet : accord avec l'Indonésie
+
+En détail
+
+Accord de partenariat écono-
+mique entre les États de l'AELE¹
+et l'Indonésie
+
+1 Association européenne de libre-échange (AELE). En général, la Suisse négocie de tels accords dans le cadre de l'AELE. Outre la Suisse, les États membres de l'AELE sont la Norvège, l'Islande et le Liechtenstein.
+
+Arguments du comité référendaire
+Arguments du Conseil fédéral
+et du Parlement
+Texte soumis au vote
+
+50
+52
+54
+
+L'Indonésie, un marché important
+
+L'Indonésie compte 271 millions d'habitants, ce qui en fait le quatrième pays le plus peuplé du monde. La classe moyenne croissante y est de plus en plus aisée. Son économie est la plus importante d'Asie du Sud-Est et, depuis les années 2000, elle enregistre une croissance constante. Par rapport à d'autres pays de la région, le commerce avec l'Indonésie est plutôt modeste et offre un potentiel de croissance considérable.
+
+Compétitivité des entreprises suisses
+
+Actuellement, les exportations suisses vers l'Indonésie sont soumises à des droits de douane relativement élevés, ce qui rend les produits plus chers. Les exportateurs suisses sont donc discriminés par rapport à leurs concurrents étrangers qui bénéficient, grâce à des accords, de droits de douane plus bas, voire de franchises douanières. À l'avenir, ils risquent aussi d'être désavantagés par rapport à leurs concurrents de l'Union européenne (UE), car celle-ci est en train de négocier un accord avec l'Indonésie.
+
+Meilleur accès au marché
+
+Grâce au présent accord, les droits de douane tomberont pour toutes les principales exportations suisses vers l'Indonésie. En contrepartie, l'accord, comme tout accord de ce type, permettra aux entreprises indonésiennes d'exporter des produits industriels vers la Suisse en franchise de douane. Le libre-échange n'est en revanche pas prévu pour les produits agricoles : seule une réduction partielle des droits de douane est envisagée pour les importations d'Indonésie, afin de ne pas mettre en danger la production agricole suisse.
+
+46
+
+Troisième objet : accord avec l'Indonésie
+
+Accord de large portée
+
+En plus de la réduction des droits de douane, l'accord prévoit d'autres règles importantes, notamment dans le secteur du commerce de biens et de services, des investissements et de la protection de la propriété intellectuelle. Ces règles renforcent la sécurité juridique et créent des conditions fiables pour les entreprises en Suisse et en Indonésie.
+
+Encouragement du développement durable
+
+Le commerce ne doit pas se faire aux dépens des personnes et de l'environnement. Dans un chapitre consacré à la compatibilité du commerce et du développement durable, la Suisse et l'Indonésie s'engagent à respecter les droits de l'homme, des travailleurs et des groupes particulièrement vulnérables, et à protéger l'environnement. Elles mettent notamment l'accent sur la durabilité en matière d'exploitation forestière et de production d'huile de palme.
+
+Huile de palme : de multiples enjeux
+
+En Indonésie, la production d'huile de palme crée de nombreux emplois et peut donc jouer un rôle important dans la lutte contre la pauvreté. Mais elle est aussi critiquée pour ses conséquences sur l'environnement et sur la société. L'accord pose donc des exigences spécifiques à la production d'huile de palme durable. L'Indonésie s'engage à appliquer efficacement les règles sur la protection des forêts primaires et d'autres écosystèmes, et notamment à enrayer la déforestation, le drainage des tourbières et le brûlis pour gagner des terres, et à respecter les droits des communautés autochtones et des travailleurs.
+
+47
+
+concessions limitées
+
+Les conditions pour l'importation d'huile de palme indonésienne sont aménagées de sorte que le volume total des importations d'huile de palme en Suisse n'augmente pas². L'accord ne devrait donc pas nuire à la production suisse d'huile de colza et d'autres huiles. Les droits de douane ne seront pas supprimés mais uniquement réduits d'environ 20 à 40 %. Ces réductions seront accordées au maximum pour 12 500 tonnes³ par année (voir l'encadré pour plus d'informations sur les exportations indonésiennes et les importations suisses d'huile de palme).
+
+certification de durabilité
+
+Un importateur peut bénéficier de réductions douanières uniquement pour de l'huile de palme indonésienne produite selon les exigences de durabilité prévues. C'est lui qui doit en apporter la preuve. Une ordonnance, qui entrera en vigueur en même temps que l'accord, définit les certificats reconnus pour la production d'huile de palme durable et les contrôles prévus. Enfin, l'accord contient des règles visant à éviter le mélange entre de l'huile de palme durable et non durable lors du transport.
+
+2 Message du Conseil fédéral du 22 mai 2019 concernant l'approbation de l'accord de partenariat économique de large portée entre les États de l'AELE et l'Indonésie ; FF 2019 5009, 5028 ( admin.ch > Droit fédéral > Feuille fédérale)
+3 Accord de partenariat économique de large portée entre les États de l'AELE et l'Indonésie, annexe V, p. 1 et 2 ( efta.int > Global Trade Relations > Free Trade Agreements > Indonesia)
+
+48
+
+Troisième objet : accord avec l'Indonésie
+
+Le marché de l'huile de palme
+
+L'Indonésie, plus gros producteur d'huile de palme
+L'Indonésie est le plus gros producteur d'huile de palme. Avec la Malaisie, elle génère plus de 80 % de la production mondiale⁴. En 2019, l'Indonésie a exporté plus de 30 millions de tonnes d'huile de palme dans le monde entier⁵.
+
+Baisse de la demande en Suisse
+De 2012 à 2019, la Suisse a importé en moyenne annuelle 32 027 tonnes d'huile de palme du monde entier, avec une tendance à la baisse (voir graphique). Sur cette période, environ 2,5 % des importations provenaient d'Indonésie, et ce taux n'était plus que de 0,1 % en 2019.
+
+Importations d'huile de palme en Suisse
+en tonnes
+40 000
+37326
+38199
+34524
+30 952
+30 957
+32 215
+30 000
+28 042
+23 999
+20 000
+10 000
+2038
+1034
+589
+1039
+1215
+376
+162
+35
+0
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Monde
+Indonésie
+Source : Administration fédérale des douanes (✉ ezv.admin.ch > Thèmes > Statistique du commerce extérieur > Banque de données Swiss-Impex)
+
+4 Organisation des Nations unies pour l'alimentation et l'agriculture (FAO), Top 10 des pays pour la production d'huile de noix de palme en 2018 (✉ fao.org > Ressources > Data > faostat > Classements > Production > Pays par produits > Huile, noix de palme)
+5 International Trade Centre (ITC), Trade Map, Statistiques du commerce pour le développement international des entreprises (✉ trademap.org)
+
+Coopération
+à long terme
+
+49
+
+L'Indonésie est depuis longtemps un pays prioritaire pour la Suisse au titre de la coopération économique au développement. L'accord porte donc aussi sur la coopération entre les deux pays. L'objectif est de promouvoir la croissance à long terme au profit de toute la population et dans une perspective de protection des ressources naturelles indonésiennes. Dans les secteurs de l'agriculture et de l'huile de palme, la Suisse soutient plusieurs projets qui visent à ménager les ressources lors de la production et à apporter une aide aux petits paysans. Ces projets contribuent à faire en sorte que de petites entreprises indonésiennes puissent elles aussi profiter du potentiel qu'offre l'accord en s'inscrivant dans la durabilité.
+
+50
+
+Arguments
+
+Comité référendaire
+
+Les palmiers à huile sont cultivés sur des tourbières ou des forêts tropicales, entraînant la destruction de la forêt primaire et des espèces qu'elle abrite. L'accord de libre-échange avec l'Indonésie prévoit des dispositions sur la durabilité commerciale et environnementale, des promesses difficiles à tenir sans systèmes de contrôle et de sanction efficaces. L'huile bon marché concurrence en outre nos cultures locales telles que l'huile de colza et de tournesol.
+
+Mépris de la vie
+
+Le gouvernement indonésien n'est pas un partenaire fiable. Les notions d'État de droit, de durabilité et de normes sociales sont méprisées. Petits paysans et communautés indigènes et locales sont chassés de leurs terres. Les conditions de travail indignes sont largement répandues, avec notamment le travail des enfants et l'usage de pesticides très toxiques. Par cet accord, la Suisse est forcée d'accepter les faibles normes sociales et environnementales de son partenaire, alors qu'elles sont contraires à nos valeurs. Encouragé par le libre-échange mondial, on déforeste pour le profit de grands groupes énergétiques et agroalimentaires.
+
+La destruction en marche
+
+Malgré le moratoire sur les nouvelles plantations de palmiers à huile, la forêt tropicale perd chaque heure l'équivalent de 100 terrains de football, sacrifiés aux plantations, à l'extraction minière et à l'industrie du bois et du charbon. La monoculture de palmiers à huile occupe déjà près de 17 millions d'hectares, soit quatre fois la surface de la Suisse ou près de 10 % de la surface de l'Indonésie. La corruption est omniprésente, de même que les violations systématiques des labels étatiques et de la certification de « durabilité » délivrée par la RSPO, qu'il est prévu de reconnaître pour les importations vers la Suisse.
+
+51
+
+Un impact
+économique
+négligeable
+
+Alors que le bénéfice économique pour la Suisse est modéré, l'huile de palme a un impact social et écologique dra-matique, et pas uniquement en Indonésie. Le pays fait partie des plus gros émetteurs de CO₂ au monde. Le commerce de l'huile de palme aggrave la crise climatique et contribue à une perte irrémédiable de biodiversité. Nous soutenons les reven-dications des organisations sociales et paysannes d'Indonésie qui veulent préserver une agriculture paysanne diversifiée et la souveraineté alimentaire de la population.
+
+L'être humain et
+l'environnement
+d'abord
+
+Il ne faut pas amplifier la dépendance à l'huile de palme, car nous avons d'autres solutions saines comme l'huile de colza ou de tournesol et le beurre. Face à la crise climatique et envi-ronnementale, la protection des sols, des arbres, des eaux, de la faune, de la flore et des êtres humains a la priorité absolue. C'est pourquoi nous rejetons cet accord de libre-échange, qui promet la durabilité, mais qui bétonne en fin de compte une politique nuisible pour l'être humain et pour l'environnement.
+
+Recommandation
+du comité
+référendaire
+
+Le comité référendaire vous recommande donc de voter :
+
+Non
+
+stop-huile-de-palme.ch
+
+Le comité référendaire est seul responsable du contenu et de la formulation des arguments figurant ci-dessus.
+
+52
+
+Troisième objet : accord avec l'Indonésie
+
+Arguments
+
+Conseil fédéral et Parlement
+
+L'accord avec l'Indonésie ouvre de belles perspectives à l'économie suisse sur un marché en pleine croissance. Il améliore l'accès au marché et empêche une discrimination de nos entreprises. L'accord définit des règles commerciales respectueuses de l'homme et de l'environnement. Le Conseil fédéral et le Parlement approuvent le projet, notamment pour les raisons suivantes :
+
+Importance pour la place économique suisse
+
+Il est important pour la Suisse d'exporter et d'avoir des relations économiques fiables, éléments indispensables au maintien de notre prospérité. L'Indonésie, avec sa classe moyenne croissante, est un important marché d'avenir pour nos entreprises exportatrices.
+
+Éviter les discriminations
+
+L'UE et l'Indonésie négocient actuellement un accord similaire. Les exportateurs suisses risquent donc d'être discriminés par rapport à leurs principaux concurrents européens. Sans accord entre notre pays et l'Indonésie, un constructeur de machines suisse, par exemple, sera en moins bonne position que son concurrent dans un pays voisin. Cette situation pourrait conduire dans le pire des cas à la perte de contrats et d'emplois.
+
+Pas de risque pour l'agriculture suisse
+
+La plupart des produits agricoles indonésiens, tels que les fruits exotiques, complètent l'offre locale suisse sans la concurrencer. Les concessions dans ce domaine sont en outre aménagées de façon à ne pas menacer les producteurs suisses.
+
+L'huile de palme exclue du libre-échange
+
+Le compromis trouvé est tout à fait acceptable pour la Suisse, car il n'y aura pas de libre-échange pour l'huile de palme. Tout d'abord, les droits de douane pour ce produit ne seront que légèrement réduits mais pas supprimés. De plus, la réduction ne concernera qu'un volume limité. Enfin, il ne sera applicable qu'à l'huile de palme dont il est prouvé qu'elle est de production durable. Ainsi, l'accord tient compte des préoccupations sociales et environnementales, et notre production nationale d'huile de colza et de tournesol n'est pas en danger.
+
+53
+
+Contrôles efficaces
+
+Des contrôles efficaces seront mis en place pour vérifier que seule de l'huile de palme durable, c'est-à-dire produite dans le respect strict des exigences sociales et environnementales, peut être importée aux conditions douanières plus avantageuses qu'offre l'accord. Les importateurs doivent en apporter la preuve. Sans cette preuve, pas de réduction des droits de douane.
+
+Accord équilibré
+
+L'accord profite autant à la Suisse qu'à l'Indonésie. Il améliore l'accès au marché, renforce la sécurité juridique et permet une meilleure planification. Il prend en compte l'objectif de développement durable et apporte une contribution importante aux efforts mondiaux pour parvenir à une production d'huile de palme plus durable. Dans le cadre de la coopération au développement, la Suisse aide en outre l'Indonésie à faire en sorte qu'une grande partie de la population puisse bénéficier de l'accord.
+
+Recommandation du Conseil fédéral et du Parlement
+
+Pour toutes ces raisons, le Conseil fédéral et le Parlement vous recommandent d'accepter l'arrêté fédéral portant approbation de l'accord de partenariat économique de large portée entre les États de l'AELE et l'Indonésie.
+
+Oui
+
+admin.ch/accord-indonesie
+
+54
+
+Troisième objet : accord avec l'Indonésie
+
+Texte soumis au vote
+
+Arrêté fédéral
+portant approbation de l'Accord de partenariat économique
+de large portée entre les États de l'AELE et l'Indonésie
+du 20 décembre 2019
+
+L'Assemblée fédérale de la Confédération suisse,
+vu les art. 54, al. 1, et 166, al. 2, de la Constitution (Cst.)¹,
+vu le message du Conseil fédéral du 22 mai 2019²,
+arrête:
+
+Art. 1
+
+1 L'Accord de partenariat économique de large portée du 16 décembre 2018 entre les
+États de l'AELE et l'Indonésie³, y compris le mémorandum d'entente du 16 décembre
+2018 sur la coopération économique et le renforcement des capacités entre les États de
+l'AELE et l'Indonésie⁴, est approuvé.
+
+2 Le Conseil fédéral est autorisé à le ratifier.
+
+Art. 2
+
+Le présent arrêté est sujet au référendum (art. 141, al. 1, let. d, ch. 3, Cst.).
+
+1 RS 101
+2 FF 2019 5009
+3 FF 2019 5067
+4 FF 2019 5129
+
+55
+
+Le Conseil fédéral et le Parlement vous recommandent de voter, le 7 mars 2021 :
+
+Non
+
+Initiative populaire « Oui à l'interdiction de se dissimuler le visage »
+
+Oui
+
+Loi fédérale sur les services d'identification électronique (LSIE)
+
+Oui
+
+Accord de partenariat économique avec l'Indonésie
+
+Explications du Conseil fédéral
+Publiées par la Chancellerie fédérale
+Bouclage : 25 novembre 2020
+
+VoteInfo
+L'application
+sur les votations
