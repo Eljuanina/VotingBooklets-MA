@@ -1,0 +1,20 @@
+{
+  "character_error_rate": 0.01,
+  "garbling": "none",
+  "language_legibility": "good",
+  "missing_content": "ok",
+  "structural_integrity": "ok",
+  "page_order": "ok",
+  "overall_score": 95,
+  "needs_redo": false,
+  "recommended_engine": "tesseract",
+  "issues": [
+    "minor character error in 'eidgenössi-'",
+    "minor character error in 'Vivisektion>>>'"
+  ],
+  "txt_path": "data/booklets_txt/booklets_de_1985.txt",
+  "pdf_path": "data/booklets/de_1985.pdf",
+  "total_lines": 266,
+  "sampled_lines": 78,
+  "image_verified": true
+}

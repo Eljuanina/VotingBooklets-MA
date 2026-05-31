@@ -1,0 +1,192 @@
+
+=======================================================
+  ALIGNMENT EVALUATION — 1977.xlsx
+=======================================================
+
+--- DE-FR ---
+  Total segments : 93
+  Correct  (1)   : 55
+  Incorrect (0)  : 38
+  Accuracy       : 0.5914  (59.14%)
+  Error Rate     : 0.4086  (40.86%)
+
+--- DE-IT ---
+  Total segments : 93
+  Correct  (1)   : 53
+  Incorrect (0)  : 40
+  Accuracy       : 0.5699  (56.99%)
+  Error Rate     : 0.4301  (43.01%)
+
+--- FR-IT ---
+  Total segments : 93
+  Correct  (1)   : 45
+  Incorrect (0)  : 48
+  Accuracy       : 0.4839  (48.39%)
+  Error Rate     : 0.5161  (51.61%)
+
+-------------------------------------------------------
+  SUMMARY TABLE
+-------------------------------------------------------
+  Pair         Accuracy   Error Rate   Correct   Total
+  --------------------------------------------------
+  de-fr          0.5914       0.4086        55      93
+  de-it          0.5699       0.4301        53      93
+  fr-it          0.4839       0.5161        45      93
+
+  CROSS-PAIR AGREEMENT  (n=93 complete rows)
+  --------------------------------------------------
+    de-fr ↔ de-it: 75/93 agree (80.6%)
+    de-fr ↔ fr-it: 83/93 agree (89.2%)
+    de-it ↔ fr-it: 85/93 agree (91.4%)
+
+=======================================================
+  ALIGNMENT EVALUATION — 1985.xlsx
+=======================================================
+
+--- DE-FR ---
+  Total segments : 51
+  Correct  (1)   : 31
+  Incorrect (0)  : 20
+  Accuracy       : 0.6078  (60.78%)
+  Error Rate     : 0.3922  (39.22%)
+
+--- DE-IT ---
+  Total segments : 51
+  Correct  (1)   : 9
+  Incorrect (0)  : 42
+  Accuracy       : 0.1765  (17.65%)
+  Error Rate     : 0.8235  (82.35%)
+
+--- DE-RM ---
+  Total segments : 51
+  Correct  (1)   : 27
+  Incorrect (0)  : 24
+  Accuracy       : 0.5294  (52.94%)
+  Error Rate     : 0.4706  (47.06%)
+
+--- FR-IT ---
+  Total segments : 51
+  Correct  (1)   : 9
+  Incorrect (0)  : 42
+  Accuracy       : 0.1765  (17.65%)
+  Error Rate     : 0.8235  (82.35%)
+
+--- FR-RM ---
+  Total segments : 51
+  Correct  (1)   : 24
+  Incorrect (0)  : 27
+  Accuracy       : 0.4706  (47.06%)
+  Error Rate     : 0.5294  (52.94%)
+
+--- IT-RM ---
+  Total segments : 51
+  Correct  (1)   : 7
+  Incorrect (0)  : 44
+  Accuracy       : 0.1373  (13.73%)
+  Error Rate     : 0.8627  (86.27%)
+
+-------------------------------------------------------
+  SUMMARY TABLE
+-------------------------------------------------------
+  Pair         Accuracy   Error Rate   Correct   Total
+  --------------------------------------------------
+  de-fr          0.6078       0.3922        31      51
+  de-it          0.1765       0.8235         9      51
+  de-rm          0.5294       0.4706        27      51
+  fr-it          0.1765       0.8235         9      51
+  fr-rm          0.4706       0.5294        24      51
+  it-rm          0.1373       0.8627         7      51
+
+  CROSS-PAIR AGREEMENT  (n=51 complete rows)
+  --------------------------------------------------
+    de-fr ↔ de-it: 25/51 agree (49.0%)
+    de-fr ↔ de-rm: 41/51 agree (80.4%)
+    de-fr ↔ fr-it: 25/51 agree (49.0%)
+    de-fr ↔ fr-rm: 44/51 agree (86.3%)
+    de-fr ↔ it-rm: 23/51 agree (45.1%)
+    de-it ↔ de-rm: 29/51 agree (56.9%)
+    de-it ↔ fr-it: 47/51 agree (92.2%)
+    de-it ↔ fr-rm: 28/51 agree (54.9%)
+    de-it ↔ it-rm: 49/51 agree (96.1%)
+    de-rm ↔ fr-it: 27/51 agree (52.9%)
+    de-rm ↔ fr-rm: 48/51 agree (94.1%)
+    de-rm ↔ it-rm: 31/51 agree (60.8%)
+    fr-it ↔ fr-rm: 28/51 agree (54.9%)
+    fr-it ↔ it-rm: 45/51 agree (88.2%)
+    fr-rm ↔ it-rm: 30/51 agree (58.8%)
+
+=======================================================
+  ALIGNMENT EVALUATION — 2007.xlsx
+=======================================================
+
+--- DE-FR ---
+  Total segments : 74
+  Correct  (1)   : 47
+  Incorrect (0)  : 27
+  Accuracy       : 0.6351  (63.51%)
+  Error Rate     : 0.3649  (36.49%)
+
+--- DE-IT ---
+  Total segments : 74
+  Correct  (1)   : 35
+  Incorrect (0)  : 39
+  Accuracy       : 0.4730  (47.30%)
+  Error Rate     : 0.5270  (52.70%)
+
+--- DE-RM ---
+  Total segments : 74
+  Correct  (1)   : 43
+  Incorrect (0)  : 31
+  Accuracy       : 0.5811  (58.11%)
+  Error Rate     : 0.4189  (41.89%)
+
+--- FR-IT ---
+  Total segments : 74
+  Correct  (1)   : 39
+  Incorrect (0)  : 35
+  Accuracy       : 0.5270  (52.70%)
+  Error Rate     : 0.4730  (47.30%)
+
+--- FR-RM ---
+  Total segments : 74
+  Correct  (1)   : 42
+  Incorrect (0)  : 32
+  Accuracy       : 0.5676  (56.76%)
+  Error Rate     : 0.4324  (43.24%)
+
+--- IT-RM ---
+  Total segments : 74
+  Correct  (1)   : 37
+  Incorrect (0)  : 37
+  Accuracy       : 0.5000  (50.00%)
+  Error Rate     : 0.5000  (50.00%)
+
+-------------------------------------------------------
+  SUMMARY TABLE
+-------------------------------------------------------
+  Pair         Accuracy   Error Rate   Correct   Total
+  --------------------------------------------------
+  de-fr          0.6351       0.3649        47      74
+  de-it          0.4730       0.5270        35      74
+  de-rm          0.5811       0.4189        43      74
+  fr-it          0.5270       0.4730        39      74
+  fr-rm          0.5676       0.4324        42      74
+  it-rm          0.5000       0.5000        37      74
+
+  CROSS-PAIR AGREEMENT  (n=74 complete rows)
+  --------------------------------------------------
+    de-fr ↔ de-it: 58/74 agree (78.4%)
+    de-fr ↔ de-rm: 60/74 agree (81.1%)
+    de-fr ↔ fr-it: 54/74 agree (73.0%)
+    de-fr ↔ fr-rm: 61/74 agree (82.4%)
+    de-fr ↔ it-rm: 56/74 agree (75.7%)
+    de-it ↔ de-rm: 60/74 agree (81.1%)
+    de-it ↔ fr-it: 66/74 agree (89.2%)
+    de-it ↔ fr-rm: 59/74 agree (79.7%)
+    de-it ↔ it-rm: 66/74 agree (89.2%)
+    de-rm ↔ fr-it: 56/74 agree (75.7%)
+    de-rm ↔ fr-rm: 65/74 agree (87.8%)
+    de-rm ↔ it-rm: 58/74 agree (78.4%)
+    fr-it ↔ fr-rm: 61/74 agree (82.4%)
+    fr-it ↔ it-rm: 66/74 agree (89.2%)
+    fr-rm ↔ it-rm: 63/74 agree (85.1%)
