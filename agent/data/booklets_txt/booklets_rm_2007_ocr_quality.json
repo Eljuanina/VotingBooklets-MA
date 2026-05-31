@@ -1,0 +1,20 @@
+{
+  "character_error_rate": 0.03,
+  "garbling": "minor",
+  "language_legibility": "good",
+  "missing_content": "ok",
+  "structural_integrity": "ok",
+  "page_order": "ok",
+  "overall_score": 85,
+  "needs_redo": false,
+  "recommended_engine": "tesseract",
+  "issues": [
+    "minor OCR errors in page numbers and headers",
+    "extraneous characters like '<' and '>' around title"
+  ],
+  "txt_path": "data/booklets_txt/booklets_rm_2007.txt",
+  "pdf_path": "data/booklets/rm_2007.pdf",
+  "total_lines": 535,
+  "sampled_lines": 78,
+  "image_verified": true
+}

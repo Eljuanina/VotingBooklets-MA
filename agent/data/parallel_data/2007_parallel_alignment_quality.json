@@ -1,0 +1,1100 @@
+{
+  "jsonl_path": "data/parallel_data/2007_parallel.jsonl",
+  "langs": [
+    "de",
+    "fr",
+    "it",
+    "rm"
+  ],
+  "n_groups": 75,
+  "avg_semantic_score": 74.2,
+  "score_threshold": 70,
+  "n_flagged_total": 30,
+  "n_flagged_semantic": 26,
+  "n_flagged_incomplete": 30,
+  "n_flagged_ocr_residue": 0,
+  "flagged_indices": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    28,
+    29,
+    31,
+    32,
+    33,
+    34,
+    36,
+    39,
+    54,
+    59,
+    60,
+    61,
+    69
+  ],
+  "all_results": [
+    {
+      "idx": 0,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 0,
+      "row": {
+        "de": "Volksabstimmung vom 11. März 2007 Erläuterungen des Bundesrates",
+        "fr": "Votation populaire du 11 mars 2007 Explications du Conseil fédéral",
+        "it": "Votazione popolare dell'11 marzo 2007 Spiegazioni del Consiglio federale",
+        "rm": "Votaziun dal pievel dals 11 da mars 2007 Explicaziuns dal cussegl federal"
+      }
+    },
+    {
+      "idx": 1,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 1,
+      "row": {
+        "de": "Volksinitiative «Für eine soziale Einheitskrankenkasse»",
+        "fr": "Initiative populaire «Pour une caisse maladie unique et sociale»",
+        "it": "Iniziativa popolare «Per una cassa malati unica e sociale»",
+        "rm": "Iniziativa dal pievel «Per ina cassa da malsauns unitara e sociala»"
+      }
+    },
+    {
+      "idx": 2,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 2,
+      "row": {
+        "de": "Schweizerische Eidgenossenschaft Confédération suisse Confederazione Svizzera Confederaziun svizra",
+        "fr": "Schweizerische Eidgenossenschaft Confédération suisse Confederazione Svizzera Confederaziun svizra",
+        "it": "Schweizerische Eidgenossenschaft Confédération suisse Confederazione Svizzera Confederaziun svizra",
+        "rm": "Schweizerische Eidgenossenschaft Confédération suisse Confederazione Svizzera Confederaziun svizra"
+      }
+    },
+    {
+      "idx": 3,
+      "semantic_score": 30,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "German and Romansh versions are short titles, French and Italian versions are longer descriptions.",
+      "global_idx": 3,
+      "row": {
+        "de": "Schweizerische Eidgenossenschaft Confédération suisse",
+        "fr": "L'objet en votation Initiative «Pour une caisse maladie unique et sociale»",
+        "it": "Su che cosa si vota? Iniziativa «Per una cassa malati unica e sociale» L'iniziativa popolare «Per una cassa malati unica e sociale» chiede che sia istituita una cassa malati unica per l'assicura- zione di base. Chiede inoltre che i premi siano stabiliti in base alla capacità economica degli assicurati.",
+        "rm": "Schweizerische Eidgenossenschaft Confédération suisse Davart quai vegni votà"
+      }
+    },
+    {
+      "idx": 4,
+      "semantic_score": 30,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "German is a short title, French and Italian are detailed explanations.",
+      "global_idx": 4,
+      "row": {
+        "de": "Darüber wird abgestimmt",
+        "fr": "L'initiative populaire «Pour une caisse maladie unique et sociale» demande qu'une seule caisse-maladie pratique l'assurance de base. Elle demande aussi que les primes de l'assurance de base soient fixées en fonction de la capacité économique des assurés.",
+        "it": "Consiglio federale e Parlamento respingono l'iniziativa. Il sistema attuale con più casse malati presenta chiari vantaggi. La crescita dei costi nel settore della sanità non viene frenata né con una cassa malati unica né con premi proporzionali al reddito e alla sostanza.",
+        "rm": ""
+      }
+    },
+    {
+      "idx": 5,
+      "semantic_score": 40,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "German and Romansh are titles, French and Italian are explanations.",
+      "global_idx": 5,
+      "row": {
+        "de": "Initiative «Für eine soziale Einheitskrankenkasse»",
+        "fr": "Le Conseil fédéral et le Parlement rejettent l'initiative. Le système actuel, avec plusieurs caisses-maladie, présente de nets avantages. Ni une caisse unique, ni des primes dépen- dant du revenu et de la fortune ne permettraient de freiner la croissance des coûts de la santé.",
+        "it": "Spiegazioni Testo in votazione pagine 4–13 pagine 9–10",
+        "rm": "Iniziativa «Per ina cassa da malsauns unitara e sociala»"
+      }
+    },
+    {
+      "idx": 6,
+      "semantic_score": 0,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "German and Italian are empty.",
+      "global_idx": 6,
+      "row": {
+        "de": "",
+        "fr": "Explications Texte soumis au vote pages 4–13 pages 9–10",
+        "it": "",
+        "rm": ""
+      }
+    },
+    {
+      "idx": 7,
+      "semantic_score": 40,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "German and Italian are short, French is a title, Romansh is a detailed explanation.",
+      "global_idx": 7,
+      "row": {
+        "de": "Die Volksinitiative «Für eine soziale Einheitskrankenkasse» verlangt für die Grundversicherung eine einzige Kranken- kasse. Weiter will die Initiative, dass die Prämien in der Grundversicherung nach der wirtschaftlichen Leistungsfähig- keit der Versicherten festgelegt werden.",
+        "fr": "Confederazione Svizzera Objet Initiative populaire fédérale «Pour une caisse maladie unique et sociale»",
+        "it": "Confederazione Svizzera",
+        "rm": "L'iniziativa populara «Per ina cassa da malsauns unitara e sociala» pretenda ina suletta cassa da malsauns per l'assicu- ranza fundamentala. Plinavant vul l'iniziativa che las premias en l'assicuranza fundamentala vegnian fixadas tenor la capa- citad economica da las persunas assicuradas."
+      }
+    },
+    {
+      "idx": 8,
+      "semantic_score": 50,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "German and Romansh are explanations, French is a question, Italian is a title.",
+      "global_idx": 8,
+      "row": {
+        "de": "Bundesrat und Parlament lehnen die Initiative ab. Das heu- tige System mit mehreren Krankenkassen hat klare Vorzüge. Das Wachstum der Gesundheitskosten wird weder mit einer Einheitskasse noch mit einkommens- und vermögens- abhängigen Prämien gebremst.",
+        "fr": "La question à laquelle vous devez répondre est la suivante: Acceptez-vous l'initiative populaire «Pour une caisse maladie unique et sociale»?",
+        "it": "Oggetto Iniziativa popolare federale «Per una cassa malati unica e sociale»",
+        "rm": "Il cussegl federal ed il parlament refuseschan l'iniziativa. Il sistem actual cun pliras cassas da malsauns ha clers avan- tatgs. Il creschament dals custs da sanadad na vegn franà ni cun ina cassa unitara ni cun premias ch'èn dependentas da las entradas e da la facultad."
+      }
+    },
+    {
+      "idx": 9,
+      "semantic_score": 50,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "German and Romansh are titles, French and Italian are explanations.",
+      "global_idx": 9,
+      "row": {
+        "de": "Informationen zur Vorlage Der Abstimmungstext",
+        "fr": "Le Conseil fédéral et le Parlement vous recommandent de rejeter l'initiative. Le Conseil national a rejeté l'initiative par 122 voix contre 67, et 2 abstentions; le Conseil des États l'a rejetée par 34 voix contre 6, et 2 abstentions.",
+        "it": "La domanda che figura sulla scheda è la seguente: Volete accettare l'iniziativa popolare «Per una cassa malati unica e sociale»?",
+        "rm": "Infurmaziuns davart il project Il text da votaziun paginas 4–13 paginas 9–10"
+      }
+    },
+    {
+      "idx": 10,
+      "semantic_score": 30,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "German is a page reference, French is a summary title, Italian is an explanation, Romansh is a number.",
+      "global_idx": 10,
+      "row": {
+        "de": "Seiten 4–13 Seiten 9–10",
+        "fr": "L'essentiel en bref",
+        "it": "Consiglio federale e Parlamento raccomandano di respingere l'iniziativa. Il Consiglio nazionale ha respinto l'iniziativa con 122 voti contro 67 e 2 astensioni; il Consiglio degli Stati con 34 voti contro 6 e 2 astensioni.",
+        "rm": "3"
+      }
+    },
+    {
+      "idx": 11,
+      "semantic_score": 40,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "German and Romansh are titles, French and Italian are explanations.",
+      "global_idx": 11,
+      "row": {
+        "de": "Vorlage Eidgenössische Volksinitiative «Für eine soziale Einheitskrankenkasse»",
+        "fr": "L'assurance obligatoire des soins (assurance de base) garan- tit aujourd'hui à l'ensemble de la population l'accès aux traitements médicaux dont elle a besoin, qui sont de grande qualité. Elle est pratiquée par plusieurs caisses-maladie. Les prestations sont financées grâce aux primes et aux partici- pations aux coûts payées par les assurés (franchise et quote- part) et, pour un tiers, grâce à des recettes fiscales (subven- tions cantonales). Le système comporte aussi une dimension sociale: les assurés de condition économique modeste béné- ficient de réductions de primes grâce à des subsides de la Confédération et des cantons.",
+        "it": "Confederaziun svizra L'essenziale in breve",
+        "rm": "Confederazione Svizzera Project Iniziativa federala dal pievel «Per ina cassa da malsauns unitara e sociala»"
+      }
+    },
+    {
+      "idx": 12,
+      "semantic_score": 0,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "German, French, and Italian are empty.",
+      "global_idx": 12,
+      "row": {
+        "de": "",
+        "fr": "",
+        "it": "",
+        "rm": "La dumonda da votaziun è:"
+      }
+    },
+    {
+      "idx": 13,
+      "semantic_score": 50,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "German is a question, French and Romansh are questions, Italian is a detailed explanation.",
+      "global_idx": 13,
+      "row": {
+        "de": "Die Abstimmungsfrage lautet: Wollen Sie die Volksinitiative «Für eine soziale Einheits- krankenkasse» annehmen?",
+        "fr": "Lancée par le Mouvement Populaire des Familles, l'initiative a deux objectifs principaux: d'une part, la pratique de l'assu- rance de base par une seule caisse-maladie; d'autre part, la fixation des primes maladie en fonction du revenu et de la fortune des assurés.",
+        "it": "Attualmente, l'assicurazione obbligatoria delle cure medico- sanitarie (assicurazione di base) garantisce che tutta la popo- lazione abbia accesso alle necessarie cure mediche di alta qualità. Essa è esercitata da diverse casse malati. Le presta- zioni sono finanziate con i premi e le partecipazioni degli assicurati ai costi (franchigia e aliquota percentuale) e, nella misura di un terzo, tramite proventi fiscali (sussidi cantonali). Il sistema comprende anche un correttivo di politica sociale: gli assicurati di condizioni economiche modeste usufruiscono di una riduzione dei premi finanziata dalla Confederazione e dai Cantoni.",
+        "rm": "Vulais Vus acceptar l'iniziativa dal pievel «Per ina cassa da malsauns unitara e sociala»?"
+      }
+    },
+    {
+      "idx": 14,
+      "semantic_score": 50,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "German and Romansh are explanations of the vote outcome, French and Italian are explanations of the initiative's consequences.",
+      "global_idx": 14,
+      "row": {
+        "de": "Bundesrat und Parlament empfehlen, die Initiative abzu- lehnen. Der Nationalrat hat die Initiative mit 122 zu 67 Stimmen bei 2 Enthaltungen abgelehnt, der Ständerat mit 34 zu 6 Stimmen bei 2 Enthaltungen.",
+        "fr": "Le monopole détenu par la caisse unique aurait pour consé- quence que les assurés ne pourraient plus changer de caisse- maladie dans l'assurance de base. Il n'y aurait plus de con- currence entre les caisses. Par ailleurs, échelonner les primes en fonction du revenu et de la fortune reviendrait à créer un impôt supplémentaire. La croissance des coûts n'en serait pas freinée. Enfin, avec le système de financement proposé, il est difficile de dire qui paierait des primes plus élevées et qui paierait des primes plus basses.",
+        "it": "L'iniziativa lanciata dal «Mouvement Populaire des Familles» ha due obiettivi principali: da un lato chiede che l'assicura- zione di base sia esercitata da una cassa malati unica, dall'altro che i premi dell'assicurazione malattie siano stabiliti in base al reddito e alla sostanza degli assicurati.",
+        "rm": "Il cussegl federal ed il parlament recumondan da refusar l'iniziativa. Il cussegl naziunal ha refusà l'iniziativa cun 122 cunter 67 vuschs tar 2 abstenziuns, il cussegl dals chantuns cun 34 cunter 6 vuschs tar 2 abstenziuns."
+      }
+    },
+    {
+      "idx": 15,
+      "semantic_score": 40,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "German and Romansh are titles, French and Italian are explanations.",
+      "global_idx": 15,
+      "row": {
+        "de": "Confederaziun svizra Das Wichtigste in Kürze",
+        "fr": "Le Conseil fédéral et le Parlement rejettent l'initiative. La caisse unique, qui serait une entité d'une grande inertie, supprimerait toute concurrence. Des primes échelonnées en fonction du revenu et de la fortune pénaliseraient surtout la classe moyenne. Ces changements ne résoudraient pas des problèmes essentiels comme la croissance des coûts. Ils condamneraient même les efforts de réforme du Conseil fédéral et du Parlement.",
+        "it": "Il monopolio della cassa unica comporterebbe per gli assicu- rati l'impossibilità di cambiare cassa malati nell'assicurazione di base. Non vi sarebbe più concorrenza tra le casse. I premi fissati in base alla capacità economica corresponderebbero a un'imposta supplementare. Questo non permetterebbe di frenare la crescita dei costi, né è chiaro quali assicurati subi- rebbero un aumento dei premi e quali invece beneficerebbero di una riduzione.",
+        "rm": "Confederaziun svizra Il pli impurtant en furma concisa"
+      }
+    },
+    {
+      "idx": 16,
+      "semantic_score": 50,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "German and Romansh are detailed explanations of the current system, French is a title, Italian is a title and a short explanation.",
+      "global_idx": 16,
+      "row": {
+        "de": "Die obligatorische Krankenpflegeversicherung (Grundver- sicherung) garantiert heute der gesamten Bevölkerung den Zugang zu den nötigen medizinischen Behandlungen in hoch- stehender Qualität. Durchgeführt wird sie von verschiedenen Krankenkassen. Finanziert werden die Leistungen über Prä- mien und Kostenbeteiligungen der Versicherten (Franchise und Selbstbehalt) sowie zu einem Drittel aus Steuergeldern (kantonale Subventionen). Das System sorgt auch für einen sozialen Ausgleich: Für Versicherte in bescheidenen wirt- schaftlichen Verhältnissen werden die Prämien mit Geldern des Bundes und der Kantone verbilligt.",
+        "fr": "Système actuel",
+        "it": "Il Consiglio federale e il Parlamento respingono l'iniziativa. La cassa malati unica sarebbe un apparato pesante ed elimi- nerebbe la concorrenza. I premi stabiliti in base alla capacità economica penalizzerebbero in particolare il ceto medio. I cambiamenti proposti non contribuirebbero alla soluzione di problemi importanti come la crescita dei costi. Inoltre gli sforzi di riforma intrapresi dal Consiglio federale e dal Parla- mento ne risulterebbero vanificati. Sistema attuale",
+        "rm": "L'assicuranza obligatorica per la tgira da malsauns (assicuranza fundamentala) garantescha oz a tut la populaziun da survegnir il tractament medicinal necessari, e quai en ina buna qualitad. Purschida vegn ella da differentas cassas da malsauns. Las prestaziuns vegnan finanziadas tras premias e tras ina partici- paziun als custs da vart da las persunas assicuradas (fran- chisa e resalva persunala) sco er per in terz tras daners da taglia (subvenziuns chantunalas). Quest sistem procura er per ina gulivaziun sociala: Per persunas assicuradas che vivan en relaziuns economicas modestas vegnan las premias reducidas cun daners da la confederaziun e dals chantuns."
+      }
+    },
+    {
+      "idx": 17,
+      "semantic_score": 50,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "German and Romansh are titles, French and Italian are explanations of the initiative's goals.",
+      "global_idx": 17,
+      "row": {
+        "de": "Die vom «Mouvement Populaire des Familles» lancierte Initiative hat zwei Hauptanliegen: Zum einen soll die Grund- versicherung durch eine einzige Krankenkasse durchgeführt werden, zum anderen sollen die Krankenkassenprämien ent- sprechend dem Einkommen und Vermögen der Versicherten festgelegt werden.",
+        "fr": "Que demande l'initiative?",
+        "it": "Che cosa chiede l'iniziativa?",
+        "rm": "L'iniziativa ch'è vegnida lantschada dal «mouvement popu- laire des familles» ha duas finamiras principalas: per l'ina duai l'assicuranza fundamentala vegnir realisada d'ina unica cassa da malsauns, per l'autra duain las premias da la cassa da malsauns vegnir fixadas sin basa da las entradas e da la facultad da las persunas assicuradas."
+      }
+    },
+    {
+      "idx": 18,
+      "semantic_score": 50,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "German and Romansh are explanations of the consequences, French and Italian are titles.",
+      "global_idx": 18,
+      "row": {
+        "de": "Das Monopol der Einheitskasse hat zur Folge, dass die Ver- sicherten ihre Krankenkasse für die Grundversicherung nicht mehr wechseln können. Der Wettbewerb unter den Kassen entfällt. Prämien, die nach dem Einkommen und Vermögen abgestuft werden, kommen einer zusätzlichen Steuer gleich. Das Kostenwachstum wird dadurch nicht gebremst. Unklar ist, welche Versicherten mit der neuen Finanzierung belastet und welche entlastet werden.",
+        "fr": "Conséquences de l'initiative",
+        "it": "Conseguenze dell'iniziativa",
+        "rm": "Il monopol da la cassa unitara ha per consequenza che las persunas assicuradas na pon betg pli midar lur cassa da malsauns, tar la quala ellas han lur assicuranza fundamentala. La concurrenza tranter las cassas croda davent. Premias che vegnan graduadas tenor las entradas e tenor la facultad sumeglian fitg ina taglia supplementara. Il creschament dals custs na vegn uschia betg franà. Ed i n'è betg cler, tge persu- nas assicuradas che vegnan engrevgiadas tras la nova finan- ziaziun e tgeninas che vegnan distgargiadas."
+      }
+    },
+    {
+      "idx": 19,
+      "semantic_score": 50,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "German and Romansh are explanations of the vote outcome and titles, French and Italian are titles.",
+      "global_idx": 19,
+      "row": {
+        "de": "Bundesrat und Parlament lehnen die Initiative ab: Eine Ein- heitskasse wäre ein schwerfälliges Gebilde und würde den Wettbewerb beseitigen. Nach Einkommen und Vermögen abgestufte Prämien würden vor allem den Mittelstand belas- ten. Wesentliche Probleme wie das Kostenwachstum werden damit nicht gelöst, und die Reformanstrengungen von Bun- desrat und Parlament würden blockiert. Heutiges System Was will die Initiative? Folgen der Initiative Standpunkt von Bundesrat und Parlament",
+        "fr": "Position du Conseil fédéral et du Parlement",
+        "it": "Posizione del Consiglio federale e del Parlamento",
+        "rm": "Il cussegl federal ed il parlament refuseschan l'iniziativa: Ina cassa unitara fiss in product immovibel ed eliminass la con- currenza. Premias che vegnan graduadas tenor las entradas e tenor la facultad engrevgiassan en emprima lingia la classa mesauna. Problems essenzials sco il creschament dals custs na vegnissan betg schliads uschia e las stentas dal cussegl federal e dal parlament per ina refurma vegnissan bloccadas. Sistem actual Tge vul l'iniziativa? Consequenzas da l'iniziativa"
+      }
+    },
+    {
+      "idx": 20,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 20,
+      "row": {
+        "de": "Die Vorlage im Detail",
+        "fr": "Le projet en détail",
+        "it": "Il progetto in dettaglio",
+        "rm": "Puntg da vista dal cussegl federal e dal parlament 5 Il project da votaziun en detagl"
+      }
+    },
+    {
+      "idx": 21,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 21,
+      "row": {
+        "de": "Die Grundversicherung wird heute von 87 vom Bund aner- kannten Krankenkassen durchgeführt. Die volle Freizügigkeit ermöglicht den Versicherten, die Krankenkasse frei zu wählen und unabhängig von Gesundheitszustand und Alter zu einer anderen Krankenkasse zu wechseln.",
+        "fr": "Aujourd'hui, l'assurance de base est pratiquée par 87 cais- ses-maladie reconnues par la Confédération. La liberté dont jouissent les assurés leur permet de choisir librement leur caisse-maladie et d'en changer quels que soient leur âge et leur état de santé.",
+        "it": "Attualmente, l'assicurazione di base è esercitata da 87 casse malati riconosciute dalla Confederazione. Il principio di libero passaggio nell'ambito dell'assicurazione di base permette agli assicurati di scegliere liberamente la cassa malati e di cambiarla in ogni momento, indipendentemente dall'età e dallo stato di salute.",
+        "rm": "L'assicuranza fundamentala vegn purschida dad 87 cassas da malsauns ch'èn renconuschidas da la confederaziun. La liber- tad cumplaina dat a las persunas assicuradas la pussaivladad da tscherner libramain la cassa da malsauns e da midar d'ina cassa da malsauns a l'autra, e quai independentamain dal stadi da sanadad e da la vegliadetgna."
+      }
+    },
+    {
+      "idx": 22,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 22,
+      "row": {
+        "de": "Die Finanzierung der Leistungen erfolgt heute solidarisch über die Prämien sowie über die Kostenbeteiligungen der Versicherten und über Steuergelder. Die Kassen legen die Höhe der Prämie aufgrund ihrer Kosten fest. Deshalb beste- hen zwischen den Kantonen und Regionen je nach Kasse grössere Prämienunterschiede. Der Gesundheitszustand der Versicherten hat auf die Prämienhöhe keinen Einfluss. Ab dem 26. Altersjahr gibt es auch keine Altersabstufungen mehr.",
+        "fr": "Les prestations sont aujourd'hui financées de manière soli- daire par les primes, mais aussi par les participations aux coûts payées par les assurés et par des recettes fiscales. Les caisses-maladie fixent le montant des primes en fonction des coûts qu'elles supportent. C'est pourquoi les différences de primes sont plus ou moins grandes d'un canton ou d'une région à l'autre, suivant les caisses. L'état de santé des assu- rés n'a aucune influence sur le montant des primes. Enfin, à partir de 26 ans, il n'y a plus de différenciation selon l'âge.",
+        "it": "Nel sistema attuale, il finanziamento delle prestazioni avviene su base solidale, da un lato tramite i premi e la partecipazione degli assicurati ai costi e dall'altro tramite i proventi fiscali. Le casse fissano i premi in base ai loro costi. Per questo motivo vi sono notevoli differenze tra i premi delle singole casse, a seconda del Cantone e della regione. Lo stato di salute degli assicurati non influisce sull'ammontare dei premi. Infine, a partire dal 26° anno di età non si applicano più differenzia- zioni basate sull'età.",
+        "rm": "Las prestaziuns vegnan actualmain finanziadas en moda soli- dara tras premias, tras ina participaziun als custs da vart da las persunas assicuradas e tras daners da taglia. Las cassas fixe- schan l'autezza da las premias sin basa da lur custs. Tut tenor la cassa existan pervia da quai tranter ils chantuns e tranter las regiuns differenzas pli grondas tar las premias. Il stadi da sanadad da la persuna assicurada n'ha nagina influenza sin l'autezza da la premia. A partir dal 26avel onn da vegliadetgna na datti er pli naginas graduaziuns tenor la vegliadetgna."
+      }
+    },
+    {
+      "idx": 23,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 23,
+      "row": {
+        "de": "Die Initiantinnen und Initianten streben in zwei Punkten einen grundlegenden Kurswechsel an: Die Grundversicherung soll durch eine einzige Krankenkasse durchgeführt und die Prä- mien sollen nach dem Einkommen und Vermögen der Versi- cherten festgelegt werden. Die Initiative beschreibt zudem die Führungsstruktur der neuen Einheitskasse. Die Regelung der Prämienbemessung wird aber dem Gesetzgeber überlassen. Die Einheitskasse selbst darf keine Zusatzversicherungen anbieten. Zusatzversicherungen müssen deshalb immer bei einem anderen Versicherer abgeschlossen werden.",
+        "fr": "Les auteurs de l'initiative veulent un changement de cap radical sur deux points: l'assurance de base doit être prati- quée par une seule caisse-maladie, et les primes doivent être fixées en fonction du revenu et de la fortune des assu- rés. L'initiative précise en outre la structure de direction de la nouvelle caisse unique, mais elle laisse au législateur le soin de régler le calcul des primes. La caisse unique ne pour- rait pas proposer d'assurances complémentaires. Celles-ci devraient donc toujours être conclues avec un autre assu- reur.",
+        "it": "Gli autori dell'iniziativa desiderano introdurre un cambia- mento fondamentale in due punti: l'assicurazione di base dovrà essere esercitata da una cassa unica e i premi dovranno essere fissati in base al reddito e alla sostanza del singolo assicurato. L'iniziativa definisce inoltre la struttura della dire- zione della nuova cassa unica. Il disciplinamento della fissa- zione dei premi è tuttavia delegato al legislatore. La cassa unica non offrirà assicurazioni complementari: queste do- vranno pertanto essere concluse presso un altro assicuratore.",
+        "rm": "Tar dus puncts aviseschan las iniziantas ed ils iniziants ina midada fundamentala dal sistem. L'assicuranza fundamentala duai vegnir purschida d'ina unica cassa da malsauns e las premias duain vegnir fixadas sin basa da las entradas e da la facultad da las persunas assicuradas. L'iniziativa prescriva ultra da quai la structura da gestiun da la nova cassa unitara. La regulaziun concernent la calculaziun da las premias vegn sur- laschada a la legislatura u al legislatur. La cassa unitara sezza na dastga betg porscher assicuranzas supplementaras. Assicu- ranzas supplementaras ston pervia da quai adina vegnir fatgas tar in'autra assicuranza."
+      }
+    },
+    {
+      "idx": 24,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 24,
+      "row": {
+        "de": "Nach der Übergangsregelung soll die Einheitskasse ihre Arbeit spätestens drei Jahre nach Annahme der vorgeschla- genen Verfassungsbestimmung aufnehmen. Sie übernimmt von den Krankenkassen die Aktiven und Passiven, soweit diese aus der Grundversicherung stammen. Wesentliche Fragen des Übergangs sind nicht geregelt, zum Beispiel, wie die Ver- mögenswerte der Krankenkassen während dieser drei Jahre bewirtschaftet werden müssen oder zu welchen Bedingungen die Mittel übertragen werden sollen.",
+        "fr": "La réglementation transitoire prévoit que la caisse unique devra être opérationnelle au plus tard trois ans après l'accep- tation de l'article constitutionnel proposé. Elle prévoit aussi que la caisse devra reprendre les actifs et passifs des caisses- maladie pour autant qu'ils proviennent de l'assurance de base. Mais elle ne règle pas des questions essentielles liées à la transition, notamment la manière de gérer les avoirs des caisses-maladie pendant ces trois ans ou les conditions de leur transfert.",
+        "it": "Secondo le disposizioni transitorie la cassa unica dovrà essere operativa al più tardi tre anni dopo l'accettazione della dispo- sizione costituzionale proposta. La cassa riprenderà dalle casse malati gli attivi e i passivi relativi all'assicurazione obbli- gatoria delle cure medico-sanitarie. Vari punti fondamentali della transizione non sono però disciplinati, ad esempio come dovranno essere gestiti i valori patrimoniali delle casse malati durante questi tre anni o a quali condizioni questi mezzi dovranno essere trasferiti alla nuova cassa.",
+        "rm": "Suenter la regulaziun transitorica duai la cassa unitara cumen- zar cun sia activitad il pli tard trais onns suenter che la disposi- ziun da la constituziun proponida è vegnida acceptada. Ella surpiglia las activas e las passivas da las cassas da malsauns, uschenavant che quellas derivan da l'assicuranza fundamen- tala. Dumondas essenzialas da la transiziun n'èn dentant betg regladas, per exempel en tge moda e maniera che las valurs da facultad da las cassas da malsauns ston vegnir administra- das durant quests trais onns u a tge cundiziuns ch'ils meds finanzials duain vegnir transferids."
+      }
+    },
+    {
+      "idx": 25,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 25,
+      "row": {
+        "de": "Heutiges System: Auswahl von Krankenkassen",
+        "fr": "Système actuel: libre choix de la caisse-maladie",
+        "it": "Sistema attuale: scelta della cassa malati",
+        "rm": "Sistem actual: tscherna da cassas da malsauns"
+      }
+    },
+    {
+      "idx": 26,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 26,
+      "row": {
+        "de": "Finanzierung",
+        "fr": "Financement",
+        "it": "Finanziamento",
+        "rm": "Finanziaziun"
+      }
+    },
+    {
+      "idx": 27,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 27,
+      "row": {
+        "de": "Ziele der Initiative",
+        "fr": "Objectifs de l'initiative",
+        "it": "Obiettivi dell'iniziativa",
+        "rm": "Finamiras da l'iniziativa"
+      }
+    },
+    {
+      "idx": 28,
+      "semantic_score": 40,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "German, French, and Romansh are titles. Italian is a detailed explanation with a page number.",
+      "global_idx": 28,
+      "row": {
+        "de": "Übergangs- regelung",
+        "fr": "Réglementation transitoire",
+        "it": "Disposizioni transitorie Che cosa cambierebbe in caso di accettazione dell'iniziativa? Sistema attuale Iniziativa Chi esercita l'assicurazione di base? Come sono organizzate le casse malati? Come funziona la concorrenza tra le casse malati? 87 casse malati, di cui 17 con più di 100 000 assi- curati. 42 casse malati hanno meno di 10 000 assi- curati; tra queste figurano soprattutto le casse malati regionali o locali. Le casse malati sono organizzate come associa- zioni, fondazioni, coopera- tive, società anonime o enti di diritto pubblico. Le casse sono tenute a pubblicare la loro struttura organizzativa. Le casse malati sono in concorrenza una con l'altra. L'elevato numero di casse malati permette di offrire modelli di assicurazione innovativi e su misura. Una cassa malati unica per un totale di oltre 7,5 milioni di assicurati. La forma giuridica e la struttura amministrativa della cassa unica non sono ancora definite. È però stabilita la composizione degli organi di direzione. Sono previsti un consiglio di amministrazione e un consiglio di vigilanza. Questi due organi dovreb- bero comprendere un pari numero di rappresentanti dei poteri pubblici, dei fornitori di prestazioni e delle organizzazioni di difesa degli assicurati. Con una cassa unica non vi è concorrenza. Gli assi- curati non possono più scegliere né cambiare la cassa malati. Sarebbe più difficile offrire soluzioni su misura. 7",
+        "rm": "Regulaziun transitorica"
+      }
+    },
+    {
+      "idx": 29,
+      "semantic_score": 50,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "German and French are questions. Italian is a title and a question. Romansh is a question.",
+      "global_idx": 29,
+      "row": {
+        "de": "Was würde sich bei einer Annahme der Initiative ändern?",
+        "fr": "Qu'est-ce qui changerait si l'initiative était acceptée?",
+        "it": "Su che cosa si vota? Iniziativa «Per una cassa malati unica e sociale»",
+        "rm": "Tge sa midass, sche l'iniziativa vegniss acceptada?"
+      }
+    },
+    {
+      "idx": 0,
+      "semantic_score": 80,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "Minor semantic difference in 'System according to the initiative' vs 'Initiative'.",
+      "global_idx": 30,
+      "row": {
+        "de": "Heutiges System Initiative",
+        "fr": "Système actuel Système selon l'initiative",
+        "it": "Sistema attuale Iniziativa",
+        "rm": "Sistem actual Iniziativa"
+      }
+    },
+    {
+      "idx": 1,
+      "semantic_score": 0,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "Italian version is a completely different question.",
+      "global_idx": 31,
+      "row": {
+        "de": "Wer führt die Grundversicherung durch? 87 Krankenkassen, davon 17 mit mehr als 100 000 Versicherten. 42 Kranken- kassen haben weniger als 10 000 Versicherte. Unter diesen befinden sich vor allem Orts- und Gebiets- krankenkassen. Eine einzige Krankenkasse für mehr als 7,5 Millionen Versicherte.",
+        "fr": "Qui pratique l'assurance de base? 87 caisses-maladie, dont 17 qui regroupent plus de 100 000 assurés. 42 caisses ont moins de 10 000 assu- rés. Parmi elles, on trouve surtout des caisses locales ou régionales. Une seule caisse-maladie pour plus de 7,5 millions d'assurés.",
+        "it": "Come è finanziata l'assicurazione di base?",
+        "rm": "Tgi porscha l'assicuranza fundamentala? 87 cassas da malsauns, da quellas 17 cun dapli che 100 000 persunas assicura- das. 42 cassas da malsauns han main che 10 000 per- sunas assicuradas. Tranter quellas sa chattan oravant tut cassas da malsauns localas e regiunalas. Ina unica cassa da malsauns cun dapli che 7,5 milliuns persunas assicuradas."
+      }
+    },
+    {
+      "idx": 2,
+      "semantic_score": 0,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "Italian version discusses premium fixing and solidarity, not organization of health insurance.",
+      "global_idx": 32,
+      "row": {
+        "de": "Wie sind die Krankenkassen organisiert? Die Krankenkassen sind als Vereine, Stiftungen, Genossenschaften, Aktien- gesellschaften und öffent- lichrechtliche Körper- schaften organisiert. Die Krankenkassen sind zu einer Publikation ihrer Organisationsstruktur ver- pflichtet. Die Rechtsform und die Verwaltungsstruktur der Einheitskrankenkasse sind noch offen. Fest steht aber die Zusammensetzung der Führungsgremien. Vorgese- hen sind ein Verwaltungs- rat und ein Aufsichtsrat. In beiden Gremien sollen die Behörden, die Leistungser- bringer und die Interessen- vertretung der Versicherten mit jeweils gleich vielen Personen vertreten sein.",
+        "fr": "Comment les caisses-maladie sont-elles organisées? Les caisses-maladie sont organisées sous la forme d'associations, de fonda- tions, de sociétés coopéra- tives, de sociétés anony- mes et de corporations de droit public. Elles ont l'obligation de publier leur structure organisationnelle. La forme juridique et la structure administrative de la caisse unique ne sont pas précisées. En revanche, la composition des organes dirigeants est connue. Un conseil d'administration et un conseil de surveillance sont prévus. Ils compren- draient chacun un nombre égal de représentants des pouvoirs publics, des four- nisseurs de prestations et des organisations de défense des assurés.",
+        "it": "Nella fissazione dei premi si applica il principio della solidarietà fra persone sane e malate e fra giovani e anziani. Soltanto i bam- bini e i giovani fino a 25 anni compiuti pagano premi più bassi. Il reddito e la sostanza degli assicu- rati influiscono sulla ridu- zione dei premi.",
+        "rm": "Co èn organisadas las cassas da malsauns? Las cassas da malsauns èn organisadas sco uniuns, sco fundaziuns, sco socie- tads cooperativas, sco socie- tads anonimas u sco corpo- raziuns da dretg public. Las cassas da malsauns èn obligadas da publitgar lur structura organisatorica. La furma giuridica e la structura administrativa da la cassa unitara n'èn anc betg definidas. Definida è dentant la cumposiziun dals gremis directivs. Previs èn in cussegl d'administraziun ed in cussegl da surve- glianza. Tuts dus gremis cumpiglian in dumber egual da represchentantas e da represchentants da las auto- ritads, da las furnituras e dals furniturs da prestaziuns e da las organisaziuns che represchentan ils interess da las persunas assicuradas."
+      }
+    },
+    {
+      "idx": 3,
+      "semantic_score": 0,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "Italian version discusses premium financing and delegation to the legislator, not competition among health insurers.",
+      "global_idx": 33,
+      "row": {
+        "de": "Wie spielt der Wettbewerb unter den Krankenkassen? Die Krankenkassen stehen untereinander im Wett- bewerb. Die Vielfalt der Krankenkassen ermöglicht innovative und massge- schneiderte Versicherungs- modelle. Bei einer Einheitskranken- kasse gibt es keinen Wett- bewerb. Die Versicherten können ihre Krankenkasse nicht mehr auswählen und wechseln. Massgeschnei- derte Angebote werden erschwert.",
+        "fr": "Comment la concurrence joue-t-elle entre les caisses-maladie? Les caisses-maladie sont en concurrence. Leur diver- sité permet de proposer des modèles d'assurance novateurs et taillés sur mesure. Avec une caisse unique, il n'y aurait pas de concur- rence. Les assurés ne pourraient plus choisir leur caisse-maladie ou en changer, et il serait plus difficile de proposer des offres sur mesure.",
+        "it": "L'iniziativa disciplina sol- tanto a grandi linee la quota dei premi al finan- ziamento. Questa dovrà essere fissata in base alla capacità economica degli assicurati. L'elaborazione di una soluzione concreta è delegata al legislatore. Attualmente non è chiaro chi dovrebbe pagare meno e chi di più.",
+        "rm": "En tge moda è avant maun la concurrenza tranter las cassas da malsauns? Las cassas da malsauns stattan en concurrenza ina cun l'autra. La diversitad da las cassas da malsauns pus- sibilitescha models d'assicu- ranza innovativs fatgs «sin mesira». Tar ina cassa da malsauns unitara na datti nagina con- currenza. Las persunas assi- curadas na pon betg pli tscherner e midar la cassa da malsauns. Igl è pli difficil da porscher soluziuns fatgas «sin mesira». 7"
+      }
+    },
+    {
+      "idx": 4,
+      "semantic_score": 0,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "Italian and Rhaeto-Romanic versions discuss administrative costs and financing, not the subject of the vote.",
+      "global_idx": 34,
+      "row": {
+        "de": "Darüber wird abgestimmt Initiative «Für eine soziale Einheitskrankenkasse»",
+        "fr": "L'objet en votation Initiative «Pour une caisse maladie unique et sociale»",
+        "it": "A quanto ammon- tano le spese amministrative dell'assicurazione di base? Nel 2005 le spese ammini- strative corrispondevano al 5,4 per cento delle spese complessive.",
+        "rm": "Sistem actual Iniziativa Co vegn finanziada l'assicuranza fundamentala? Quant gronds èn ils custs administrativs da l'assicuranza fundamentala? Tge reservas e tge retenziuns èn necessarias per l'assicuranza fundamentala? Tar la fixaziun da las premias vala il princip da la solidari- tad tranter persunas saunas e malsaunas, tranter persu- nas giuvnas e veglias. Pre- mias pli bassas pajan mo uffants e persunas giuvnas creschidas fin ch'ellas han cumplenì 25 onns. Las entra- das e la facultad giogan ina rolla en cas d'ina reducziun da las premias. Ils custs administrativs han importà l'onn 2005 5,4 pertschient da tut las expensas. Las cassas da malsauns ston metter d'ina vart las reser- vas e las retenziuns ch'èn necessarias. Las reservas minimalas importan – tut tenor la grondezza da la cassa – actualmain tranter 13 e 20 pertschient da las entradas da premias. Ulteriuras reducziuns èn gia decididas. L'iniziativa ইতিমধ্যেla la part da las premias da la finanziaziun mo en moda rudimentara. Quella duai vegnir fixada tenor la capacitad economica da las persunas assicuradas. L'elavuraziun dals detagls vegn surlaschada a la legis- latura u al legislatur. Tgi che paja dapli e tgi che paja damain n'è anc betg previ- sibel. Er tar la cassa unitara custa l'administraziun. I n'è betg cler, sche quels custs èn pli auts u pli bass cumpare- glià cun ils custs actuals. Reservas e retenziuns vegnan anc adina ad esser necessarias."
+      }
+    },
+    {
+      "idx": 5,
+      "semantic_score": 80,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "Rhaeto-Romanic version is a title, not a statement about administrative costs.",
+      "global_idx": 35,
+      "row": {
+        "de": "Heutiges System Initiative",
+        "fr": "Système actuel Système selon l'initiative",
+        "it": "Anche una cassa unica genera spese amministra- tive. Tuttavia non è affatto chiaro se esse diminuireb- bero o aumenterebbero rispetto a oggi.",
+        "rm": "Text da votaziun Conclus federal davart l'iniziativa dal pievel «Per ina cassa da malsauns unitara e sociala» dals 23 da zercladur 2006"
+      }
+    },
+    {
+      "idx": 6,
+      "semantic_score": 100,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "German and Italian versions are empty.",
+      "global_idx": 36,
+      "row": {
+        "de": "",
+        "fr": "Comment l'assurance de base est-elle financée?",
+        "it": "",
+        "rm": ""
+      }
+    },
+    {
+      "idx": 7,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 37,
+      "row": {
+        "de": "Wie wird die Grundversicherung finanziert? Bei der Prämienfestsetzung gilt der Grundsatz der Solidarität zwischen Gesunden und Kranken sowie zwischen Jüngeren und Älteren. Nur Kinder und junge Erwachsene bis zum vollendeten 25. Altersjahr bezahlen tiefere Prämien. Das Einkommen und das Vermögen der Versicherten spielen für die Prämienverbilligung eine Rolle. Die Initiative regelt nur rudimentär den Prämienteil der Finanzierung. Dieser soll nach der wirtschaftlichen Leistungsfähigkeit der Versicherten festgelegt werden. Die Ausarbeitung im Einzelnen wird dem Gesetzgeber überlassen. Wer mehr und wer weniger zahlt, ist noch nicht absehbar.",
+        "fr": "Les primes sont fixées selon le principe de la solidarité entre les bien-portants et les malades ainsi qu'entre les jeunes et les personnes âgées. Il n'y a que les enfants et les jeunes adultes jusqu'à 25 ans qui paient des primes plus basses. Le revenu et la fortune des assurés sont déterminants pour les réductions de primes. L'initiative ne règle que sommairement la part du financement qui concerne les primes. Celles-ci seraient fixées en fonction de la capacité économique des assurés. L'élaboration d'une solution concrète serait laissée au législateur. Il est impossible de dire actuellement qui paierait plus et qui paierait moins.",
+        "it": "Quali riserve e accantonamenti sono necessari per l'assicurazione di base?",
+        "rm": "L'assamblea federala da la confederaziun svizra, sa basond sin l'artitgel 139 alinea 3 da la constituziun federala1, suenter avair examinà l'iniziativa dal pievel ch'è vegnida inoltrada ils 9 da december 2004 «Per ina cassa da malsauns unitara e sociala»2, suenter avair gì invista da la missiva dal cussegl federal dals 9 da december 20053, concluda:"
+      }
+    },
+    {
+      "idx": 8,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 38,
+      "row": {
+        "de": "Wie hoch sind die Verwaltungskosten für die Grundversicherung? Die Verwaltungskosten betrugen im Jahr 2005 5,4 Prozent der gesamten Ausgaben. Auch bei einer Einheitskasse entstehen Verwaltungskosten. Umstritten ist, ob diese im Vergleich zu den heutigen Kosten sinken oder steigen würden.",
+        "fr": "À combien se montent les frais administratifs dans l'assurance de base? Les frais administratifs se montaient en 2005 à 5,4% des dépenses totales. Une caisse unique générerait aussi des frais administratifs, mais il existe une controverse sur le fait de savoir s'ils diminueraient ou s'ils augmenteraient par rapport aux frais actuels.",
+        "it": "Le casse malati devono disporre delle riserve e degli accantonamenti necessari. A seconda della dimensione delle casse, le riserve minime oscillano oggi tra il 13 e il 20 per cento del totale dei premi incassati. Sono già state decise future riduzioni.",
+        "rm": "Art. 1 1 L'iniziativa dal pievel dals 9 da december 2004 «Per ina cassa da malsauns unitara e sociala» è valaivla e vegn suttamessa a la votaziun dal pievel e dals chantuns. 2 L'iniziativa dal pievel sa cloma: I La constituziun federala vegn midada sco suonda:"
+      }
+    },
+    {
+      "idx": 9,
+      "semantic_score": 100,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "German and Italian versions are empty.",
+      "global_idx": 39,
+      "row": {
+        "de": "",
+        "fr": "Quelles sont les réserves et les provisions qui sont nécessaires dans l'assurance de base?",
+        "it": "",
+        "rm": ""
+      }
+    },
+    {
+      "idx": 10,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 40,
+      "row": {
+        "de": "Welche Reserven und Rückstellungen sind für die Grundversicherung erforderlich? Die Krankenkassen müssen über die nötigen Reserven und Rückstellungen verfügen. Die Mindestreserven betragen je nach Kassengrösse heute zwischen 13 und 20 Prozent der Prämieneinnahmen. Weitere Senkungen sind bereits beschlossen. Reserven und Rückstellungen werden nach wie vor nötig sein.",
+        "fr": "Les caisses-maladie doivent disposer des réserves et des provisions nécessaires. Les réserves minimales oscillent, suivant la taille des caisses, entre 13 et 20% du total des primes. De futures baisses ont déjà été décidées. Les réserves et les provisions resteraient nécessaires.",
+        "it": "",
+        "rm": ""
+      }
+    },
+    {
+      "idx": 11,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 41,
+      "row": {
+        "de": "Abstimmungstext Bundesbeschluss über die Volksinitiative «Für eine soziale Einheitskrankenkasse» vom 23. Juni 2006",
+        "fr": "Texte soumis au vote Arrêté fédéral concernant l'initiative populaire «Pour une caisse maladie unique et sociale» du 23 juin 2006",
+        "it": "§ Testo in votazione Decreto federale concernente l'iniziativa popolare «Per una cassa malati unica e sociale» del 23 giugno 2006",
+        "rm": "La lescha regla la finanziaziun da la cassa. Ella fixescha las premias tenor la capacita' economica da las persunas assicuradas."
+      }
+    },
+    {
+      "idx": 12,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 42,
+      "row": {
+        "de": "Die Bundesversammlung der Schweizerischen Eidgenossenschaft, gestützt auf Artikel 139 Absatz 3 der Bundesverfassung1, nach Prüfung der am 9. Dezember 2004 eingereichten Volksinitiative «Für eine soziale Einheitskrankenkasse»2, nach Einsicht in die Botschaft des Bundesrates vom 9. Dezember 20053, beschliesst:",
+        "fr": "L'Assemblée fédérale de la Confédération suisse, vu l'art. 139, al. 3, de la Constitution1, vu l'initiative populaire «Pour une caisse maladie unique et sociale» déposée le 9 décembre 20042, vu le message du Conseil fédéral du 9 décembre 20053, arrête:",
+        "it": "L'Assemblea federale della Confederazione Svizzera, visto l'articolo 139 capoverso 3 della Costituzione federale1; esaminata l'iniziativa popolare «Per una cassa malati unica e sociale» depositata il 9 dicembre 20042; visto il messaggio del Consiglio federale del 9 dicembre 20053, decreta:",
+        "rm": "1 CS 101 2 BBI 2003 3977, 2005 533 3 BBI 2006 735"
+      }
+    },
+    {
+      "idx": 13,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 43,
+      "row": {
+        "de": "Art. 1 1 Die Volksinitiative vom 9. Dezember 2004 «Für eine soziale Einheitskrankenkasse» ist gültig und wird Volk und Ständen zur Abstimmung unterbreitet. 2 Die Volksinitiative lautet:",
+        "fr": "Art. 1 1 L'initiative populaire du 9 décembre 2004 «Pour une caisse maladie unique et sociale» est valable et sera soumise au vote du peuple et des cantons. 2 L'initiative a la teneur suivante:",
+        "it": "Art. 1 1 L'iniziativa popolare del 9 dicembre 2004 «Per una cassa malati unica e sociale» è valida ed è sottoposta al voto del Popolo e dei Cantoni. 2 L'iniziativa popolare ha il tenore seguente:",
+        "rm": "Il cussegl federal ed il parlament refusan l'iniziativa."
+      }
+    },
+    {
+      "idx": 14,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 44,
+      "row": {
+        "de": "I Die Bundesverfassung wird wie folgt geändert: Art. 117 Abs. 3 (neu) 3 Der Bund richtet eine Einheitskasse für die obligatorische Krankenpflegeversicherung ein. Im Verwaltungsrat und im Aufsichtsrat sind die Behörden, die Leistungserbringer und die Interessenvertretung der Versicherten mit jeweils gleich vielen Personen vertreten.",
+        "fr": "I La Constitution est modifiée comme suit: Art. 117, al. 3 (nouveau) 3 La Confédération institue une caisse unique pour l'assurance obligatoire des soins. Le conseil d'administration et le conseil de surveillance de cette caisse comprennent un nombre égal de représentants des pouvoirs publics, des fournisseurs de prestations et des organisations de défense des assurés.",
+        "it": "I La Costituzione federale è modificata come segue: Art. 117 cpv. 3 (nuovo) 3 La Confederazione istituisce una cassa unica per l'assicurazione obbligatoria delle cure medico-sanitarie. Il consiglio d'amministrazione e il consiglio di vigilanza della cassa comprendono un pari numero di rappresentanti dei poteri pubblici, dei fornitori di prestazioni e delle organizzazioni di difesa degli assicurati.",
+        "rm": "II"
+      }
+    },
+    {
+      "idx": 15,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 45,
+      "row": {
+        "de": "Das Gesetz regelt die Finanzierung der Kasse. Es legt die Prämien nach der wirtschaftlichen Leistungsfähigkeit der Versicherten fest.",
+        "fr": "La loi règle le financement de la caisse. Elle fixe les primes en fonction de la capacité économique des assurés.",
+        "it": "La legge disciplina il finanziamento della cassa. Stabilisce i premi in funzione della capacità economica degli assicurati.",
+        "rm": "Las disposiziuns transitoricas da la constituziun federala vegnan cumplettadas sco suonda:"
+      }
+    },
+    {
+      "idx": 16,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 46,
+      "row": {
+        "de": "1 SR 101 2 BBI 2003 3977, 2005 533 3 BBI 2006 735",
+        "fr": "1 RS 101 2 FF 2003 3541, 2005 489 3 FF 2006 725",
+        "it": "1 RS 101 2 FF 2003 3417, 2005 475 3 FF 2006 675",
+        "rm": "Art. 197 cifra 8 (nov)4"
+      }
+    },
+    {
+      "idx": 17,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 47,
+      "row": {
+        "de": "§ II Die Übergangsbestimmungen der Bundesverfassung werden wie folgt ergänzt: Art. 197 Ziff. 8 (neu)4 8. Übergangsbestimmung zu Art. 117 Abs. 3 (Obligatorische Krankenpflegeversicherung) Die Einheitskasse nimmt ihre Arbeit spätestens drei Jahre nach Annahme von Artikel 117 Absatz 3 auf. Sie übernimmt die Aktiven und Passiven der bestehenden Einrichtungen der obligatorischen Krankenpflegeversicherung. Art. 2 Die Bundesversammlung empfiehlt Volk und Ständen, die Initiative abzulehnen.",
+        "fr": "II Les dispositions transitoires de la Constitution sont modifiées comme suit: Art. 197, ch. 8 (nouveau)4 8. Disposition transitoire ad art. 117, al. 3 (Assurance obligatoire des soins) La caisse unique est opérationnelle au plus tard trois ans après l'acceptation de l'art. 117, al. 3. Elle reprend les actifs et passifs des institutions d'assurances existantes en ce qui concerne l'assurance obligatoire des soins. Art. 2 L'Assemblée fédérale recommande au peuple et aux cantons de rejeter l'initiative.",
+        "it": "II Le disposizioni transitorie della Costituzione federale sono modificate come segue: Art. 197 n. 8 (nuovo)4 8. Disposizione transitoria dell'articolo 117 capoverso 3 (Assicurazione obbligatoria delle cure medico-sanitarie) La cassa unica diventa operativa il più tardi tre anni dopo l'accettazione dell'articolo 117 capoverso 3. Riprende gli attivi e passivi degli istituti assicurativi esistenti per quanto concerne l'assicurazione obbligatoria delle cure medico-sanitarie. Art. 2 L'Assemblea federale raccomanda al Popolo e ai Cantoni di respingere l'iniziativa.",
+        "rm": "8. Disposiziun transitorica tar l'art. 117 al. 3 (Assicuranza obligatorica per la tgira da malsau ns)"
+      }
+    },
+    {
+      "idx": 18,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 48,
+      "row": {
+        "de": "4 Die Volksinitiative verlangte die Einführung der Bestimmung als Artikel 197 Ziffer 2 in die Bundesverfassung. Da Volk und Stände am 28. November 2004 den Bundesbeschluss vom 3. Oktober 2003 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA) und am 27. November 2005 die Eidgenössische Volksinitiative «für Lebensmittel aus gentechnikfreier Landwirtschaft» angenommen haben, sind die Ziffern 2–7 in Artikel 197 vergeben. Sie sollen durch die Eidgenössische Volksinitiative «Für eine soziale Einheitskrankenkasse» nicht ersetzt werden. Daher ist der Volksinitiative «Für eine soziale Einheitskrankenkasse» jetzt die Ziffer 8 in Artikel 197 der Bundesverfassung zuzuweisen.",
+        "fr": "4 La présente initiative demande que la disposition transitoire soit fixée à l'art. 197, ch. 2, de la Constitution (Cst.). Or le peuple et les cantons ayant accepté, en date du 28 novembre 2004, l'arrêté du 3 octobre 2003 concernant la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT) et, en date du 27 novembre 2005, l'initiative populaire fédérale «Pour des aliments produits sans manipulations génétiques», l'art. 197 Cst. contient désormais des dispositions aux ch. 2 à 7. L'initiative populaire «Pour une caisse maladie unique et sociale» ne voulant en rien remplacer ces dispositions, il y a lieu d'en fixer la disposition transitoire à l'art. 197, ch. 8, Cst.",
+        "it": "4 La presente iniziativa popolare chiedeva l'introduzione della disposizione nell'articolo 197 numero 2 della Costituzione federale. Dato che il Popolo e i Cantoni hanno accettato, il 28 novembre 2004, il decreto federale del 3 ottobre 2003 concernente la nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni (NPC) e, il 27 novembre 2005, l'iniziativa popolare federale «per alimenti prodotti senza manipolazioni genetiche», l'articolo 197 della Costituzione federale contiene già i numeri 2-7. L'iniziativa popolare federale «Per una cassa malati unica e sociale» non intende sostituire queste disposizioni. Pertanto, occorre attribuire a quest'ultima iniziativa l'articolo 197 numero 8 della Costituzione federale.",
+        "rm": "La cassa unitara cumenza cun sia lavur il pli tard onns suenter che l'artitgel 117 alinea 3 è vegnì acceptà. Ella surpiglia las activas e las passivas da las instituziuns existentas en il sectur da l'assicuranza obligatorica per la tgira da malsau ns."
+      }
+    },
+    {
+      "idx": 19,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 49,
+      "row": {
+        "de": "Die Argumente des Initiativkomitees «Schluss mit Schein-Konkurrenz und bürokratischen Schikanen»",
+        "fr": "Les arguments du comité d'initiative «Stop à la concurrence fictive et aux tracasseries administratives",
+        "it": "Argomenti del Comitato d'iniziativa",
+        "rm": "L'assamblea federala recumonda al pievel ed als chantuns da refusar l'iniziativa."
+      }
+    },
+    {
+      "idx": 20,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 50,
+      "row": {
+        "de": "Die Initiative «Für eine soziale Einheitskrankenkasse» garantiert eine gute medizinische Versorgung für alle. Im Gesundheitswesen streiten sich 87 Krankenkassen um die «guten Risiken» (junge Männer). Gleichzeitig machen sie älteren Menschen, chronisch Kranken und gesundheitlich anfälligen Personen mit bürokratischen Schikanen das Leben schwer. Die Kassen wollen die «schlechten Risiken» loswerden. Diese Risikoselektion ist eine riesige Geldverschleuderung auf Kosten der Versicherten (Werbung, Verwaltung).",
+        "fr": "L'initiative «Pour une caisse maladie unique et sociale » garantit à tous des soins médicaux de qualité. Dans le système de santé actuel, 87 caisses-maladie se battent pour les «bons risques » (jeunes hommes) tout en menant la vie dure, par des tracasseries administratives, aux aînés, aux malades chroniques et aux personnes de santé fragile. Les caisses veulent se débarrasser des «mauvais risques». Cette sélection des risques aboutit à un énorme gaspillage d'argent à la charge des assurés (publicité, administration).",
+        "it": "L'iniziativa «Per una cassa malati unica e sociale» garantisce a tutti cure mediche di qualità. Nell'attuale sistema sanitario, 87 casse malati si contendono i «buoni rischi» (giovani di sesso maschile) rendendo la vita dura con ostacoli amministrativi di ogni tipo alle persone più anziane, ai malati cronici e alle persone di salute cagionevole. Le casse vogliono sbarazzarsi dei «cattivi rischi». Questa selezione dei rischi provoca un enorme spreco di denaro a spese degli assicurati (pubblicità, amministrazione).",
+        "rm": "L'iniziativa «Per ina cassa da malsauns unitara e sociala» garantescha in bun provediment medicinal per tuts. En il sectur da la sanadad cumbattan 87 cassas da malsauns per las «bunas ristgas» (umens giuvens). A medem temp engrev- geschan ellas – tras schicanas birocraticas – la vita ad umans attempads, a per- sunas cronicamain malsaunas ed a glieud cun ina sanadad sensibla. Las cassas vulan vegnir libras da las «nauschas ristgas». Questa selecziun da las ristgas è in sfarlattim da daners enorm sin donn e cust da las persunas assicuradas (reclama, administraziun)."
+      }
+    },
+    {
+      "idx": 21,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 51,
+      "row": {
+        "de": "In der Grundversicherung müssen alle Kassen die gleichen Leistungen erbringen. Damit verkommt der Wettbewerb zwischen den Kassen zur Pseudo-Konkurrenz, die wir mit höheren Prämien bezahlen. Die Initiative macht Schluss mit diesem teuren, untauglichen Spiel. Statt Schein-Konkurrenz fordert sie für die Grundversicherung eine schlanke diskrete Verwaltung, wie wir sie von der AHV kennen. Die soziale Einheitskasse garantiert dafür, ohne alles auf den Kopf zu stellen. Sie soll zur AHV fürs Gesundheitswesen werden. Das bringt viele Vorteile:",
+        "fr": "Dans l'assurance de base, toutes les caisses doivent fournir les mêmes prestations. La concurrence entre les caisses devient ainsi une pseudo-concurrence, que nous payons par des primes plus élevées. L'initiative met fin à ce système cher et inapproprié. Tournant le dos à la concurrence fictive, elle encourage une administration simple, sans rien de superflu, dans l'assurance de base, comme c'est le cas dans l'AVS. La caisse unique et sociale garantirait un tel résultat sans tout chambouler. Elle deviendrait une sorte d'AVS du système de santé, ce qui présenterait de nombreux avantages: • des primes plus basses pour les bas et les moyens revenus (deux tiers de la population) grâce aux économies en termes de frais administratifs et de frais publicitaires et grâce à la dissolution des innombrables fonds de réserve de plusieurs milliards de francs; • des primes en fonction du revenu; pas de primes pour les enfants; • une prime par canton; • une séparation claire: la caisse unique pour l'assurance de base et des cais- ses-maladie privées pour les assurances complémentaires; • un meilleur contrôle des coûts et des décomptes; • une administration simple, conviviale pour les assurés, comme dans l'AVS; • pas de médecine à deux vitesses, des prestations de qualité ainsi que le libre choix du médecin et de l'hôpital; davantage de moyens pour la prévention et les médecines complémentaires; • codécision des assurés puisque leurs représentants siégeront dans les orga- nes dirigeants de la caisse unique.",
+        "it": "Nell'assicurazione di base, tutte le casse devono fornire le stesse prestazioni. Fra le casse vige così una pseudo concorrenza che paghiamo con premi più elevati. L'iniziativa mette fine a questo sistema costoso e inappropriato e, facendo a meno della concorrenza fittizia, favorisce nell'assicurazione di base un'amministrazione semplice e senza fronzoli, simile a quella dell'AVS. La cassa unica e sociale garantirebbe un tale risultato senza sconvolgere tutto. Diventerebbe una specie di AVS del sistema sanitario, che offrirebbe numerosi vantaggi: • premi più bassi per i redditi bassi e medi (due terzi della popolazione) grazie ai risparmi sui costi amministrativi e pubblicitari e grazie all'utilizzazione dei molti miliardi di franchi dei fondi di riserva; • premi in funzione del reddito; soppressione dei premi per bambini; • un premio per Cantone; • una chiara separazione: la cassa unica per l'assicurazione di base e casse malati private per le assicurazioni complementari; • un miglior controllo dei costi e dei conteggi; • un'amministrazione semplice, comprensibile per gli assicurati, come quella dell'AVS; • nessuna medicina a due velocità, prestazioni di qualità, libera scelta del medico e dell'ospedale; maggiori mezzi per la prevenzione e le medicine complementari; • codecisione degli assicurati, che avranno loro rappresentanti negli organi dirigenti della cassa unica.",
+        "rm": "En l'assicuranza fundamentala ston tut las cassas furnir las medemas presta- ziuns. Uschia daventa la concurrenza tranter las cassas ina pseudoconcurrenza che nus pajain cun premias pli autas. L'iniziativa metta ina fin a quest gieu char e nunduvrabel. Empè da la pseudoconcurrenza pretenda ella in'administraziun concisa e discreta per l'assicuranza fundamentala, sco quai che nus l'enconu- schain da la AVS. La cassa unitara e sociala garantescha quai, senza metter tut sin il chau. Ella duai daventar la AVS per il sectur da la sanadad. Quai porta blers avantatgs: • Premias pli bassas per entradas mesaunas e pitschnas (dus terzs da la popu- laziun) grazia a respargns tar ils custs d'administraziun e da reclama e grazia a la dissoluziun da las nundumbraivlas cassas che cuntegnan reserves da milliardas. • Premias tenor las entradas. Naginas premias per uffants. • Ina premia per chantun. • Separaziun clera: la cassa unitara per l'assicuranza fundamentala; las cassas da malsauns privatas per las assicuranzas supplementaras. • Meglra controlla dals custs e dals rendaquints. • Administraziun simpla ch'è orientada a la clientella – sco tar la AVS. • Nagina medischina da duas classas, bunas prestaziuns e libra tscherna da la media u dal medi e da l'ospital. Dapli meds finanzials per la prevenziun e per la medischina cumplementara. • Cun far part da la direcziun da la cassa unitara pon las persunas assicuradas sa participar a las decisiuns."
+      }
+    },
+    {
+      "idx": 22,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 52,
+      "row": {
+        "de": "• Tiefere Prämien für mittlere und untere Einkommen (zwei Drittel der Bevölkerung) dank Einsparungen bei Verwaltungs- und Werbekosten und Auflösung der unzähligen milliardenschweren Reservekässeli. • Prämien nach Einkommen. Keine Prämien für Kinder. • Eine Prämie pro Kanton. • Klare Trennung: Die Einheitskasse für die Grundversicherung, private Krankenkassen für die Zusatzversicherungen. • Bessere Kontrolle der Kosten und der Abrechnungen. • Kundennahe einfache Administration wie bei der AHV. • Keine Zweiklassenmedizin, gute Leistungen sowie freie Arzt- und Spitalwahl. Mehr Mittel für Prävention und Komplementärmedizin. • Mitbestimmung der Versicherten durch Einsitz in der Leitung der Einheitskasse.",
+        "fr": "L'initiative nous permettra de maîtriser les coûts, de créer la transparence et d'éviter d'opposer les personnes jeunes aux personnes âgées et les bien-portants aux malades. Vous trouverez de plus amples informations à l'adresse www.caisse-unique.ch",
+        "it": "L'iniziativa ci permetterà di controllare i costi, di fare trasparenza e di evitare di contrapporre i giovani agli anziani, i sani ai malati. Per maggiori informazioni visitate il sito: www.caisse-unique.ch",
+        "rm": "Tras l'iniziativa dumagnain nus ils custs sut controlla, stgaffin transparenza ed impedin ch'ils vegls cumbattan ils giuvens e ch'ils sauns s'opponan als mal- sauns. Ulteriuras infurmaziuns sut www.einheitskasse-ja.ch»"
+      }
+    },
+    {
+      "idx": 23,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 53,
+      "row": {
+        "de": "Mit der Initiative kriegen wir die Kosten in den Griff, schaffen Transparenz und verhindern das Ausspielen von Alt gegen Jung und Krank gegen Gesund. Weitere Informationen unter www.einheitskasse-ja.ch »",
+        "fr": "Les arguments du Conseil fédéral",
+        "it": "Gli argomenti del Consiglio federale",
+        "rm": "Ils arguments dal cussegl federal"
+      }
+    },
+    {
+      "idx": 24,
+      "semantic_score": 100,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "German and Rhaeto-Romanic versions are empty.",
+      "global_idx": 54,
+      "row": {
+        "de": "",
+        "fr": "",
+        "it": "Gli argomenti del Consiglio federale",
+        "rm": ""
+      }
+    },
+    {
+      "idx": 25,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 55,
+      "row": {
+        "de": "Die Argumente des Bundesrates Die Initiative «Für eine soziale Einheitskrankenkasse» würde zu einem grundlegenden Systemwechsel in der Grundver- sicherung führen. Mit einer einzigen Krankenkasse verliert die Bevölkerung die Möglichkeit, nach den eigenen Bedürfnis- sen den Versicherer auszuwählen. Die Einführung von Prä- mien nach dem Einkommen und Vermögen der Versicherten kommt einer zusätzlichen Steuer gleich. Die Versprechungen der Initianten von tieferen Prämien für eine Mehrheit der Versicherten sind unrealistisch. Eine Annahme der Initiative würde zudem die laufenden Bestrebungen von Parlament und Bundesrat für kostendämpfende Massnahmen blockieren.",
+        "fr": "L'acceptation de l'initiative «Pour une caisse maladie unique et sociale» provoquerait un bouleversement dans l'assu- rance de base. Avec une seule caisse-maladie, la population perdrait la possibilité de choisir son assureur en fonction de ses besoins. De plus, la fixation des primes en fonction du revenu et de la fortune des assurés reviendrait à créer un impôt supplémentaire. Les promesses des auteurs de l'initia- tive selon lesquelles la majorité des assurés paieraient des primes plus basses sont irréalistes. Enfin, l'acceptation de l'initiative condamnerait les efforts actuels du Parlement et du Conseil fédéral visant à prendre des mesures de maîtrise des coûts.",
+        "it": "Qualora fosse accettata, l'iniziativa «Per una cassa malati unica e sociale» comporterebbe un cambiamento fondamentale nel sistema dell'assicurazione di base. Con una cassa malati unica la popolazione non avrebbe più la possibilità di scegliere l'assicuratore secondo le proprie esigenze. I premi in base al reddito e alla sostanza degli assicurati corrisponderebbero a un'imposta supplementare. Le promesse degli autori dell'iniziativa secondo cui i premi diminuirebbero per la maggioranza degli assicurati non sono realistiche. L'accettazione dell'iniziativa bloccherebbe inoltre gli attuali sforzi del Parlamento e del Consiglio federale per varare misure atte a ridurre i costi.",
+        "rm": "L'iniziativa «Per ina cassa da malsauns unitara e sociala» chaschunass ina midada fundamentala dal sistem da l'assicuranza fundamentala. Cun ina unica cassa da malsauns perda la populaziun la pussaivladad da tscherner l'assicuranza te- nor ils agens basegns. L'introducziun da premias che vegnan graduadas tenor las entradas e tenor la facultad è il medem sco ina taglia supplementara. Las empermischuns da las ini- ziantas e dals iniziants che las premias sajan suenter pli bas- sas per la gronda part da las persunas assicuradas n'èn betg realisticas. Sche l'iniziativa vegniss acceptada, vegnissan ultra da quai bloccadas las stentas currentas dal parlament e dal cussegl federal da chattar mesiras per sbassar ils custs."
+      }
+    },
+    {
+      "idx": 26,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 56,
+      "row": {
+        "de": "Der Bundesrat lehnt die Initiative insbesondere aus folgenden Gründen ab:",
+        "fr": "Le Conseil fédéral rejette l'initiative, notamment pour les raisons suivantes:",
+        "it": "Il Consiglio federale respinge l'iniziativa soprattutto per i motivi seguenti:",
+        "rm": "Il cussegl federal refusa l'iniziativa cunzunt per ils suandants motivs:"
+      }
+    },
+    {
+      "idx": 27,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 57,
+      "row": {
+        "de": "Der Bundesrat ist der Auffassung, dass ein System mit meh- reren Versicherern in der Grundversicherung klare Vorzüge gegenüber dem Monopol einer einzigen Krankenkasse auf- weist. Die Versicherten können ihre Krankenkasse frei wäh- len. Wenn sie mit der Prämie oder den Dienstleistungen der Kasse nicht zufrieden sind, können sie zu einer anderen Kran- kenkasse wechseln. Damit enthält das System wesentliche Wettbewerbselemente, die auch Anreize zu kostendämpfen- den und prämienwirksamen Massnahmen geben. Dieser Wettbewerb würde bei einer Einheitskasse wegfallen und die Qualität der Leistungen würde sinken. Mit der von der Initiative vorgeschlagenen Finanzierung wird es schwieriger, Versicherungsformen mit Prämienrabatten und Sparanreizen anzubieten.",
+        "fr": "Le Conseil fédéral pense qu'un système qui englobe plu- sieurs assureurs pratiquant l'assurance de base présente de nets avantages par rapport à un système où une seule caisse- maladie détiendrait un monopole. Les assurés peuvent choisir librement leur caisse-maladie. S'ils ne sont pas satisfaits du montant de leur prime ou des prestations fournies, ils peu- vent changer de caisse. Le système comporte donc d'impor- tants éléments de concurrence qui incitent à prendre des mesures destinées à maîtriser les coûts et à influer sur le niveau des primes. Cette concurrence disparaîtrait si une caisse unique voyait le jour, et la qualité des prestations dimi- nuerait. Avec le financement prévu par l'initiative, il serait plus difficile de proposer des formes d'assurance assorties de rabais sur les primes et d'incitations aux économies.",
+        "it": "Il Consiglio federale ritiene che un sistema con vari assicura- tori nell'assicurazione di base presenti chiari vantaggi rispetto al monopolio di una cassa malati unica. Gli assicurati pos- sono scegliere liberamente la cassa. Se non sono soddisfatti del premio o delle prestazioni di una cassa, possono passare a un'altra. In tal modo il sistema attuale implica elementi di concorrenza importanti che incentivano le misure per ridurre i costi con incidenza sui premi. Se fosse istituita una cassa unica questa concorrenza verrebbe meno e la qualità delle prestazioni diminuirebbe. Il finanziamento proposto dall'ini- ziativa renderebbe più difficile l'offerta di forme di assicura- zione con riduzioni dei premi e incentivi al risparmio.",
+        "rm": "Il cussegl federal è da l'avis ch'in sistem cun pliras assicuran- zas che porschan l'assicuranza fundamentala haja clers avan- tatgs envers in monopol d'ina unica cassa da malsauns. Las persunas assicuradas pon tscherner libramain la cassa da malsauns. Sch'ellas n'èn betg cuntentas cun las premias u cun ils servetschs che vegnan prestads da la cassa, pon ellas midar tar in'autra cassa. Uschia cuntegna quest sistem elements centrals da concurrenza che dattan er stimuls da tschertgar mesiras che sbassan ils custs e che han in effect sin las premias. Questa concurrenza crudass tar ina cassa uni- tara, e la qualitad da las prestaziuns sa reduciss. Cun la finan- ziaziun che vegn proponida da l'iniziativa daventi pli difficil da porscher furmas d'assicuranza cun rabats da premias e cun stimuls da spargnar."
+      }
+    },
+    {
+      "idx": 28,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 58,
+      "row": {
+        "de": "Das heutige solidarische System mit Prämien, die unab- hängig vom Einkommen und Vermögen der Versicherten sind (Kopfprämien), hat sich bewährt. Mit der Prämienverbilligung wird ein sozialer Ausgleich geschaffen. Der Wechsel zu Prä- mien, die nach dem Einkommen und Vermögen der Versicher- ten abgestuft sind, kommt einer neuen Steuer gleich. Diese Kein grundlegender Kurswechsel nötig",
+        "fr": "Le système solidaire actuel a fait ses preuves, avec des primes qui ne dépendent ni du revenu ni de la fortune des assurés (primes par tête). Il comporte une dimension sociale avec ses réductions de primes. Le passage à des primes échelonnées en fonction du revenu et de la fortune des assu-",
+        "it": "Il sistema attuale basato sulla solidarietà, con premi indipen- denti dal reddito e dalla sostanza degli assicurati (premi pro capite), si è rivelato valido. La riduzione dei premi garantisce una compensazione sociale. Il passaggio a un sistema di premi proporzionali al reddito e alla sostanza del singolo assicurato equivale all'introduzione di una nuova imposta. Questa misura graverebbe presumibilmente soprattutto sul",
+        "rm": "Il sistem solidaric actual cun premias ch'èn independentas da las entradas e da la facultad da la persuna assicurada (pre- mias per persuna) è sa cumprovà. Cun reducir las premias vegn stgaffida ina gulivaziun sociala. La midada a premias ch'èn graduadas tenor las entradas e tenor la facultad da las"
+      }
+    },
+    {
+      "idx": 29,
+      "semantic_score": 100,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "German and Italian versions are empty.",
+      "global_idx": 59,
+      "row": {
+        "de": "",
+        "fr": "Un changement de cap radical est inutile",
+        "it": "",
+        "rm": ""
+      }
+    },
+    {
+      "idx": 0,
+      "semantic_score": 0,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "Only Italian text present.",
+      "global_idx": 60,
+      "row": {
+        "de": "",
+        "fr": "",
+        "it": "Non è necessario un cambiamento radicale",
+        "rm": ""
+      }
+    },
+    {
+      "idx": 1,
+      "semantic_score": 0,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "Only Romansh text present.",
+      "global_idx": 61,
+      "row": {
+        "de": "",
+        "fr": "",
+        "it": "",
+        "rm": "Ina midada fundamentala dal sistem n'è betg necessaria"
+      }
+    },
+    {
+      "idx": 2,
+      "semantic_score": 90,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 62,
+      "row": {
+        "de": "Mittelstand als Verlierer",
+        "fr": "La classe moyenne serait la grande perdante",
+        "it": "Il ceto medio sarebbe penalizzato",
+        "rm": "La classa mesauna perda"
+      }
+    },
+    {
+      "idx": 3,
+      "semantic_score": 95,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 63,
+      "row": {
+        "de": "trifft voraussichtlich den Mittelstand besonders hart. Wer und in welchem Ausmass mit der neuen Prämienberechnung zu- sätzlich belastet wird, ist offen. Wer heute durch die Prämien- verbilligung vollumfänglich entlastet wird, kann mit einer neuen Prämienberechnung nicht besser gestellt werden.",
+        "fr": "rés reviendrait à créer un nouvel impôt, qui frapperait proba- blement très lourdement la classe moyenne. Nul ne peut dire qui paierait davantage, et combien, avec le nouveau système de calcul des primes. Les personnes qui, aujourd'hui, ne paient pas de primes en raison des réductions dont elles bénéficient ne seraient pas mieux loties avec un nouveau système de calcul des primes.",
+        "it": "ceto medio. Non è chiaro chi sarebbe ulteriormente gravato e in che misura dal nuovo sistema di calcolo dei premi. Chi già oggi beneficia di una riduzione integrale dei premi non potrà trarre vantaggi da un nuovo sistema di calcolo dei premi.",
+        "rm": "persunas assicuradas è il medem sco ina taglia supplemen- tara. Quella tutga previsiblamain la classa mesauna en moda spezialmain dira. Tgi che vegn engrevgià supplementarmain tras la nova calculaziun da las premias ed en tge dimensiun, n'è anc betg cler. Tgi che vegn distgargià cumplainamain grazia a la reducziun da las premias na po betg profitar dapli tras la nova calculaziun da las premias."
+      }
+    },
+    {
+      "idx": 4,
+      "semantic_score": 95,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 64,
+      "row": {
+        "de": "Eine Einheitskrankenkasse mit über 7,5 Millionen Versicherten hätte einen überdimensionierten Verwaltungsapparat. Die vorgeschlagene dreigliedrige Leitung dürfte dringende Ent- scheidungen verzögern, wenn nicht gar blockieren. Ein Drittel der Leitung würde aus den Leistungserbringern bestehen (u.a. Spitäler, Ärzte, Apothekerinnen). Bei Tarifverhandlungen würden diese somit über ihr eigenes Einkommen mitbestim- men.",
+        "fr": "Une caisse unique, avec plus de 7,5 millions d'assurés, néces- siterait un appareil administratif surdimensionné. La direc- tion tripartite qui est prévue pourrait retarder la prise des décisions urgentes, voire la paralyser. Un tiers des membres de la direction seraient des représentants des fournisseurs de prestations (hôpitaux, médecins, pharmaciens, etc.), qui participeraient ainsi à la fixation de leurs propres revenus dans le cadre des négociations tarifaires.",
+        "it": "La cassa malati unica con oltre 7,5 milioni di assicurati sarebbe dotata di un apparato amministrativo sovradimensio- nato. La direzione tripartita proposta dall'iniziativa rischio- rebbe di rallentare il processo decisionale se non addirittura di bloccarlo. Un terzo della direzione sarebbe composto da rappresentanti dei fornitori di prestazioni (ad es. ospedali, medici, farmacisti). In caso di trattative tariffali, questi sareb- bero chiamati a decidere del proprio reddito.",
+        "rm": "Ina cassa da malsauns unitara cun passa 7,5 milliuns persu- nas assicuradas avess in apparat administrativ surdimen- siunà. La direcziun tripartita sco ch'ella vegn proponida da- stgass retardar u schizunt bloccar decisiuns urgentas. In terz da la direcziun sa cumpona da las organisaziuns che furneschan las prestaziuns (tranter auter dals ospitals, da las medias e dals medis, da las apotecras e dals apotechers). En cas da tractativas davart las tariffas vegnissan ellas pia a cundecider davart lur atgnas entradas."
+      }
+    },
+    {
+      "idx": 5,
+      "semantic_score": 95,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 65,
+      "row": {
+        "de": "Mit der Neuorganisation müssten die Krankenkassen ihr gan- zes Vermögen der Grundversicherung auf die neue Einheits- kasse übertragen. Die Initiative garantiert nicht, dass dieses Vermögen während der Übergangszeit erhalten bleibt. Falls Vermögen noch vorhanden wäre, müssten die Kassen unter Umständen entschädigt werden. Langwierige rechtliche Aus- einandersetzungen und hohe Aufbaukosten wären die Folge.",
+        "fr": "La réorganisation obligerait les caisses-maladie à transférer à la caisse unique tous leurs avoirs relevant de l'assurance de base. L'initiative ne garantit pas que ces avoirs resteront intacts pendant la période transitoire. Selon les circonstan- ces, les caisses disposant encore d'avoirs devraient être dédommagées. Il faudrait dès lors s'attendre à de longs litiges juridiques et à des frais de mise en œuvre élevés.",
+        "it": "Con la riorganizzazione del settore, le casse malati attuali dovrebbero trasferire il loro capitale relativo all'assicurazione di base alla nuova cassa unica. L'iniziativa non garantisce che questo capitale rimanga intatto durante la fase di transizione. Le casse dovrebbero eventualmente ottenere un risarcimento per il capitale trasferito. Ne deriverebbero complesse contro- versie giuridiche ed elevati costi di implementazione.",
+        "rm": "La nova organisaziun pretendess che l'entira facultad da l'assicuranza fundamentala da las cassas da malsauns stuess vegnir transferida a la nova cassa unitara. L'iniziativa na garantescha betg che questa facultad resta mantegnida durant la fasa transitorica. Sch'i fiss anc avant maun facultà, stuessan las cassas eventualmain vegnir indemnisadas. Trac- tativas giuridicas stentusas e gronds custs per crear la cassa unitara fissan la consequenza."
+      }
+    },
+    {
+      "idx": 6,
+      "semantic_score": 95,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 66,
+      "row": {
+        "de": "Das Hauptproblem der Grundversicherung sind die steigen- den Kosten. Die Initiative ändert nur deren Struktur und Finanzierung, eliminiert aber die Sparanreize. Damit hilft sie nicht mit, den Anstieg der Kosten und Prämien besser in den Griff zu bekommen. Ohne Wettbewerb und Sparanreize drohen im Gegenteil zusätzliche Kostensteigerungen.",
+        "fr": "L'augmentation des coûts est le problème majeur auquel est confrontée l'assurance de base. Or, l'initiative ne touche qu'à la structure et au financement de l'assurance de base, tout en supprimant les incitations aux économies. Dès lors, elle ne contribue pas à une meilleure maîtrise de la hausse des coûts et des primes. Sans concurrence et sans incitations aux économies, ces coûts risquent même de continuer d'augmenter.",
+        "it": "Il problema principale nell'assicurazione di base sono i costi in continua crescita. L'iniziativa si limita a modificare la strut- tura di quest'assicurazione e il finanziamento, eliminando nel contempo gli incentivi al risparmio. In tal modo non contri- buisce a risolvere il problema dell'aumento dei costi e dei premi. Senza concorrenza e senza incentivi al risparmio si rischia al contrario un ulteriore aumento dei costi.",
+        "rm": "Il problem principal da l'assicuranza fundamentala èn ils custs creschents. L'iniziativa mida mo sia structura e sia finanziaziun, eliminescha dentant ils stimuls da spargnar. Uschia na gida ella betg a survegnir meglier sut controlla il creschament dals custs e da las premias. Il cuntrari – senza concurrenza e senza stimuls da spargnar smanatschi ch'ils custs creschan supplementarmain."
+      }
+    },
+    {
+      "idx": 7,
+      "semantic_score": 95,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 67,
+      "row": {
+        "de": "Aus all diesen Gründen empfehlen Bundesrat und Parlament, die Volksinitiative «Für eine soziale Einheitskrankenkasse» abzulehnen. Schwerfällige Einheitskasse Probleme bei der Umsetzung Keine Lösungen für Kostenproblem 13",
+        "fr": "Pour toutes ces raisons, le Conseil fédéral et le Parlement vous recommandent de rejeter l'initiative populaire «Pour une caisse maladie unique et sociale». L'inertie d'une caisse unique Des problèmes lors de la mise en œuvre Pas de solution pour résoudre le problème des coûts 13",
+        "it": "Per tutte queste ragioni Consiglio federale e Parlamento raccomandano di respingere l'iniziativa popolare «Per una cassa malati unica e sociale». La cassa unica: un apparato pesante Problemi di attuazione Il problema dei costi resta irrisolto",
+        "rm": "Per tut quests motivs recumondan il cussegl federal ed il parlament da refusar l'iniziativa dal pievel «Per ina cassa da malsauns unitara e sociala». Cassa unitara immovibla Problems tar la realisaziun Nagina soluziun per la problematica dals custs"
+      }
+    },
+    {
+      "idx": 8,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 68,
+      "row": {
+        "de": "Eidgenössische Volksinitiative «Für eine soziale Einheitskrankenkasse»",
+        "fr": "Initiative populaire fédérale «Pour une caisse maladie unique et sociale»",
+        "it": "«Per una cassa malati unica e sociale»",
+        "rm": "«Per ina cassa da malsauns unitara e sociala»"
+      }
+    },
+    {
+      "idx": 9,
+      "semantic_score": 0,
+      "completeness_ok": false,
+      "ocr_residue": false,
+      "issue": "Inconsistent content across languages.",
+      "global_idx": 69,
+      "row": {
+        "de": "Die Abstimmungsfrage lautet:",
+        "fr": "PP Envoi postal",
+        "it": "Iniziativa popolare federale",
+        "rm": ""
+      }
+    },
+    {
+      "idx": 10,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 70,
+      "row": {
+        "de": "PP Postaufgabe Retouren an die Einwohnerkontrolle der Gemeinde",
+        "fr": "Envois en retour au contrôle des habitants de la commune",
+        "it": "Invii non recapitabili: rimandare al controllo degli abitanti del comune",
+        "rm": "PP Spediziun postala Trametter enavos a la controlla d'abitants da la vischnanca"
+      }
+    },
+    {
+      "idx": 11,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 71,
+      "row": {
+        "de": "Empfehlung an die Stimmberechtigten",
+        "fr": "Recommandation aux électrices et aux électeurs",
+        "it": "Raccomandazioni di voto",
+        "rm": "Recumandaziun a las votantas ed als votants"
+      }
+    },
+    {
+      "idx": 12,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 72,
+      "row": {
+        "de": "Bundesrat und Parlament empfehlen den Stimmberechtigten, am 11. März 2007 wie folgt zu stimmen:",
+        "fr": "Le Conseil fédéral et le Parlement vous recommandent de voter, le 11 mars 2007:",
+        "it": "Consiglio federale e Parlamento vi raccomandano di votare come segue l'11 marzo 2007:",
+        "rm": "Il cussegl federal ed il parlament recumondan a las votantas ed als votants da votar ils 11 da mars 2007 sco suonda:"
+      }
+    },
+    {
+      "idx": 13,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 73,
+      "row": {
+        "de": "■ Nein zur Volksinitiative «Für eine soziale Einheitskrankenkasse»",
+        "fr": "■ Non à l'initiative populaire « Pour une caisse maladie unique et sociale »",
+        "it": "■ No all'iniziativa popolare «Per una cassa malati unica e sociale»",
+        "rm": "■ Na a l'iniziativa dal pievel «Per ina cassa da malsauns unitara e sociala»"
+      }
+    },
+    {
+      "idx": 14,
+      "semantic_score": 100,
+      "completeness_ok": true,
+      "ocr_residue": false,
+      "issue": "",
+      "global_idx": 74,
+      "row": {
+        "de": "868001001 Herausgegeben von der Bundeskanzlei www.admin.ch",
+        "fr": "868001001 Publié par la Chancellerie fédérale www.admin.ch",
+        "it": "868001001 Edito dalla Cancelleria federale www.admin.ch",
+        "rm": "868001001 Edì da la chanzlia federala www.admin.ch"
+      }
+    }
+  ]
+}

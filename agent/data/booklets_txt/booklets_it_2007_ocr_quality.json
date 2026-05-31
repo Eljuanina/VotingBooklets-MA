@@ -1,0 +1,19 @@
+{
+  "character_error_rate": 0.02,
+  "garbling": "none",
+  "language_legibility": "good",
+  "missing_content": "ok",
+  "structural_integrity": "ok",
+  "page_order": "ok",
+  "overall_score": 95,
+  "needs_redo": false,
+  "recommended_engine": "tesseract",
+  "issues": [
+    "minor OCR errors in page numbers and timestamps"
+  ],
+  "txt_path": "data/booklets_txt/booklets_it_2007.txt",
+  "pdf_path": "data/booklets/it_2007.pdf",
+  "total_lines": 506,
+  "sampled_lines": 78,
+  "image_verified": true
+}

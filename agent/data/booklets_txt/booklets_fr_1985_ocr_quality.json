@@ -1,0 +1,20 @@
+{
+  "character_error_rate": 0.03,
+  "garbling": "none",
+  "language_legibility": "good",
+  "missing_content": "ok",
+  "structural_integrity": "ok",
+  "page_order": "ok",
+  "overall_score": 95,
+  "needs_redo": false,
+  "recommended_engine": "tesseract",
+  "issues": [
+    "minor OCR errors like '1®F' instead of '1er'",
+    "minor OCR errors like 'doivent' instead of 'doivent'"
+  ],
+  "txt_path": "data/booklets_txt/booklets_fr_1985.txt",
+  "pdf_path": "data/booklets/fr_1985.pdf",
+  "total_lines": 295,
+  "sampled_lines": 78,
+  "image_verified": true
+}

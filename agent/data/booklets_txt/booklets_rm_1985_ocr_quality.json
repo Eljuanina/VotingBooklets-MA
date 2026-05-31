@@ -1,0 +1,22 @@
+{
+  "character_error_rate": 0.05,
+  "garbling": "minor",
+  "language_legibility": "degraded",
+  "missing_content": "ok",
+  "structural_integrity": "broken",
+  "page_order": "ok",
+  "overall_score": 75,
+  "needs_redo": false,
+  "recommended_engine": "tesseract",
+  "issues": [
+    "minor character errors",
+    "some words are misspelled or garbled",
+    "structural integrity is broken due to incorrect paragraph breaks",
+    "page order is ok as it's a single page"
+  ],
+  "txt_path": "data/booklets_txt/booklets_rm_1985.txt",
+  "pdf_path": "data/booklets/rm_1985.pdf",
+  "total_lines": 283,
+  "sampled_lines": 78,
+  "image_verified": true
+}
