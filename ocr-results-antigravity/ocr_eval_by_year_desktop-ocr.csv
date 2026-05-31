@@ -1,0 +1,4 @@
+year,n_files,mean_wer_pct,min_wer_pct,max_wer_pct,mean_cer_pct,min_cer_pct,max_cer_pct,mean_digits_acc,mean_letters_acc,mean_spaces_acc,mean_other_acc
+7,4,32.34,15.76,53.89,25.45,6.9,47.2,93.24,79.02,75.93,59.82
+77,3,58.68,45.05,73.87,39.69,21.66,53.32,93.39,82.63,76.13,57.81
+85,4,50.24,20.83,66.21,39.88,8.02,54.67,85.17,70.25,69.58,45.95
