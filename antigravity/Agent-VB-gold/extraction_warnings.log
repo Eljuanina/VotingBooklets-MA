@@ -1,0 +1,3 @@
+[1985] WARNING: Romansh (rm) text contained a 4-line preamble not present in de, fr, it. The preamble was omitted from alignment.
+[2007] WARNING: Paragraph alignment for vote 2007_01 required matching some German paragraphs (e.g. Roman numerals 'I', website links) to 'null' in fr, it, and rm due to missing corresponding content in those translations.
+[1977] WARNING: Paragraph alignment required matching some German paragraphs to 'null' in fr and it due to structural differences or missing content.

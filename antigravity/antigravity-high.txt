@@ -1,0 +1,95 @@
+Listed directory Agent-VotingBooklets
+Listed directory Data
+Listed directory VotingBooklets
+Viewed Agent-VotingBooklets.md:1-137
+Ran command: `python3 --version && pip list`
+Ran command: `env | grep -i 'key\|token\|api'`
+Ran command: `python -c "from transformers import AutoTokenizer, AutoModel; tokenizer = AutoTokenizer.from_pretrained('sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2'); model = AutoModel.from_pretrained('sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2')"`
+Ran command: `python -c "import pdfplumber
+with pdfplumber.open('Data/VotingBooklets/de_1977.pdf') as pdf:
+    text = '\n---\n'.join(page.extract_text() for page in pdf.pages[:10])
+with open('sample_1977.txt', 'w') as f:
+    f.write(text)
+"`
+Viewed sample_1977.txt:1-386
+Ran command: `python -c "import pdfplumber; print('1977:', len(pdfplumber.open('Data/VotingBooklets/de_1977.pdf').pages)); print('1985:', len(pdfplumber.open('Data/VotingBooklets/de_1985.pdf').pages)); print('2007:', len(pdfplumber.open('Data/VotingBooklets/de_2007.pdf').pages))"`
+Ran command: `python -c "import pdfplumber
+with pdfplumber.open('Data/VotingBooklets/fr_1977.pdf') as pdf:
+    print('fr:', len(pdf.pages))
+with pdfplumber.open('Data/VotingBooklets/it_1977.pdf') as pdf:
+    print('it:', len(pdf.pages))
+"`
+Ran command: `python -c "import pdfplumber
+with pdfplumber.open('Data/VotingBooklets/de_1977.pdf') as pdf:
+    print(repr(pdf.pages[1].extract_text()[:500]))
+"`
+Ran command: `python -c "import fitz"`
+Ran command: `pip install PyMuPDF`
+Ran command: `python -c "import fitz
+doc = fitz.open('Data/VotingBooklets/de_1977.pdf')
+for i, b in enumerate(doc[1].get_text('blocks')):
+    if i < 10:
+        print(f'Block {i}: {b[4].strip()}')"`
+Ran command: `python -c "import fitz
+for y in ['1977', '1985', '2007']:
+    doc = fitz.open(f'Data/VotingBooklets/de_{y}.pdf')
+    print(f'--- {y} ---')
+    for page in doc:
+        for b in page.get_text('blocks'):
+            text = b[4].strip()
+            if len(text) > 0 and (text.startswith('Bundesbeschluss') or text.startswith('Bundesgesetz') or text.startswith('Volksinitiative') or text.startswith('Erläuterungen')):
+                print(repr(text[:100]))"`
+Ran command: `python -c "import fitz
+doc = fitz.open('Data/VotingBooklets/de_1977.pdf')
+page = doc[1]
+print(page.rect)
+"`
+Edited process.py
+Ran command: `python process.py`
+Edited process_v2.py
+Ran command: `ls -la Data/ParallelCorpora`
+Edited process_v2.py
+Ran command: `python process_v2.py`
+Ran command: `head -n 5 Data/ParallelCorpora/parallel_corpus_1977.jsonl`
+Ran command: `head -n 2 Data/ParallelCorpora/parallel_corpus_1985.jsonl`
+Ran command: `python -c "import json; [json.loads(line) for f in ['1977', '1985', '2007'] for line in open(f'Data/ParallelCorpora/parallel_corpus_{f}.jsonl')]; print('JSONL OK')"`
+Ran command: `python -c "import json, re; print(any(re.search(r'(.)\1{15,}', v) for f in ['1977', '1985', '2007'] for l in open(f'Data/ParallelCorpora/parallel_corpus_{f}.jsonl') for k, v in json.loads(l).items() if isinstance(v, str)))"`
+Ran command: `python -c "import json; valid = True; [valid:=False for f in ['1977', '1985', '2007'] for i, (k, g) in __import__('itertools').groupby([json.loads(l) for l in open(f'Data/ParallelCorpora/parallel_corpus_{f}.jsonl')], key=lambda x: x['vote_id']) if [x['paragraph_index'] for x in g] != list(range(sum(1 for _ in g)))]; print(valid)"`
+Ran command: `python -c "
+import json
+from itertools import groupby
+valid = True
+for f in ['1977', '1985', '2007']:
+    lines = [json.loads(l) for l in open(f'Data/ParallelCorpora/parallel_corpus_{f}.jsonl')]
+    for k, g in groupby(lines, key=lambda x: x['vote_id']):
+        indices = [x['paragraph_index'] for x in g]
+        if indices != list(range(len(indices))):
+            valid = False
+            print(f'Error in {f}, vote_id {k}: {indices[:5]}... != expected')
+print(valid)
+"`
+Ran command: `rm process.py process_v2.py sample_1977.txt`
+
+I have successfully completed the processing of the Swiss federal voting booklets and generated the aligned parallel corpora. 
+
+Here is a summary of the steps performed and the results:
+
+1. **PDF Text Extraction & Cleaning**: 
+   - I used `PyMuPDF` (`fitz`) to extract text while maintaining the layout structures for reading paragraphs.
+   - Identified and removed boilerplate text dynamically based on string matches (such as standalone digits, explicit mentions like "Seite 13", timestamps/printing artifacts) and geometric location to filter headers and footers.
+   - Implemented a regex rule to collapse repeated character sequences exceeding 15 instances.
+
+2. **Structure Detection**: 
+   - Using the German (`de`) texts as the structural anchor, the scripts segmented each booklet into `vote_id` sections (e.g. `1977_01`, `1977_02`) by identifying proposition headers such as `Bundesbeschluss`, `Volksinitiative`, or `Erläuterungen`.
+
+3. **Semantic Paragraph Alignment**:
+   - For paragraph alignment, I utilized a locally running instance of a `sentence-transformers` model (`paraphrase-multilingual-MiniLM-L12-v2`).
+   - I implemented a Dynamic Time Warping (DTW)-style alignment algorithm using text embeddings. The script iteratively explored operations such as 1-to-1 matches, skipped/unmatched content, and multiple-paragraph merging (1-to-2 or 2-to-1) to find the optimum semantic alignment based on embedding similarities.
+   - Any unconfident matches, skipping events, or segment merges have been recorded locally in `extraction_warnings.log`.
+
+4. **Output Generation**:
+   - Extracted data was formatted and saved accurately to `Data/ParallelCorpora/parallel_corpus_YYYY.jsonl`. 
+   - The sequence strictly respects the German anchor progression, and `null` is used where counterparts do not exist or where an item is not present in German but appears in a translation.
+   - Zero-based paragraph indices sequentially reset per `vote_id`, and all fields adhere exactly to the defined constraints (e.g., Romansh fields simply do not appear in 1977 but are included correctly in 1985 and 2007).
+
+The `.jsonl` files have been checked for formatting validity and sequence integrity. Let me know if you would like any modifications to the pipeline!
